@@ -114,9 +114,9 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Svelte Podcasts
 
-Svelte Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/svelte-radio/id1493425089) | [Spotify](https://open.spotify.com/show/1w2YTX6UNNqD7K82GDyquT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3N2ZWx0ZS1yYWRpbw==) | [Web](https://www.svelteradio.com/)
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Svelte Radio | [Apple](https://podcasts.apple.com/us/podcast/svelte-radio/id1493425089) | [Spotify](https://open.spotify.com/show/1w2YTX6UNNqD7K82GDyquT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3N2ZWx0ZS1yYWRpbw==) | [Web](https://www.svelteradio.com/) |
 
 ## JAMStack Podcasts
 
