@@ -105,16 +105,12 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Views on Vue | [Apple](https://podcasts.apple.com/us/podcast/views-on-vue/id1364741105) | [Spotify](https://open.spotify.com/show/5ewAN7ghB7GTTRz0Ohm7Ks?si=MT3NUGiIQjuKDL3H29AZJA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS92aWV3cy1vbi12dWUucnNz) | [Web](https://devchat.tv/views-on-vue/) |
 | Enjoy the Vue | [Apple](https://podcasts.apple.com/us/podcast/enjoy-the-vue/id1498529055) | [Spotify](https://open.spotify.com/show/2LxL5uArd430026TIs591o?si=plPaFCpWSpuuXVTBWHvUww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9lbmpveS10aGUtdnVlL3Jzcw) | [Web](https://enjoythevue.io/episodes/) |
 
-
 ## Angular Podcasts
 
-Adventures in Angular
-
-[Apple](https://podcasts.apple.com/us/podcast/adventures-in-angular/id1238024888) | [Spotify](https://open.spotify.com/show/6ghYCZ2j6Wqz7O0QBRFqZd?si=yEwrLYBoTeqRbd0YWXXxpg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9BZHZlbnR1cmVzSW5Bbmd1bGFyLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwj44MnfyODtAhUAAAAAHQAAAAAQBQ) | [Web](https://devchat.tv/podcasts/adv-in-angular/)
-
-Angular Air
-
-[Apple](https://podcasts.apple.com/us/podcast/angular-air/id940806858) | [Spotify](https://open.spotify.com/show/3THWJ15Ni9LfdqnS9x5og5?si=KFSmY4ZORQiKrXg2KxqLFA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmd1bGFyYWlyLnBvZGJlYW4uY29tL2ZlZWQv) | [Web](https://angularair.com/)
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Adventures in Angular | [Apple](https://podcasts.apple.com/us/podcast/adventures-in-angular/id1238024888) | [Spotify](https://open.spotify.com/show/6ghYCZ2j6Wqz7O0QBRFqZd?si=yEwrLYBoTeqRbd0YWXXxpg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9BZHZlbnR1cmVzSW5Bbmd1bGFyLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwj44MnfyODtAhUAAAAAHQAAAAAQBQ) | [Web](https://devchat.tv/podcasts/adv-in-angular/) |
+| Angular Air | [Apple](https://podcasts.apple.com/us/podcast/angular-air/id940806858) | [Spotify](https://open.spotify.com/show/3THWJ15Ni9LfdqnS9x5og5?si=KFSmY4ZORQiKrXg2KxqLFA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmd1bGFyYWlyLnBvZGJlYW4uY29tL2ZlZWQv) | [Web](https://angularair.com/) |
 
 ## Svelte Podcasts
 
