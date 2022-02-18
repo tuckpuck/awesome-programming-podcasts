@@ -90,35 +90,21 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## React Podcasts
 
-React Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/react-podcast/id1341969432) | [Spotify](https://open.spotify.com/show/0HfSakJOFwFEa0ujCEK1pO?si=SmiWIFjRS9STgY55ca3sBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Kb1IyOG83OQ) | [Web](https://reactpodcast.com/)
-
-React Roundup
-
-[Apple](https://podcasts.apple.com/us/podcast/react-round-up/id1364741140) | [Spotify](https://open.spotify.com/show/3SV6RRWsJ1d6lDZDqREEdt?si=UkK697c-TeSdFABLmftEgg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9yZWFjdC1yb3VuZC11cC5yc3M) | [Web](https://devchat.tv/react-round-up/)
-
-React Delivery
-
-[Apple](https://podcasts.apple.com/us/podcast/react-delivery/id1470020818) | [Spotify](https://open.spotify.com/show/0M9fmFsnDeDOfNUb78jbm6?si=Fl4xPrXDRCWx2BaFow9LSQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9fMFlMYWhyYg) | [Web](https://www.listennotes.com/podcasts/react-delivery-conlin-durbin-dzuSE3QcnkD/)
-
-React Native Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/react-native-radio/id1058647602) | [Spotify](https://open.spotify.com/show/28hPRLml3FbP14FCYtlOvg?si=wKKgFQTOSriJGe6GipN2Cg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9oRUlfZjlEeA) | [Web](https://www.reactnativeradio.com/)
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| React Podcast | [Apple](https://podcasts.apple.com/us/podcast/react-podcast/id1341969432) | [Spotify](https://open.spotify.com/show/0HfSakJOFwFEa0ujCEK1pO?si=SmiWIFjRS9STgY55ca3sBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Kb1IyOG83OQ) | [Web](https://reactpodcast.com/) |
+| React Roundup | [Apple](https://podcasts.apple.com/us/podcast/react-round-up/id1364741140) | [Spotify](https://open.spotify.com/show/3SV6RRWsJ1d6lDZDqREEdt?si=UkK697c-TeSdFABLmftEgg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9yZWFjdC1yb3VuZC11cC5yc3M) | [Web](https://devchat.tv/react-round-up/) |
+| React Delivery | [Apple](https://podcasts.apple.com/us/podcast/react-delivery/id1470020818) | [Spotify](https://open.spotify.com/show/0M9fmFsnDeDOfNUb78jbm6?si=Fl4xPrXDRCWx2BaFow9LSQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9fMFlMYWhyYg) | [Web](https://www.listennotes.com/podcasts/react-delivery-conlin-durbin-dzuSE3QcnkD/) |
+| React Native Radio | [Apple](https://podcasts.apple.com/us/podcast/react-native-radio/id1058647602) | [Spotify](https://open.spotify.com/show/28hPRLml3FbP14FCYtlOvg?si=wKKgFQTOSriJGe6GipN2Cg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9oRUlfZjlEeA) | [Web](https://www.reactnativeradio.com/) |
 
 ## Vue Podcasts
 
-The Official Vue News
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| The Official Vue News | [Apple](https://podcasts.apple.com/us/podcast/the-official-vue-news/id1329151772) | [Spotify](https://open.spotify.com/show/5vtKGHKvU9q5uR0HKOOigj?si=siJY5prcS7uS1naki-X22A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly92dWVuZXdzLmZpcmVzaWRlLmZtL3Jzcw) | [Web](https://news.vuejs.org/) |
+| Views on Vue | [Apple](https://podcasts.apple.com/us/podcast/views-on-vue/id1364741105) | [Spotify](https://open.spotify.com/show/5ewAN7ghB7GTTRz0Ohm7Ks?si=MT3NUGiIQjuKDL3H29AZJA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS92aWV3cy1vbi12dWUucnNz) | [Web](https://devchat.tv/views-on-vue/) |
+| Enjoy the Vue | [Apple](https://podcasts.apple.com/us/podcast/enjoy-the-vue/id1498529055) | [Spotify](https://open.spotify.com/show/2LxL5uArd430026TIs591o?si=plPaFCpWSpuuXVTBWHvUww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9lbmpveS10aGUtdnVlL3Jzcw) | [Web](https://enjoythevue.io/episodes/) |
 
-[Apple](https://podcasts.apple.com/us/podcast/the-official-vue-news/id1329151772) | [Spotify](https://open.spotify.com/show/5vtKGHKvU9q5uR0HKOOigj?si=siJY5prcS7uS1naki-X22A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly92dWVuZXdzLmZpcmVzaWRlLmZtL3Jzcw) | [Web](https://news.vuejs.org/)
-
-Views on Vue
-
-[Apple](https://podcasts.apple.com/us/podcast/views-on-vue/id1364741105) | [Spotify](https://open.spotify.com/show/5ewAN7ghB7GTTRz0Ohm7Ks?si=MT3NUGiIQjuKDL3H29AZJA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS92aWV3cy1vbi12dWUucnNz) | [Web](https://devchat.tv/views-on-vue/)
-
-Enjoy the Vue
-
-[Apple](https://podcasts.apple.com/us/podcast/enjoy-the-vue/id1498529055) | [Spotify](https://open.spotify.com/show/2LxL5uArd430026TIs591o?si=plPaFCpWSpuuXVTBWHvUww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9lbmpveS10aGUtdnVlL3Jzcw) | [Web](https://enjoythevue.io/episodes/)
 
 ## Angular Podcasts
 
