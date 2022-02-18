@@ -73,9 +73,12 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## CSS Podcasts
 
-The CSS Podcast
+| Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| The CSS Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-css-podcast/id1501895136) | [Spotify](https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN?si=iVgGJN7WTw6mi3wfkgVXLQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVjc3Nwb2RjYXN0LmxpYnN5bi5jb20vcnNz) | [Web](https://thecsspodcast.libsyn.com/) |
 
-[Apple](https://podcasts.apple.com/us/podcast/the-css-podcast/id1501895136) | [Spotify](https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN?si=iVgGJN7WTw6mi3wfkgVXLQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVjc3Nwb2RjYXN0LmxpYnN5bi5jb20vcnNz) | [Web](https://thecsspodcast.libsyn.com/)
+
+
 
 ## JavaScript Podcasts
 
