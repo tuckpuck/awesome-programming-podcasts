@@ -77,34 +77,16 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | The CSS Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-css-podcast/id1501895136) | [Spotify](https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN?si=iVgGJN7WTw6mi3wfkgVXLQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVjc3Nwb2RjYXN0LmxpYnN5bi5jb20vcnNz) | [Web](https://thecsspodcast.libsyn.com/) |
 
-
-
-
 ## JavaScript Podcasts
 
-Web Rush
-
-[Apple](https://podcasts.apple.com/us/podcast/web-rush/id1437407176) | [Spotify](https://open.spotify.com/show/2fpykNR5dya5c4V8WTPldw?si=re4VtXE3RZinC9J9K1hM3Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS90T2pOWGVjNQ==) | [Web](https://www.webrush.io/)
-
-JS Party
-
-[Apple](https://podcasts.apple.com/us/podcast/js-party/id1209616598) | [Spotify](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=6EUrSQJXRkirBvCQ8tUFMA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2pzcGFydHkvZmVlZA) | [Web](https://changelog.com/jsparty)
-
-JavaScript Jabber
-
-[Apple](https://podcasts.apple.com/us/podcast/javascript-jabber/id1237401284) | [Spotify](https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri?si=vOs-78brTpS_mmya9ZqFWQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9qcy1qYWJiZXIucnNz) | [Web](https://devchat.tv/podcasts/js-jabber/)
-
-BxJS Weekly
-
-[Apple](https://podcasts.apple.com/us/podcast/bxjs-weekly/id1441956525) | [Spotify](https://open.spotify.com/show/56PYavlyYPyoy9LvkDRVAH?si=XtNMdRCjSRmQ_3iOqeNbjA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lODgwNmY0L3BvZGNhc3QvcnNz) | [Web](https://bxjs.dev/)
-
-TalkScript
-
-[Apple](https://podcasts.apple.com/us/podcast/talkscript/id1072291074) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc2l0ZXBlbi5jb20vZmVlZC9wb2RjYXN0Lw) | [Web](https://talkscript.sitepen.com/)
-
-The Vanilla JS Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-vanilla-js-podcast/id1364574460) | [Spotify](https://open.spotify.com/show/2jfWVEgKGZMazgou1hXH1R?si=CADTUWowRHmnTUj1e7PwHg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9nb21ha2V0aGluZ3MuY29tL3BvZGNhc3QvZmVlZC5yc3M) | [Web](https://vanillajspodcast.com/)
+| Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Web Rush | [Apple](https://podcasts.apple.com/us/podcast/web-rush/id1437407176) | [Spotify](https://open.spotify.com/show/2fpykNR5dya5c4V8WTPldw?si=re4VtXE3RZinC9J9K1hM3Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS90T2pOWGVjNQ==) | [Web](https://www.webrush.io/) |
+| JS Party | [Apple](https://podcasts.apple.com/us/podcast/js-party/id1209616598) | [Spotify](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=6EUrSQJXRkirBvCQ8tUFMA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2pzcGFydHkvZmVlZA) | [Web](https://changelog.com/jsparty) |
+| JavaScript Jabber | [Apple](https://podcasts.apple.com/us/podcast/javascript-jabber/id1237401284) | [Spotify](https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri?si=vOs-78brTpS_mmya9ZqFWQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9qcy1qYWJiZXIucnNz) | [Web](https://devchat.tv/podcasts/js-jabber/) |
+| BxJS Weekly | [Apple](https://podcasts.apple.com/us/podcast/bxjs-weekly/id1441956525) | [Spotify](https://open.spotify.com/show/56PYavlyYPyoy9LvkDRVAH?si=XtNMdRCjSRmQ_3iOqeNbjA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lODgwNmY0L3BvZGNhc3QvcnNz) | [Web](https://bxjs.dev/) |
+| TalkScript | [Apple](https://podcasts.apple.com/us/podcast/talkscript/id1072291074) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc2l0ZXBlbi5jb20vZmVlZC9wb2RjYXN0Lw) | [Web](https://talkscript.sitepen.com/) |
+| The Vanilla JS Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-vanilla-js-podcast/id1364574460) | [Spotify](https://open.spotify.com/show/2jfWVEgKGZMazgou1hXH1R?si=CADTUWowRHmnTUj1e7PwHg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9nb21ha2V0aGluZ3MuY29tL3BvZGNhc3QvZmVlZC5yc3M) | [Web](https://vanillajspodcast.com/) |
 
 ## React Podcasts
 
