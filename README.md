@@ -120,17 +120,11 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## JAMStack Podcasts
 
-That's my JAMstack
-
-[Apple](https://podcasts.apple.com/us/podcast/thats-my-jamstack/id1472756044) | [Spotify](https://open.spotify.com/show/7G3H4MP5mLKlhMKBpSwWSL?si=uMTzguKWSMemDoL1lPCEYg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC90aGF0cy1teS1qYW1zdGFjaw) | [Web](https://thatsmyjamstack.com/)
-
-JAMStack Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/jamstack-radio/id1148797643) | [Spotify](https://open.spotify.com/show/08neivnJH1hLnYD79HUkfr?si=WfreDFYuTSSNz0ZO5ME9tA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaGVhdnliaXQuY29tL2NhdGVnb3J5L2xpYnJhcnkvcG9kY2FzdHMvamFtc3RhY2stcmFkaW8vZmVlZC8) | [Web](https://www.heavybit.com/library/podcasts/jamstack-radio/)
-
-Remotely Interesting
-
-[Apple](https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876) | [Spotify](https://open.spotify.com/show/3EM9APeoSjJe4yfIaVfCVO?si=AHYazohiTTe4yFVZyjThgA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3JlbW90ZWx5LWludGVyZXN0aW5n) | [Web](https://remotelyinteresting.netlify.com/)
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| That's my JAMstack | [Apple](https://podcasts.apple.com/us/podcast/thats-my-jamstack/id1472756044) | [Spotify](https://open.spotify.com/show/7G3H4MP5mLKlhMKBpSwWSL?si=uMTzguKWSMemDoL1lPCEYg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC90aGF0cy1teS1qYW1zdGFjaw) | [Web](https://thatsmyjamstack.com/) |
+| JAMStack Radio | [Apple](https://podcasts.apple.com/us/podcast/jamstack-radio/id1148797643) | [Spotify](https://open.spotify.com/show/08neivnJH1hLnYD79HUkfr?si=WfreDFYuTSSNz0ZO5ME9tA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaGVhdnliaXQuY29tL2NhdGVnb3J5L2xpYnJhcnkvcG9kY2FzdHMvamFtc3RhY2stcmFkaW8vZmVlZC8) | [Web](https://www.heavybit.com/library/podcasts/jamstack-radio/) |
+| Remotely Interesting | [Apple](https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876) | [Spotify](https://open.spotify.com/show/3EM9APeoSjJe4yfIaVfCVO?si=AHYazohiTTe4yFVZyjThgA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3JlbW90ZWx5LWludGVyZXN0aW5n) | [Web](https://remotelyinteresting.netlify.com/) |
 
 ## WordPress Podcasts
 
