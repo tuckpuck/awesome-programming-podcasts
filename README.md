@@ -4,9 +4,10 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Learn to Code Podcasts
 
-<h3>Learn to Code With Me</h3>
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Learn to Code with Me  | [Apple](https://podcasts.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Spotify](https://open.spotify.com/show/6Pz9YOO4XJAL2DRt7RauI3?si=NtMWkLGjTEe0mWzTmc2MFg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sZWFybnRvY29kZXdpdGhtZS5saWJzeW4uY29tL3Jzcw) | [Web](https://learntocodewith.me/podcast/)
 
-<span>[Apple](https://podcasts.apple.com/us/podcast/learn-to-code-with-me/id1106620664)•[Spotify](https://open.spotify.com/show/6Pz9YOO4XJAL2DRt7RauI3?si=NtMWkLGjTEe0mWzTmc2MFg)•[Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sZWFybnRvY29kZXdpdGhtZS5saWJzeW4uY29tL3Jzcw)•[Web](https://learntocodewith.me/podcast/)</span>
 
 <h3>The freeCodeCamp Podcast</h3>
 
