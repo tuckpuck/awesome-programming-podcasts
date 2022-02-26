@@ -127,115 +127,37 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Remotely Interesting | [Apple](https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876) | [Spotify](https://open.spotify.com/show/3EM9APeoSjJe4yfIaVfCVO?si=AHYazohiTTe4yFVZyjThgA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3JlbW90ZWx5LWludGVyZXN0aW5n) | [Web](https://remotelyinteresting.netlify.com/) |
 
 ## WordPress Podcasts
-
-Dev Branch
-
-[Apple](https://podcasts.apple.com/us/podcast/dev-branch-weekly-wordpress-web-development-talk-show/id1500351968) | [Spotify](https://open.spotify.com/show/6n4O74QhHrNeOk5m3fxpoc?si=dYSXAoY6SAivz4ijuTauSw) | ~~Google~~ | [Web](https://www.podparadise.com/Podcast/1500351968)
-
-Pricing WordPress
-
-~~Apple~~ | [Spotify](https://open.spotify.com/show/1TfmDngF3wMRoQA9HtKCPe?si=_J17sgJPRN-qbwMHytH5dg) | ~~Google~~ | [Web](https://www.listennotes.com/podcasts/pricing-wordpress-keith-devon-p-QVuEsC3Ai/)
-
-Women in WP
-
-[Apple](https://podcasts.apple.com/us/podcast/women-in-wp-wordpress-podcast/id1454330151) | [Spotify](https://open.spotify.com/show/2bQfD7UrjrK4gCEOCCe0e5?si=fFNKXaPNQWSLk5P8ApH5Ww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93b21lbmlud3AuY29tL3BvZGNhc3QvZmVlZC8) | [Web](https://womeninwp.com/)
-
-The #PressForward Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-pressforward-podcast/id1370594863) | [Spotify](https://open.spotify.com/show/6go6ksNEjk1btQ3be7wele?si=DGV2-AO2TEmteQ7ZHtpz2w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBpcHBhLmlvL3B1YmxpYy9zaG93cy81YWNjOTMyMjc0N2UzNDc5MTA2ZDc3ZjU) | [Web](https://wpandup.org/podcasts/)
-
-Smart Web Creators
-
-[Apple](https://podcasts.apple.com/us/podcast/smart-web-creators-podcast-for-wordpress-agency-entrepreneurs/id1429506241) | [Spotify](https://open.spotify.com/show/2dkCZjvw7si4Ch8zWugLi3) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zbWFydHdlYmNyZWF0b3JzLmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://smartwebcreators.com/)
-
-WPMRR WordPress Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/wpmrr-wordpress-podcast/id1437721489) | ~~Spotify~~ | 
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Dev Branch | [Apple](https://podcasts.apple.com/us/podcast/dev-branch-weekly-wordpress-web-development-talk-show/id1500351968) | [Spotify](https://open.spotify.com/show/6n4O74QhHrNeOk5m3fxpoc?si=dYSXAoY6SAivz4ijuTauSw) |  | [Web](https://www.podparadise.com/Podcast/1500351968)
+| Pricing WordPress |  | [Spotify](https://open.spotify.com/show/1TfmDngF3wMRoQA9HtKCPe?si=_J17sgJPRN-qbwMHytH5dg) |  | [Web](https://www.listennotes.com/podcasts/pricing-wordpress-keith-devon-p-QVuEsC3Ai/)
+| Women in WP | [Apple](https://podcasts.apple.com/us/podcast/women-in-wp-wordpress-podcast/id1454330151) | [Spotify](https://open.spotify.com/show/2bQfD7UrjrK4gCEOCCe0e5?si=fFNKXaPNQWSLk5P8ApH5Ww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93b21lbmlud3AuY29tL3BvZGNhc3QvZmVlZC8) | [Web](https://womeninwp.com/)
+| The #PressForward Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-pressforward-podcast/id1370594863) | [Spotify](https://open.spotify.com/show/6go6ksNEjk1btQ3be7wele?si=DGV2-AO2TEmteQ7ZHtpz2w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBpcHBhLmlvL3B1YmxpYy9zaG93cy81YWNjOTMyMjc0N2UzNDc5MTA2ZDc3ZjU) | [Web](https://wpandup.org/podcasts/)
+| Smart Web Creators | [Apple](https://podcasts.apple.com/us/podcast/smart-web-creators-podcast-for-wordpress-agency-entrepreneurs/id1429506241) | [Spotify](https://open.spotify.com/show/2dkCZjvw7si4Ch8zWugLi3) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zbWFydHdlYmNyZWF0b3JzLmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://smartwebcreators.com/)
+| WPMRR WordPress Podcast | [Apple](https://podcasts.apple.com/us/podcast/wpmrr-wordpress-podcast/id1437721489) |  | 
 [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cG1yci5saWJzeW4uY29tL3Jzcw) | [Web](https://wpmrr.com/)
+| WP Elevation WordPress Business Podcast | [Apple](https://podcasts.apple.com/us/podcast/wp-elevation-wordpress-business-podcast/id710386388) | [Spotify](https://open.spotify.com/show/7FuJJxcVm1X15kaxv0wD6D?si=0CE_7KwQRAyNnv9BitcZwQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvOGQzM2YyM2ItNjgwZi00ZWI3LTk3NDktYTZiZTAwN2Q1NWUxLzgxOTBhYTRjLWE1YTEtNDQ5MS04MzU5LWE2YmUwMDgwODQzYS8zYjQyNjc4MC05OWJhLTQxYzAtOTI4NC1hNmJlMDA4MDg0NDAvcG9kY2FzdC5yc3M) | [Web](https://www.wpelevation.com/podcast/)
+| Matt Report - A WordPress Podcast for Digital Business Owners | [Apple](https://podcasts.apple.com/us/podcast/matt-report-wordpress-podcast-for-digital-business/id604759202) | [Spotify](https://open.spotify.com/show/6p0gQqRE1xDVCHvCawe9er?si=B6Dhof1PRBGcSrN7kpXruQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tYXR0cmVwb3J0LmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://mattreport.com/)
+| Kitchen Sink WordPress | [Apple](https://podcasts.apple.com/us/podcast/podcast-kitchen-sink-wordpress/id862210489) | [Spotify](https://open.spotify.com/show/22gxaY3J4Q8rh1EYEFXhJK?si=6ikbL9TAQHGO7GFat9gGhQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9raXRjaGVuc2lua3dwLmNvbS9mZWVkLw) | [Web](https://kitchensinkwp.com/)
+| WordPress Resource: Your Website Engineer with Dustin Hartzler | [Apple](https://podcasts.apple.com/us/podcast/wordpress-resource-your-website-engineer-dustin-hartzler/id410342775) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL1lvdXJXZWJzaXRlRW5naW5lZXI) | [Web](https://yourwebsiteengineer.com/)
+| WordPress Post Status Draft Podcast | [Apple](https://podcasts.apple.com/us/podcast/wordpress-post-status-draft-podcast/id976403008) | [Spotify](https://open.spotify.com/show/1m3xwXbe0MG5BzFVPtB0A7?si=mvZaf_rRQsK4divGGY-9eQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8ySkU5c2M4UA) | [Web](https://poststatus.com/)
+| WP the Podcast | [Apple](https://podcasts.apple.com/us/podcast/wp-podcast-wordpress-business-marketing-tips-for-wordpress/id1286571550) | [Spotify](https://open.spotify.com/show/6FJsxTMzKxTTDp7k590XDl?si=h7EsbnMmRT-ZToNkLiJnyA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cGdlYXJzLmNvbS9wb2RjYXN0L2ZlZWQvcG9kY2FzdC8) | [Web](https://wpgears.com/podcast/)
+| WPwatercooler | [Apple](https://podcasts.apple.com/us/podcast/wpwatercooler-weekly-wordpress-talk-show/id566009415) | [Spotify](https://open.spotify.com/show/007GGrMczCrPUMMXIwC2Nb) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHdjLXdwd2F0ZXJjb29sZXIubGlic3luLmNvbS9yc3M) | [Web](https://www.wpwatercooler.com/)
+| WP Builds | [Apple](https://podcasts.apple.com/us/podcast/wp-builds/id1177512227) | [Spotify](https://open.spotify.com/show/4vjPvbD7MNr4DX4UdJWDwt) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cGJ1aWxkcy5jb20vZmVlZC9wb2RjYXN0) | [Web](https://wpbuilds.com/)
+| Press This | [Apple](https://podcasts.apple.com/us/podcast/press-this-wordpress-community-podcast/id1483630576) | [Spotify](https://open.spotify.com/show/3YNSmzQsstCmfpJty2AL65) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjYzNTAyMy9lcGlzb2Rlcy9mZWVk) | [Web](https://www.iheart.com/podcast/1248-press-this-wordpress-comm-71064871/)
+| BlogAid WordPress Tips Tuesday | [Apple](https://podcasts.apple.com/us/podcast/blogaid-wordpress-tips-tuesday/id380971273) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ibG9nYWlkLm5ldC9mZWVkL3BvZGNhc3Qv) | [Web](https://blogaid.net/blog/)
+| Brian on WP - A WordPress Podcast | [Apple](https://podcasts.apple.com/us/podcast/brian-on-wp-a-wordpress-podcast/id1535956411) | [Spotify](https://open.spotify.com/show/0d8FiRNVJSHFMCEI66HaLB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2JyaWFub253cA) | [Web](https://brianli.com/)
+| Do the Woo | [Apple](https://podcasts.apple.com/us/podcast/do-the-woo-a-woocommerce-podcast/id1092157686) | [Spotify](https://open.spotify.com/show/1jF5hPjfuNvVk7evAzpDON) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kb3RoZXdvby5pby9mZWVkL3BvZGNhc3Qvd29vY29tbWVyY2U) | [Web](https://dothewoo.io/)
+| Elementor Talks | [Apple](https://podcasts.apple.com/us/podcast/elementor-talks/id1413778651) | [Spotify](https://open.spotify.com/show/4jmWduvbX3g7cFvz2SG40d) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NWEzZGE0L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/elementor-talks)
+| LMScast with Chris Badgett | [Apple](https://podcasts.apple.com/gb/podcast/lmscast-with-chris-badgett/id919913453) | [Spotify](https://open.spotify.com/show/2if9pTv2DcnsT7w3DXVYiK) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LmxpZnRlcmxtcy5jb20vY2F0ZWdvcnkvZXBpc29kZXMvZmVlZC8) | [Web](https://podcast.lifterlms.com/)
+| The WordPress Photography Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-wordpress-photography-podcast/id1071150851) | [Spotify](https://open.spotify.com/show/4jLkiUqH3a8s7qgE48obMl) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaW1hZ2VseS5jb20vZmVlZC9wb2RjYXN0) | [Web](https://www.imagely.com/)
+| Think Like a Hacker with Wordfence | [Apple](https://podcasts.apple.com/us/podcast/think-like-a-hacker-with-wordfence/id1455544816) | [Spotify](https://open.spotify.com/show/4JN3SfhRpEsWQNzoZNWBaJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93b3JkZmVuY2UubGlic3luLmNvbS9yc3M) | [Web](https://www.wordfence.com/)
+| WordPress for SMEs and High-Scale Platforms | [Apple](https://podcasts.apple.com/us/podcast/wordpress-for-smes-and-high-scale-platforms/id1370997173) | [Spotify](https://open.spotify.com/show/4Wj38h0gc8nQKgW21m4RAp) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNDQ2OTdjL3BvZGNhc3QvcnNz) | [Web](https://mariopeshev.com/)
+| WordPress Plugins from A to Z | [Apple](https://podcasts.apple.com/podcast/id398954920) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHBsdWdpbnNhdG96LmNvbS9mZWVkL3BvZGNhc3Qv) | [Web](https://wppluginsatoz.com/)
+| WordPress Web Development |  |  | [Google](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMjlmMDA1NWZlMTNjNDgzZjliYTNmYzIyNDEzZGI2NjgueG1s) | [Web](https://castbox.fm/channel/id2370742)
+| WP Wednesday Podcast | [Apple](https://podcasts.apple.com/us/podcast/wp-wednesday-podcast/id1148402442) | [Spotify](https://open.spotify.com/show/2ye4hiUf2sLtLYTpgi7xuP) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2JlYml6enlicmVhay9mZWVkLnhtbA) | [Web](https://bebizzybreak.podbean.com/)
+| WP-Tonic Show A WordPress Podcast | [Apple](https://podcasts.apple.com/podcast/id893083124) | [Spotify](https://open.spotify.com/show/1vAGmxUJjHM0iPb45hu7pg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHRvbmljLmxpYnN5bi5jb20vcnNz) | [Web](https://www.wp-tonic.com/podcast-episodes/)
 
-WP Elevation WordPress Business Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/wp-elevation-wordpress-business-podcast/id710386388) | [Spotify](https://open.spotify.com/show/7FuJJxcVm1X15kaxv0wD6D?si=0CE_7KwQRAyNnv9BitcZwQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvOGQzM2YyM2ItNjgwZi00ZWI3LTk3NDktYTZiZTAwN2Q1NWUxLzgxOTBhYTRjLWE1YTEtNDQ5MS04MzU5LWE2YmUwMDgwODQzYS8zYjQyNjc4MC05OWJhLTQxYzAtOTI4NC1hNmJlMDA4MDg0NDAvcG9kY2FzdC5yc3M) | [Web](https://www.wpelevation.com/podcast/)
-
-Matt Report - A WordPress Podcast for Digital Business Owners
-
-[Apple](https://podcasts.apple.com/us/podcast/matt-report-wordpress-podcast-for-digital-business/id604759202) | [Spotify](https://open.spotify.com/show/6p0gQqRE1xDVCHvCawe9er?si=B6Dhof1PRBGcSrN7kpXruQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tYXR0cmVwb3J0LmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://mattreport.com/)
-
-Kitchen Sink WordPress
-
-[Apple](https://podcasts.apple.com/us/podcast/podcast-kitchen-sink-wordpress/id862210489) | [Spotify](https://open.spotify.com/show/22gxaY3J4Q8rh1EYEFXhJK?si=6ikbL9TAQHGO7GFat9gGhQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9raXRjaGVuc2lua3dwLmNvbS9mZWVkLw) | [Web](https://kitchensinkwp.com/)
-
-WordPress Resource: Your Website Engineer with Dustin Hartzler
-
-[Apple](https://podcasts.apple.com/us/podcast/wordpress-resource-your-website-engineer-dustin-hartzler/id410342775) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL1lvdXJXZWJzaXRlRW5naW5lZXI) | [Web](https://yourwebsiteengineer.com/)
-
-WordPress | Post Status Draft Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/wordpress-post-status-draft-podcast/id976403008) | [Spotify](https://open.spotify.com/show/1m3xwXbe0MG5BzFVPtB0A7?si=mvZaf_rRQsK4divGGY-9eQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8ySkU5c2M4UA) | [Web](https://poststatus.com/)
-
-WP the Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/wp-podcast-wordpress-business-marketing-tips-for-wordpress/id1286571550) | [Spotify](https://open.spotify.com/show/6FJsxTMzKxTTDp7k590XDl?si=h7EsbnMmRT-ZToNkLiJnyA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cGdlYXJzLmNvbS9wb2RjYXN0L2ZlZWQvcG9kY2FzdC8) | [Web](https://wpgears.com/podcast/)
-
-WPwatercooler
-
-[Apple](https://podcasts.apple.com/us/podcast/wpwatercooler-weekly-wordpress-talk-show/id566009415) | [Spotify](https://open.spotify.com/show/007GGrMczCrPUMMXIwC2Nb) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHdjLXdwd2F0ZXJjb29sZXIubGlic3luLmNvbS9yc3M) | [Web](https://www.wpwatercooler.com/)
-
-WP Builds
-
-[Apple](https://podcasts.apple.com/us/podcast/wp-builds/id1177512227) | [Spotify](https://open.spotify.com/show/4vjPvbD7MNr4DX4UdJWDwt) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cGJ1aWxkcy5jb20vZmVlZC9wb2RjYXN0) | [Web](https://wpbuilds.com/)
-
-Press This
-
-[Apple](https://podcasts.apple.com/us/podcast/press-this-wordpress-community-podcast/id1483630576) | [Spotify](https://open.spotify.com/show/3YNSmzQsstCmfpJty2AL65) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjYzNTAyMy9lcGlzb2Rlcy9mZWVk) | [Web](https://www.iheart.com/podcast/1248-press-this-wordpress-comm-71064871/)
-
-BlogAid WordPress Tips Tuesday
-
-[Apple](https://podcasts.apple.com/us/podcast/blogaid-wordpress-tips-tuesday/id380971273) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ibG9nYWlkLm5ldC9mZWVkL3BvZGNhc3Qv) | [Web](https://blogaid.net/blog/)
-
-Brian on WP - A WordPress Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/brian-on-wp-a-wordpress-podcast/id1535956411) | [Spotify](https://open.spotify.com/show/0d8FiRNVJSHFMCEI66HaLB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2JyaWFub253cA) | [Web](https://brianli.com/)
-
-Do the Woo
-
-[Apple](https://podcasts.apple.com/us/podcast/do-the-woo-a-woocommerce-podcast/id1092157686) | [Spotify](https://open.spotify.com/show/1jF5hPjfuNvVk7evAzpDON) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kb3RoZXdvby5pby9mZWVkL3BvZGNhc3Qvd29vY29tbWVyY2U) | [Web](https://dothewoo.io/)
-
-Elementor Talks
-
-[Apple](https://podcasts.apple.com/us/podcast/elementor-talks/id1413778651) | [Spotify](https://open.spotify.com/show/4jmWduvbX3g7cFvz2SG40d) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81NWEzZGE0L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/elementor-talks)
-
-LMScast with Chris Badgett
-
-[Apple](https://podcasts.apple.com/gb/podcast/lmscast-with-chris-badgett/id919913453) | [Spotify](https://open.spotify.com/show/2if9pTv2DcnsT7w3DXVYiK) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LmxpZnRlcmxtcy5jb20vY2F0ZWdvcnkvZXBpc29kZXMvZmVlZC8) | [Web](https://podcast.lifterlms.com/)
-
-The WordPress Photography Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-wordpress-photography-podcast/id1071150851) | [Spotify](https://open.spotify.com/show/4jLkiUqH3a8s7qgE48obMl) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaW1hZ2VseS5jb20vZmVlZC9wb2RjYXN0) | [Web](https://www.imagely.com/)
-
-Think Like a Hacker with Wordfence
-
-[Apple](https://podcasts.apple.com/us/podcast/think-like-a-hacker-with-wordfence/id1455544816) | [Spotify](https://open.spotify.com/show/4JN3SfhRpEsWQNzoZNWBaJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93b3JkZmVuY2UubGlic3luLmNvbS9yc3M) | [Web](https://www.wordfence.com/)
-
-WordPress for SMEs and High-Scale Platforms
-
-[Apple](https://podcasts.apple.com/us/podcast/wordpress-for-smes-and-high-scale-platforms/id1370997173) | [Spotify](https://open.spotify.com/show/4Wj38h0gc8nQKgW21m4RAp) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNDQ2OTdjL3BvZGNhc3QvcnNz) | [Web](https://mariopeshev.com/)
-
-WordPress Plugins from A to Z
-
-[Apple](https://podcasts.apple.com/podcast/id398954920) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHBsdWdpbnNhdG96LmNvbS9mZWVkL3BvZGNhc3Qv) | [Web](https://wppluginsatoz.com/)
-
-WordPress Web Development
-
-~~Apple~~ | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMjlmMDA1NWZlMTNjNDgzZjliYTNmYzIyNDEzZGI2NjgueG1s) | [Web](https://castbox.fm/channel/id2370742)
-
-WP Wednesday Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/wp-wednesday-podcast/id1148402442) | [Spotify](https://open.spotify.com/show/2ye4hiUf2sLtLYTpgi7xuP) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2JlYml6enlicmVhay9mZWVkLnhtbA) | [Web](https://bebizzybreak.podbean.com/)
-
-WP-Tonic Show A WordPress Podcast
-
-[Apple](https://podcasts.apple.com/podcast/id893083124) | [Spotify](https://open.spotify.com/show/1vAGmxUJjHM0iPb45hu7pg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHRvbmljLmxpYnN5bi5jb20vcnNz) | [Web](https://www.wp-tonic.com/podcast-episodes/)
 
 ## Web Development Podcasts
 
