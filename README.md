@@ -134,8 +134,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Women in WP | [Apple](https://podcasts.apple.com/us/podcast/women-in-wp-wordpress-podcast/id1454330151) | [Spotify](https://open.spotify.com/show/2bQfD7UrjrK4gCEOCCe0e5?si=fFNKXaPNQWSLk5P8ApH5Ww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93b21lbmlud3AuY29tL3BvZGNhc3QvZmVlZC8) | [Web](https://womeninwp.com/)
 | The #PressForward Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-pressforward-podcast/id1370594863) | [Spotify](https://open.spotify.com/show/6go6ksNEjk1btQ3be7wele?si=DGV2-AO2TEmteQ7ZHtpz2w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBpcHBhLmlvL3B1YmxpYy9zaG93cy81YWNjOTMyMjc0N2UzNDc5MTA2ZDc3ZjU) | [Web](https://wpandup.org/podcasts/)
 | Smart Web Creators | [Apple](https://podcasts.apple.com/us/podcast/smart-web-creators-podcast-for-wordpress-agency-entrepreneurs/id1429506241) | [Spotify](https://open.spotify.com/show/2dkCZjvw7si4Ch8zWugLi3) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zbWFydHdlYmNyZWF0b3JzLmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://smartwebcreators.com/)
-| WPMRR WordPress Podcast | [Apple](https://podcasts.apple.com/us/podcast/wpmrr-wordpress-podcast/id1437721489) |  | 
-[Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cG1yci5saWJzeW4uY29tL3Jzcw) | [Web](https://wpmrr.com/)
+| WPMRR WordPress Podcast | [Apple](https://podcasts.apple.com/us/podcast/wpmrr-wordpress-podcast/id1437721489) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cG1yci5saWJzeW4uY29tL3Jzcw) | [Web](https://wpmrr.com/)
 | WP Elevation WordPress Business Podcast | [Apple](https://podcasts.apple.com/us/podcast/wp-elevation-wordpress-business-podcast/id710386388) | [Spotify](https://open.spotify.com/show/7FuJJxcVm1X15kaxv0wD6D?si=0CE_7KwQRAyNnv9BitcZwQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvOGQzM2YyM2ItNjgwZi00ZWI3LTk3NDktYTZiZTAwN2Q1NWUxLzgxOTBhYTRjLWE1YTEtNDQ5MS04MzU5LWE2YmUwMDgwODQzYS8zYjQyNjc4MC05OWJhLTQxYzAtOTI4NC1hNmJlMDA4MDg0NDAvcG9kY2FzdC5yc3M) | [Web](https://www.wpelevation.com/podcast/)
 | Matt Report - A WordPress Podcast for Digital Business Owners | [Apple](https://podcasts.apple.com/us/podcast/matt-report-wordpress-podcast-for-digital-business/id604759202) | [Spotify](https://open.spotify.com/show/6p0gQqRE1xDVCHvCawe9er?si=B6Dhof1PRBGcSrN7kpXruQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tYXR0cmVwb3J0LmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://mattreport.com/)
 | Kitchen Sink WordPress | [Apple](https://podcasts.apple.com/us/podcast/podcast-kitchen-sink-wordpress/id862210489) | [Spotify](https://open.spotify.com/show/22gxaY3J4Q8rh1EYEFXhJK?si=6ikbL9TAQHGO7GFat9gGhQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9raXRjaGVuc2lua3dwLmNvbS9mZWVkLw) | [Web](https://kitchensinkwp.com/)
@@ -160,558 +159,147 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Web Development Podcasts
-
-Syntax.fm
-
-[Apple](https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678) | [Spotify](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnN5bnRheC5mbS9yc3M) | [Web](https://syntax.fm/)
-
-How to Code Well
-
-[Apple](https://podcasts.apple.com/us/podcast/how-to-code-well/id1443159438) | [Spotify](https://open.spotify.com/show/6zapPUKAuSjEZxrKR5fUxW?si=Tu4K2QgDTXyCEFAaGIUYvQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ob3d0b2NvZGV3ZWxsLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ4aUDahcKEwig58-_2eDtAhUAAAAAHQAAAAAQAg) | [Web](https://howtocodewell.fm/)
-
-Frontend First
-
-[Apple](https://podcasts.apple.com/us/podcast/the-embermap-podcast/id1288274408) | [Spotify](https://open.spotify.com/show/2wcxse0NdM4vu5qMCiIzTj?si=gresg41NQR6zFo8V8surCQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zT0pBTW9oUA) | [Web](https://frontendfirst.fm/)
-
-Iteration
-
-[Apple](https://podcasts.apple.com/us/podcast/iteration/id1321529167) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1?si=qEt54czsRLe7yapmvA3xaw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ZbXZIMWF5Qw) | [Web](https://iteration.simplecast.com/)
-
-Undefined
-
-[Apple](https://podcasts.apple.com/us/podcast/the-undefined-podcast/id1451541555) | [Spotify](https://open.spotify.com/show/6Zwfp98CtaR6Wt1qklemEM?si=tWOlXddYT9OCeT1OP788xw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84bGNBMElzNw) | [Web](https://undefined.fm/)
-
-Full Stack Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/full-stack-radio/id931714873) | [Spotify](https://open.spotify.com/show/0Ddvex5OtYOvhyyK6ckG3A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Z1bGwtc3RhY2stcmFkaW8?sa=X&ved=0CAMQ27cFahcKEwj4zaab2uDtAhUAAAAAHQAAAAAQAQo) | [Web](https://fullstackradio.com/)
-
-The Front End
-
-[Apple](https://podcasts.apple.com/us/podcast/the-front-end/id1499349107) | [Spotify](https://open.spotify.com/show/4GuAxptrtY8Es5iHwp09dT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xM2IxMjNhNC9wb2RjYXN0L3Jzcw==) | [Web](https://thefrontendpodcast.site/)
-
-DevMode.fm
-
-[Apple](https://podcasts.apple.com/us/podcast/devmode-fm/id1323364824) | [Spotify](https://open.spotify.com/show/6S1RFgSszQ3Zch7yEPBWaY?si=YSLDeLRrTH28XRogF4iYeQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZtb2RlLmZtL3Jzcw) | [Web](https://devmode.fm/)
-
-HTML All The Things
-
-[Apple](https://podcasts.apple.com/us/podcast/html-all-things-web-development-web-design-small-business/id1412209136) | [Spotify](https://open.spotify.com/show/2MWqU5ZbO69jy3RZ74wgdM?si=VeplfH8mRkuz0DberHjYVw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lmh0bWxhbGx0aGV0aGluZ3MuY29tL2ZlZWQueG1s) | [Web](https://htmlallthethings.podbean.com/)
-
-Egghead.io Developer Chats
-
-[Apple](https://podcasts.apple.com/us/podcast/egghead-io-developer-chats/id1308497805) | [Spotify](https://open.spotify.com/show/4FKWy0vjNbt6uFwAzwd7XF?si=7CQ-ZgJvRL-05zyCjO7RAg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zYVJDTFhWWQ) | [Web](https://egghead.io/) 
-
-ShopTalk
-
-[Apple](https://podcasts.apple.com/us/podcast/shoptalk-podcast-feed/id493890455) | [Spotify](https://open.spotify.com/show/2PUoQB330ft0sTzSNoCPrH?si=lqQCw7RlRvqisSBQUmboOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zaG9wdGFsa3Nob3cuY29tL2ZlZWQvcG9kY2FzdC8) | [Web](https://shoptalkshow.com/)
-
-CodePen
-
-[Apple](https://podcasts.apple.com/us/podcast/codepen-radio/id824437159) | [Spotify](https://open.spotify.com/show/3bw3W59a83518ciCd3ehZV?si=AyVY0c9HReukLT47FgWW8w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ibG9nLmNvZGVwZW4uaW8vZmVlZC9wb2RjYXN0Lw) | [Web](https://blog.codepen.io/)
-
-Script & Style
-
-[Apple](https://podcasts.apple.com/us/podcast/script-style/id1451759603) | [Spotify](https://open.spotify.com/show/4VfqNrAPyQW8Dvbg8eVNsB?si=xF1rqA-vS3OHHb8wgxpeBg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Hb1JHZFI3VQ) | [Web](https://scriptandstyle.simplecast.com/)
-
-Software Engineering Unlocked
-
-[Apple](https://podcasts.apple.com/us/podcast/software-engineering-unlocked/id1477527378) | [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=XeansLOHTAiM7cqAu2GEGA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg) | [Web](https://www.software-engineering-unlocked.com/)
-
-The Drunk Web
-
-[Apple](https://podcasts.apple.com/us/podcast/the-drunk-web/id1044518189) | [Spotify](https://open.spotify.com/show/3XDx61P5EhJi6m94MhHfzY?si=a-ZAMW58TM-1rr5QNXhfVw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83NmYyODM0L3BvZGNhc3QvcnNz) | [Web](https://www.thedrunkweb.com/)
-
-Engineer Soft Skills
-
-[Apple](https://podcasts.apple.com/us/podcast/engineer-soft-skills/id1477343898) | [Spotify](https://open.spotify.com/show/4ZxXP4fMtays3TpVDVeqHA?si=diGF5Fq8TJyRx0YXBczPyg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kMTcxM2M4L3BvZGNhc3QvcnNz?sa=X&ved=0CAQQ27cFahcKEwiwlYbKl_7sAhUAAAAAHQAAAAAQDQ) | [Web](https://anchor.fm/engineersoftskills)
-
-Soft Skills Engineering
-
-[Apple](https://podcasts.apple.com/us/podcast/soft-skills-engineering/id1091341048) | [Spotify](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=tgF9eFj5SZy01jdOrJqSWw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s) | [Web](https://softskills.audio/)
-
-Simple Programmer
-
-[Apple](https://podcasts.apple.com/us/podcast/simple-programmer-podcast/id998357224) | [Spotify](https://open.spotify.com/show/313ln9aNoosocatGZcn2l2?si=WnTz5TW3S2CsG0erEMy-9A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zaW1wbGVwcm9ncmFtbWVyLmxpYnN5bi5jb20vcnNz) | [Web](https://simpleprogrammer.libsyn.com/podcast)
-
-Developer Tea
-
-[Apple](https://podcasts.apple.com/us/podcast/developer-tea/id955596067) | [Spotify](https://open.spotify.com/show/02fM1JHpt9HmHGp482K71b?si=2znSEHIZQhCCrMugS_NjxQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9kTFJvdEZHaw) | [Web](http://www.developertea.com/)
-
-Giant Robots Smashing into Other Giant Robots
-
-[Apple](https://podcasts.apple.com/us/podcast/giant-robots-smashing-into-other-giant-robots/id535121941) | [Spotify](https://open.spotify.com/show/6WU3qjb9PuAMivTzjbEAq9?si=qDo11YdRSKObZQziiAHBFQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZ2lhbnRyb2JvdHMuZm0vcnNz) | [Web](https://www.giantrobots.fm/)
-
-Public Function
-
-[Apple](https://podcasts.apple.com/us/podcast/public-function/id1443250537) | [Spotify](https://open.spotify.com/show/0s2AXTPStpbeo7B3Ope18n?si=ZIuTsJFpQ2medYsqPJP1_w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wdWJsaWNmdW5jdGlvbi5zaG93L3Jzcw) | [Web](https://publicfunction.show/)
-
-Duck Tapes
-
-[Apple](https://podcasts.apple.com/us/podcast/duck-tapes/id1454810190) | [Spotify](https://open.spotify.com/show/6IAjxpnIMIRCZj9rZzrdXz?si=PgUIuxe-QAGJq8lqpRn2DQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83ZmE0ZWRjL3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/ducktapes)
-
-Toolsday
-
-[Apple](https://podcasts.apple.com/us/podcast/toolsday/id1063765302) | [Spotify](https://open.spotify.com/show/5a1nL5e5XECBI0RoM31lTR?si=4zhrGtbaTniA8SJvMN5iGA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9hNUl6ZmJ4OQ) | [Web](https://toolsday-656ce866.simplecast.com/)
-
-Internet History Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/internet-history-podcast/id829119009) | [Spotify](https://open.spotify.com/show/1CVtF3J2Sr5ZGRyWj3SG8D?si=MGRJN6aATGanbwUt3lCTxA) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ludGVybmV0aGlzdG9yeXBvZGNhc3QubGlic3luLmNvbS9yc3M) | [Web](https://play.acast.com/s/internethistorypodcast)
-
-A Question of Code
-
-[Apple](https://podcasts.apple.com/us/podcast/a-question-of-code/id1448750157) | [Spotify](https://open.spotify.com/show/4Xr1cxpiCMOHqyP0XIme4k?si=okQP1qb3RXeO4luJuhjImA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2EtcXVlc3Rpb24tb2YtY29kZQ) | [Web](https://aquestionofcode.com/)
-
-Pursuit podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/pursuit-podcast/id1254015613) | [Spotify](https://open.spotify.com/show/3eVlgrnLC9fDRyTZMtTg88?si=8a2JeDoUR6iBc-tmUDbImw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wdXJzdWl0cG9kLmxpYnN5bi5jb20vcnNz) | [Web](http://pursuitpod.com/)
-
-Own Goals
-
-[Apple](https://podcasts.apple.com/us/podcast/own-goals/id1472954366) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yY1FocnhNSg) | [Web](https://www.owngoals.stream/)
-
-Ladybug Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/ladybug-podcast/id1469229625) | [Spotify](https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em?si=-7gVIAmZQiu4wVLVA3QOlw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9sYWR5YnVnLXBvZGNhc3Q) | [Web](https://www.ladybug.dev/)
-
-Localhost
-
-[Apple](https://podcasts.apple.com/us/podcast/localhost-podcast/id1199981378) | [Spotify](https://open.spotify.com/show/7Agia5f8la22oDmdSKX1kG?si=jT8-nPH0RJWTOC31f2eURA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGM4MmQ3Yy9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/localhostfm)
-
-Front End Happy Hour
-
-[Apple](https://podcasts.apple.com/us/podcast/front-end-happy-hour/id1089047924) | [Spotify](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=dvW9_kMiSPamgSdcIdK2zg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIwNjEzNzM2NS9zb3VuZHMucnNz) | [Web](http://frontendhappyhour.com/)
-
-DevEd
-
-[Apple](https://podcasts.apple.com/us/podcast/deved/id1456280468) | [Spotify](https://open.spotify.com/show/4ztpFm9mA2nqnF4Z7xz3IS?si=22L-C56vQxeTA4hDsJivxw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGlua3N0ZXJwb2RjYXN0LmxpYnN5bi5jb20vcnNz) | [Web](https://devchat.tv/dev-ed/)
-
-Chats with Kent
-
-[Apple](https://podcasts.apple.com/us/podcast/chats-with-kent-c-dodds/id1475543959) | [Spotify](https://open.spotify.com/show/7GkO2poedjbltWT5lduL5w?si=iPtGm4KGSPO0HYqr-PSPFw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9YX3dTX1dZaA) | [Web](https://kentcdodds.com/chats-with-kent-podcast/)
-
-Modern Web
-
-[Apple](https://podcasts.apple.com/us/podcast/modern-web/id1084236187) | [Spotify](https://open.spotify.com/show/5FGA58foRFkJ6IgJbCFYgm?si=3EoNX2lZR_GSkjNz6sjJuA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tb2Rlcm53ZWIucG9kYmVhbi5jb20vZmVlZC8) | [Web](https://modernweb.podbean.com/)
-
-Bet on the Web
-
-[Apple](https://podcasts.apple.com/us/podcast/bet-on-the-web/id1441247983) | [Spotify](https://open.spotify.com/show/4ocQi2rmWfpUkryhGOcohK?si=2MRkUmODSWisVydW9A5_mw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2JldC1vbi10aGUtd2Vi) | [Web](https://ionicframework.com/)
-
-Does Not Compute
-
-[Apple](https://podcasts.apple.com/us/podcast/does-not-compute/id1048731980) | [Spotify](https://open.spotify.com/show/3vXoZXhJhwkBZFQlFxjv7b?si=XtMkTgT2Tv6qvcKbrLpa0g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9FVGsyUUFfXw) | [Web](https://spec.fm/podcasts/does-not-compute)
-
-Faraday Tech Cafe
-
-[Apple](https://podcasts.apple.com/us/podcast/faraday-tech-cafe-podcast/id1502856166) | [Spotify](https://open.spotify.com/show/4GEURFsBhFtaF4NSyn5Pr4?si=-gG3dsVSSZClTBvnEUEPTg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhcmFkYXl0ZWNoY2FmZS9mZWVkLnhtbA) | [Web](https://faradaytechcafe.podbean.com/)
-
-The Bike Shed
-
-[Apple](https://podcasts.apple.com/us/podcast/the-bike-shed/id935763119) | [Spotify](https://open.spotify.com/show/2GM7Lo15uxyqhIv5uXfBpM?si=AzTVLB2pTii-BRtEbDFMJw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmlrZXNoZWQuZm0vcnNz) | [Web](https://www.bikeshed.fm/)
-
-Two Black Nerds
-
-[Apple](https://podcasts.apple.com/us/podcast/two-black-nerds/id980155753) | [Spotify](https://open.spotify.com/show/5CsBykGgqmnAy4pazxRSsK?si=VNMEDusuQAy56fB7gPezhg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9MRF9rVjJIbQ) | [Web](https://www.twoblacknerds.com/)
-
-Learn With Us
-
-[Apple](https://podcasts.apple.com/us/podcast/learn-with-us/id1240503636) | [Spotify](https://open.spotify.com/show/2dBlXuaLe1IHkXqG2whQNC?si=8cYO8gXqQWK6QvwyhwCA2w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9FYUVWMHB2bA) | [Web](https://learnwithus.simplecast.com/)
-
-Fish and Scripts
-
-[Apple](https://podcasts.apple.com/us/podcast/fish-and-scripts/id1478308659) | [Spotify](https://open.spotify.com/show/25Itv5R9zPyOpi6uby8Uwm?si=kQKIsZ0ORKCmDACD7jdPlw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jZjQwYmQwL3BvZGNhc3QvcnNz) | [Web](https://fishandscripts.com)
-
-Futurice Tech Weeklies
-
-[Apple](https://podcasts.apple.com/us/podcast/futurice-tech-weeklies/id1449020155) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90ZWNod2Vla2xpZXMtcG9kY2FzdC5mdXR1cmljZS5jb20vZmVlZC54bWw=) | [Web](https://techweeklies.podbean.com/)
-
-The Rabbit Hole, the Definitive Developer's Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-rabbit-hole-the-definitive-developers-podcast/id1223811385) | [Spotify](https://open.spotify.com/show/4LyOfBkZps6iNRWv3Wg66U?si=90KvbmFuTamLfl5rrVj48w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVyYWJiaXRob2xlLmxpYnN5bi5jb20vcnNz) | [Web](https://therabbithole.libsyn.com/website)
-
-Code Story
-
-[Apple](https://podcasts.apple.com/us/podcast/code-story/id1466861744) | [Spotify](https://open.spotify.com/show/0f5HGQ2EPd63H83gqAifXp?si=bT9ov5KSR_a_tV6AdwBlyg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tL2FjNWU3OWE0LTA0MDUtNDlhMy1hZjJjLTAyYzM3ZjBiMzg3OQ) | [Web](https://codestory.co/)
-
-Full Stack Panic
-
-[Apple](https://podcasts.apple.com/us/podcast/full-stack-panic/id1496046499) | [Spotify](https://open.spotify.com/show/4GViecC96ILi6bGJfg7o3p?si=RyUp3QhtTJm9Imf7TFpOcw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Z1bGwtc3RhY2stcGFuaWM) | [Web](https://www.fullstackpanic.com/)
-
-Smashing Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/smashing-podcast/id1485403438) | [Spotify](https://open.spotify.com/show/4bRsUmTtsTpa6ZKqSslbVV?si=WpufOOGBQIuA0qAoHU4rUg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NtYXNoaW5n) | [Web](https://podcast.smashingmagazine.com/)
-
-Thunder Nerds
-
-[Apple](https://podcasts.apple.com/us/podcast/thunder-nerds/id1061809408) | [Spotify](https://open.spotify.com/show/0h6wUO9Dpx3cqawEJ1KZzg?si=6UfF9Iq-TUyeT1tQRfGPkA) | [Google](https://podcasts.google.com/feed/aHR0cDovL3RodW5kZXJuZXJkc2hvby5jb20vZmVlZC8) | [Web](https://www.thundernerds.io/)
-
-Complete Developer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/complete-developer-podcast/id1039210992) | [Spotify](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN?si=x7kzN5K0TCe--XEngpZmBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb21wbGV0ZWRldmVsb3BlcnBvZGNhc3QuY29tL2ZlZWQvcG9kY2FzdA?sa=X&ved=0CAMQ4aUDahcKEwjA_YiqpIPtAhUAAAAAHQAAAAAQSg) | [Web](https://completedeveloperpodcast.com/)
-
-Between Two Divs
-
-[Apple](https://podcasts.apple.com/us/podcast/between-two-divs/id1495098579) | [Spotify](https://open.spotify.com/show/4tk1o7eoYGpuVoGxBc8Jhi?si=SLCzOU5xSDCoNzywlk_T5g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NjUyMDMucnNz) | [Web](https://www.listennotes.com/podcasts/between-two-divs-cam-perry-Slc1T62NyaE/)
-
-Day as a Dev
-
-[Apple](https://podcasts.apple.com/us/podcast/day-as-a-dev/id1483409221) | [Spotify](https://open.spotify.com/show/0kCk5V62IDiO6RNQUOy3DH?si=2x5vaP1hRDiJ_KvZ9QuMhg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGF5YXNhZGV2LmNvbS9mZWVk) | [Web](https://www.dayasadev.com/)
-
-Weekly Dev Tips
-
-[Apple](https://podcasts.apple.com/us/podcast/weekly-dev-tips/id1274725394) | [Spotify](https://open.spotify.com/show/3XS4QdHgmvYpPyIYDFLeIR?si=Fyh4BYeGSyaQFF-zOES8Wg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9XOGJHSGhDQQ) | [Web](https://weeklydevtips.com/)
-
-Overflow: audible;
-
-[Apple](https://podcasts.apple.com/us/podcast/overflow-audible/id1480842860) | [Spotify](https://open.spotify.com/show/2xXizeXcMimQbYyPSKwIBk?si=DdptY_6KTtO5LU-X-VKiFg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ENlJaODE5Nw) | [Web](https://www.overflowaudible.com/)
-
-Code Snippet
-
-[Apple](https://podcasts.apple.com/us/podcast/code-snippet/id1473994519) | [Spotify](https://open.spotify.com/show/1MtzOOFmVbFANtZm0nKTLW?si=JBmq-gW-T4G0dpMctAZTiA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YTI0ZjAvcG9kY2FzdC9yc3M) | [Web](https://andrewwalpole.com/)
-
-Hanselminutes
-
-[Apple](https://podcasts.apple.com/us/podcast/hanselminutes-with-scott-hanselman/id117488860) | [Spotify](https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc?si=yFq5uKRLSv2-h3LTPvxrQg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ndnR4VWlJZg) | [Web](https://www.hanselminutes.com/)
-
-webdev
-
-[Apple](https://podcasts.apple.com/us/podcast/webdev/id1453131079) | [Spotify](https://open.spotify.com/show/77l6UZAnx3C3dcrR3zrtYI?si=qQpYL0y4RtOEw-NqpP1joA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MTJjYTYwL3BvZGNhc3QvcnNz) | [Web](https://www.reddit.com/r/webdev)
-
-The Strong Web
-
-[Apple](https://podcasts.apple.com/us/podcast/the-strong-web/id1375737954) | [Spotify](https://open.spotify.com/show/0bC3kRlp1BosMIv6ZX9KVb?si=xw5BKtxHRW67Cumq7mFwLw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9fOHZVdjZOaA) | [Web](https://thestrongweb.simplecast.com/)
-
-The Diff: A Podcast from Facebook Open
-
-[Apple](https://podcasts.apple.com/us/podcast/the-diff-a-podcast-from-facebook-open-source/id1454407488) | [Spotify](https://open.spotify.com/show/7tG4FZzBYqtLVHiU5jICVr?si=Q3cnv8CdRaWX3R7EAruQxA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85NTNiMjAwL3BvZGNhc3QvcnNz) | [Web](https://thediffpodcast.com/)
-
-Future of Coding
-
-[Apple](https://podcasts.apple.com/us/podcast/future-of-coding/id1265527976) | [Spotify](https://open.spotify.com/show/27uPo3k7w2CxH1D2anBEH7?si=UvRsJ9eNSeS3jiQnoruHbA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vbW55LmZtL3Nob3dzL2Z1dHVyZS1vZi1jb2RpbmcvcGxheWxpc3RzL3BvZGNhc3QucnNz) | [Web](https://futureofcoding.org/)
-
-No BS Engineering
-
-[Apple](https://podcasts.apple.com/us/podcast/no-bs-engineering/id1470142257) | [Spotify](https://open.spotify.com/show/4YKpfxalDlRa9HIjfM5x5a?si=khRmqH-3QHiMR8FSpNkE8g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ub2JzZW5naW5lZXJpbmcuY29tL2ZlZWQvcG9kY2FzdC8) | [Web](https://nobsengineering.com/)
-
-Stack Overflow Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-stack-overflow-podcast/id1033688462) | [Spotify](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr?si=e20_4dFdSxioB5WYzM7Hyg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9YQV84NTFrMw) | [Web](https://stackoverflow.blog/podcast/)
-
-Write the Docs
-
-[Apple](https://podcasts.apple.com/us/podcast/write-the-docs-podcast/id1178393510) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LndyaXRldGhlZG9jcy5vcmcvaXR1bmVzLnJzcw) | [Web](https://podcast.writethedocs.org/)
-
-Running in Production
-
-[Apple](https://podcasts.apple.com/us/podcast/running-in-production/id1484097074) | [Spotify](https://open.spotify.com/show/4mTodLql97BQJazgLeAUmE?si=66hQi7HMSJSG5s31dxvfEA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydW5uaW5naW5wcm9kdWN0aW9uLmNvbS9wb2RjYXN0L2ZlZWQueG1s) | [Web](https://runninginproduction.com/podcast/)
-
-Developing Up
-
-[Apple](https://podcasts.apple.com/us/podcast/developing-up/id1156687172) | [Spotify](https://open.spotify.com/show/7MyRmNelPO3mmGQWVkn2mR?si=8mI5ypm8TMCa6ntqpuFvjQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS82SEJxMFp2Mw) | [Web](https://developingup.com/)
-
-Legacy Code Rocks
-
-[Apple](https://podcasts.apple.com/us/podcast/legacy-code-rocks/id1146634772) | [Spotify](https://open.spotify.com/show/6fDObJQiPUB825TybDKO2B?si=VAyDo7xcR4G27Pm2uRd36A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sZWdhY3ljb2Rlcm9ja3MubGlic3luLmNvbS9yc3M) | [Web](https://www.legacycode.rocks/)
-
-Twenty Percent Time
-
-[Apple](https://podcasts.apple.com/us/podcast/twenty-percent-time/id1231652815) | [Spotify](https://open.spotify.com/show/1pdqdw2p7tvwszXolvDHCZ?si=_QBrsBeNSF6j9jeidWPAVg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yX19vZTN2Uw) | [Web](https://twentypercenttime.simplecast.com/)
-
-North Meets South Web Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/north-meets-south-web-podcast/id1123508667) | [Spotify](https://open.spotify.com/show/5mnNzOSHkH8FUqi3eVhjoF?si=NZPQCUBfS8SLkI91WjRcmA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL25vcnRoLW1lZXRzLXNvdXRoLXdlYi1wb2RjYXN0) | [Web](https://www.northmeetssouth.audio/)
-
-The 6 Figure Developer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-6-figure-developer-podcast/id1217530572) | [Spotify](https://open.spotify.com/show/7jvCFy7JR75DRfrB4TJNBX?si=RI7zyc5fRB6hdZqORFL5cA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly82ZmlndXJlZGV2LmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://6figuredev.com/blog/)
-
-No Fluff Just Stuff
-
-[Apple](https://podcasts.apple.com/us/podcast/no-fluff-just-stuff/id1071097135) | [Spotify](https://open.spotify.com/show/1c3zQXPmiD1WSVvFDXy2oM?si=2eHuxEouQl6ozYkz-eCcRA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ub2ZsdWZmLmxpYnN5bi5jb20vcnNz) | [Web](https://nofluffjuststuff.com/podcast)
-
-Frontend Heroes
-
-[Apple](https://podcasts.apple.com/us/podcast/frontend-heroes/id1501363485) | [Spotify](https://open.spotify.com/show/5M4FMgiE5WVD83jO80dvW8?si=yhdeC-nnTs6qlBFFJDAh1w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Zyb250ZW5kLWhlcm9lcw) | [Web](https://frontendheroes.transistor.fm/)
-
-No Plans to Merge
-
-[Apple](https://podcasts.apple.com/us/podcast/no-plans-to-merge/id1455034944) | [Spotify](https://open.spotify.com/show/7hp71gdn2CVLov1qcfrXGp?si=aFxMc9kGRDKvkBbfw8jpEA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL25vLXBsYW5zLXRvLW1lcmdl) | [Web](https://noplanstomerge.com/)
-
-The Five-Minute Geek Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-five-minute-geek-show/id952727637) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9nOVBaX0t3Yg) | [Web](https://fiveminutegeekshow.com/)
-
-/dev/hell
-
-[Apple](https://podcasts.apple.com/us/podcast/dev-hell/id489840699) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmRldmhlbGwuaW5mby9kZXZoZWxsLXBvZGNhc3Q) | [Web](https://devhell.info/)
-
-Yo! Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/yo-podcast/id1452100056) | [Spotify](https://open.spotify.com/show/7cnrLotBo3valxteAfZO3H?si=gYNLZVoZQweSioJ1QTNs4w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9rckRYTmcyRw) | [Web](https://robhope.com/yo)
-
-Tech Queens
-
-[Apple](https://podcasts.apple.com/us/podcast/tech-queens/id1456016938) | [Spotify](https://open.spotify.com/show/7l8cX4bI4aLvWqIr4lqzXh) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yOGZhMmY4L3BvZGNhc3QvcnNz) | [Web](https://francescoronel.com/)
-
-Front-End Web Daily
-
-[Apple](https://podcasts.apple.com/us/podcast/front-end-web-daily/id1503152359) | [Spotify](https://open.spotify.com/show/35WpQaPDB5fhFyVD25Hryu?si=8HITobtpTz6oYYRKRSfLag) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vZnJvbnQtZW5kLXdlYi1kYWlseS8) | [Web](https://fewdaily.com/)
-
-Greater Than Code
-
-[Apple](https://podcasts.apple.com/us/podcast/greater-than-code/id1163023878) | [Spotify](https://open.spotify.com/show/0V5cd34AbyAxodDLf9Cmx8?si=d4AeHwC9Ql-iV4vuvy0UkA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZ3JlYXRlcnRoYW5jb2RlLmNvbS9yc3M) | [Web](https://www.greaterthancode.com/)
-
-Developing Fatigue
-
-[Apple](https://podcasts.apple.com/us/podcast/developing-fatigue/id1400600307) | [Spotify](https://open.spotify.com/show/4PJMApjm5G53XtAgRtT5t9?si=u1kU3zq6SpKnOeBQq7CnhQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZlbG9waW5nZmF0aWd1ZS5saWJzeW4uY29tL3Jzcw) | [Web](https://developingfatigue.fm/)
-
-Ones and Zeros
-
-[Apple](https://podcasts.apple.com/us/podcast/ones-and-zeros/id1501879099) | [Spotify](https://open.spotify.com/show/1Xc0UdUZ6B3Jy8MwvJtUx8?si=vlSFph_nS9iqABAQzYYCTw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNDFmMGI5NC9wb2RjYXN0L3Jzcw) | [Web](https://tomisinteazer-io.web.app/)
-
-Friday Afternoon Deploy: A Developer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/friday-afternoon-deploy-a-developer-podcast/id1441215128) | [Spotify](https://open.spotify.com/show/1SDtgcStdiLgFOLdZIEGuJ?si=CABcn3rJQt6XiMTCkq_rTg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS83aWY1dHhZVQ) | [Web](https://friday.hirelofty.com/)
-
-Friday Night Deploys
-
-[Apple](https://podcasts.apple.com/us/podcast/friday-night-deploys/id1485252900) | [Spotify](https://open.spotify.com/show/7oXdJ5aETg5GBSNC6jZSNq?si=Uh8uCQRmTK6Vg9ytZ9S_JQ) | ~~Google~~ | [Web](https://www.listennotes.com/podcasts/friday-night-deploys-the-devplebs-5FuO8qeycPD/)
-
-Chance the Developer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/chance-the-developer-podcast/id1344502648) | [Spotify](https://open.spotify.com/show/50hIkzVe6SHWEOc32wI6yd?si=axB0ROI3Tk29azL_C6FXWA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vMTUzMjMyLnJzcw) | [Web](https://chancestrickland.com/)
-
-HTTP 203
-
-[Apple](https://podcasts.apple.com/us/podcast/http-203/id1042283903) | [Spotify](https://open.spotify.com/show/28kMTCei5XHtQodSKEMr6h?si=H2iq-qRET9yW90XppOOCnw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9odHRwMjAzLmxpYnN5bi5jb20vcnNz) | [Web](https://developers.google.com/web/shows/http203/podcast/)
-
-Clean Coders
-
-[Apple](https://podcasts.apple.com/us/podcast/clean-coders/id1497337173) | [Spotify](https://open.spotify.com/show/6A9j2qzGrO7rlVSnAL0x04?si=K9U4Ph5hTUKamb_dov_uvA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9jbGVhbmNvZGVycy5yc3M) | [Web](https://devchat.tv/podcasts/clean-coders/)
-
-The Web Platform Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-web-platform-podcast/id899384794) | [Spotify](https://open.spotify.com/show/3apF0cv7ub3mC3J5e7Lq6v?si=TfBAqdLvR6C6z9X6MJMrcw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGV3ZWJwbGF0Zm9ybS5saWJzeW4uY29tL3Jzcw) | [Web](https://thewebplatformpodcast.com/)
-
-No Dogma Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/no-dogma-podcast/id912568441) | [Spotify](https://open.spotify.com/show/6griBeHq63dVJ1xHv52tQe?si=nEbN2sHiT728r9wqlIZEBg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Fb080aDNYdg) | [Web](https://nodogmapodcast.bryanhogan.net/)
-
-Amateur Hour
-
-[Apple](https://podcasts.apple.com/us/podcast/amateur-hour-developer-podcast/id1505105791) | [Spotify](https://open.spotify.com/show/6G01A4kQpffGEIH6aw26mb?si=TsDtISicTfaqoIqL3-c0Ow) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNmQ3ZTY4MC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/amateur-hour)
-
-Git Cute Podcast: The Software Developer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/git-cute-podcast-the-software-developer-podcast/id1461999830) | [Spotify](https://open.spotify.com/show/4jqYpBPILmskQFASTSfKGd?si=l1S73ao-SuisaqnHZeF7pw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9naXRjdXRlcG9kY2FzdC5jb20vY2F0ZWdvcnkvcG9kY2FzdHMvZmVlZC8) | [Web](https://gitcutepodcast.com/)
-
-The Cynical Developer
-
-[Apple](https://podcasts.apple.com/us/podcast/the-cynical-developer/id1169160766) | [Spotify](https://open.spotify.com/show/6QHcHyI2CUbaw7J3KWP2Q0?si=nklAxEAaTLO2rcuCn9gJBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jeW5pY2FsZGV2ZWxvcGVyLmxpYnN5bi5jb20vcnNz) | [Web](https://cynicaldeveloper.com/)
-
-DevDiscuss
-
-[Apple](https://podcasts.apple.com/us/podcast/devdiscuss/id1513053883) | [Spotify](https://open.spotify.com/show/4Jae2mPUqx0XnGychucsE4?si=VlpSIbapQ3uGL8aZtw3rdA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5kZXZwb2RzLmRldi9kZXZkaXNjdXNzX3BvZGNhc3QueG1s) | [Web](https://dev.to/devdiscuss)
-
-Website 101 Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/website-101-podcast/id1449510012) | [Spotify](https://open.spotify.com/show/3rmSM1R9t6q1U8DmYWJRSO?si=jO_KnOBHQ4aPOZZFSbXZkA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93ZWJzaXRlMTAxcG9kY2FzdC5jb20vZmVlZC5yc3M) | [Web](https://website101podcast.com/)
-
-Suitcase Coder: The Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/suitcase-coder-the-podcast/id1500583013) | [Spotify](https://open.spotify.com/show/0hUK31GmIS6kC2gcCh7ABT?si=fsWXrcbETm6lI2q7OdBpKA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xM2M5NzM3OC9wb2RjYXN0L3Jzcw) | [Web](https://www.suitcasecoder.com/podcast-2/)
-
-Commit your Code!
-
-[Apple](https://podcasts.apple.com/us/podcast/commit-your-code/id1508419655) | [Spotify](https://open.spotify.com/show/7wVj2PXao1Z8KUuVXxO009) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xY2Q0ODQ4MC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/commityourcode)
-
-Merge Conflict
-
-[Apple](https://podcasts.apple.com/us/podcast/merge-conflict/id1133064277) | [Spotify](https://open.spotify.com/show/2ncjfc4QtiagQmSzLR81Zz) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubWVyZ2Vjb25mbGljdC5mbS9yc3M) | [Web](https://www.mergeconflict.fm/)
-
-Software Defined Talk
-
-[Apple](https://podcasts.apple.com/us/podcast/software-defined-talk/id893738521) | [Spotify](https://open.spotify.com/show/42rlA8B51QmcygaOvTPPo5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc29mdHdhcmVkZWZpbmVkdGFsay5jb20vcnNz) | [Web](https://www.softwaredefinedtalk.com/)
-
-Coder Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/coder-radio/id534941512) | [Spotify](https://open.spotify.com/show/04WzuGq8oAcBI8GHlyvmI8) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb2Rlci5zaG93L3Jzcw) | [Web](https://coder.show/)
-
-Coding Life
-
-[Apple](https://podcasts.apple.com/us/podcast/coding-life/id1409217628) | [Spotify](https://open.spotify.com/show/6cPIzAKgqnaSCUpsLGbYrP) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81MzFjMzg4L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/codinglife)
-
-Eat Sleep Code
-
-[Apple](https://podcasts.apple.com/us/podcast/eat-sleep-code-podcast/id1015556393) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MTQ2MzAwMjA5L3NvdW5kcy5yc3M) | [Web](https://www.stitcher.com/show/eat-sleep-code-the-official-telerik-podcast)
-
-Rubber Duckling
-
-[Apple](https://podcasts.apple.com/us/podcast/rubber-ducking/id1439540267) | [Spotify](https://open.spotify.com/show/3i2JqWpG7KrjBK70UOwPyo) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9lMUYzdW4zQg) | [Web](https://rubberducking.fm/)
-
-All Hands on Tech
-
-[Apple](https://podcasts.apple.com/us/podcast/all-hands-on-tech/id1485472711) | [Spotify](https://open.spotify.com/show/3V2FLPRrjd3hJc26CwbXUW?si=wOyBhd7_TUaHsyszHF3BZA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wbHVyYWxzaWdodC5saWJzeW4uY29tL3Jzcw==) | [Web](https://www.pluralsight.com/resource-center/podcasts)
-
-APIs you won't Hate
-
-[Apple](https://podcasts.apple.com/us/podcast/apis-you-wont-hate/id1281303012) | [Spotify](https://open.spotify.com/show/1nEj0ociqcpEl9DZi5fuht) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2FwaXMteW91LXdvbnQtaGF0ZQ) | [Web](https://apisyouwonthate.com/)
-
-Code\[ish\]
-
-[Apple](https://podcasts.apple.com/us/podcast/code-ish/id1457879893) | [Spotify](https://open.spotify.com/show/5VvkHRhd9E9SQf7i9HsPMd) | ~~Google~~ | [Web](https://www.heroku.com/podcasts/codeish)
-
-Career Chats with Swyx and Randall
-
-[Apple](https://podcasts.apple.com/us/podcast/career-chats-with-swyx-and-randall/id1532182017) | [Spotify](https://open.spotify.com/show/4Ayi17U4ADqzMrYLFscYvG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2NhcmVlci1jaGF0cw) | [Web](https://careerchats.transistor.fm/)
-
-Purrfect.dev
-
-[Apple](https://podcasts.apple.com/us/podcast/purrfect-dev/id1491655542) | [Spotify](https://open.spotify.com/show/2kiOI0PCB2jXMU0cdqUy4z) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMTViMjAzYy9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/purrfect-dev)
-
-DevNews
-
-[Apple](https://podcasts.apple.com/us/podcast/devnews/id1525581923) | [Spotify](https://open.spotify.com/show/1tTuUApDgH6w1LZY25jmzG) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmNvZGVuZXdiaWUub3JnL2Rldm5ld3NfcG9kY2FzdC54bWw) | [Web](https://devpods.herokuapp.com/podcasts/devnews/)
-
-Inspect
-
-[Apple](https://podcasts.apple.com/gb/podcast/inspect/id1213377482) | [Spotify](https://open.spotify.com/show/0o5Q8dFP6MunHQEVKfvBgt) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9pbnNwZWN0LmZtL2ZlZWQueG1s) | [Web](https://inspect.fm/)
-
-\newline
-
-[Apple](https://podcasts.apple.com/us/podcast/newline/id1509124255) | [Spotify](https://open.spotify.com/show/04In04TosAWREcjsS6PdlV) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS95U2daWXJSaQ==) | [Web](https://podcast.newline.co/)
-
-Junior to Senior with David Guttman
-
-[Apple](https://podcasts.apple.com/us/podcast/junior-to-senior-with-david-guttman/id1524533455) | [Spotify](https://open.spotify.com/show/4AAGcXXVvGWHkvhqapk29D) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2p1bmlvci10by1zZW5pb3I) | [Web](https://juniortosenior.io/)
-
-Programming
-
-[Apple](https://podcasts.apple.com/gb/podcast/programming/id1493739285) | [Spotify](https://open.spotify.com/show/0bMhQFbGCgFS4p6cwY4LZ7) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NzYwMzM4NDUxL3NvdW5kcy5yc3M) | [Web](https://podcast.mgechev.com/)
-
-Software Sessions
-
-[Apple](https://podcasts.apple.com/us/podcast/software-sessions/id1479514262) | [Spotify](https://open.spotify.com/show/7DxBo3WhU7jfFRz0axCmwV) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NvZnR3YXJlLXNlc3Npb25z) | [Web](https://www.softwaresessions.com/)
-
-Namespace Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/namespace-podcast/id1500167161) | [Spotify](https://open.spotify.com/show/0NvFdDPNxyYnNFZurIy6AB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NTY3MjAucnNz) | [Web](https://www.youtube.com/channel/UCgC-Su85ygXNZJ_LzlUggLg)
-
-Learning Curve Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/learning-curve/id1492930419) | [Spotify](https://open.spotify.com/show/3mWV1OZ9SFVs34E2GGdoUd) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOWQ5YjE0L3BvZGNhc3QvcnNz?sa=X&ved=0CAMQ4aUDahcKEwig8PaugdTtAhUAAAAAHQAAAAAQMg) | [Web](https://learningcurve.dev/)
-
-The Babel Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-babel-podcast/id1470143101) | [Spotify](https://open.spotify.com/show/3TK8x8AGckeEQEtnJVZYAz) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1iYWJlbC1wb2RjYXN0) | [Web](https://podcast.babeljs.io/)
-
-The Deep Dive Dev
-
-[Apple](https://podcasts.apple.com/se/podcast/the-deep-dive-dev/id1518682049) | [Spotify](https://open.spotify.com/show/1GMGKbt69lbTdQFhI40yg5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9hTGhLTnpuQw) | [Web](https://thedeepdive.simplecast.com/)
-
-OpenHive.JS
-
-[Apple](https://podcasts.apple.com/us/podcast/openhive-js/id1517638574) | [Spotify](https://open.spotify.com/show/54dQeSVRYWPPNMcZFd6CFw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNTY3MDcwOC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/openhivejs)
-
-The Loosely Coupled Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-loosely-coupled-show/id1520758297) | [Spotify](https://open.spotify.com/show/0wtwiKLs3rcaNOuaTW0tVc) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmJjZDRkOC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/loosely-coupled-show)
-
-The Weekly Squeak
-
-[Apple](https://podcasts.apple.com/us/podcast/the-weekly-squeak/id1071207052) | [Spotify](https://open.spotify.com/show/4esINQS7W6emShb6fwt5Vr) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MTI4MTYzNzY3L3NvdW5kcy5yc3M) | [Web](https://chrischinchilla.com/)
-
-To be Continuous
-
-[Apple](https://podcasts.apple.com/us/podcast/to-be-continuous/id1107185328) | [Spotify](https://open.spotify.com/show/1IoU6FC5ROUwx6zTad7LNk) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaGVhdnliaXQuY29tL2NhdGVnb3J5L2xpYnJhcnkvcG9kY2FzdHMvdG8tYmUtY29udGludW91cy9mZWVk) | [Web](https://www.heavybit.com/library/podcasts/to-be-continuous/)
-
-Web of Tomorrow
-
-[Apple](https://podcasts.apple.com/us/podcast/web-of-tomorrow/id1033636563) | [Spotify](https://open.spotify.com/show/6jczwMXCW7qCdVFjikqcVf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3JiaXQuZm0vd2Vib2Z0b21vcnJvdy9mZWVkLnJzcw) | [Web](https://www.orbit.fm/weboftomorrow)
-
-Software Engineering Daily
-
-[Apple](https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853) | [Spotify](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N?si=_9jwJjy7QNu_23BIP9sX7A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ) | [Web](https://www.softwaredaily.com/)
-
-Software Engineering Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/software-engineering-radio-podcast-for-professional/id120906714) | [Spotify](https://open.spotify.com/show/6UO3XQclSuNnGxB39QdAnL?si=JBbZqp0WRvykqL-mSUE2Dg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc2UtcmFkaW8ubmV0L2ZlZWQv) | [Web](https://www.se-radio.net/)
-
-The Changelog
-
-[Apple](https://podcasts.apple.com/us/podcast/the-changelog/id341623264) | [Spotify](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=NiSEae7wSqKC2Fu_bCLqsQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA) | [Web](https://changelog.com/podcast)
-
-Programming Throwdown
-
-[Apple](https://podcasts.apple.com/us/podcast/programming-throwdown/id427166321) | [Spotify](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r?si=r4D0Rcq_QjmiD8fFoz8TBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9Qcm9ncmFtbWluZ1Rocm93ZG93bg) | [Web](https://www.programmingthrowdown.com/)
-
-While True Talk
-
-[Apple](https://podcasts.apple.com/us/podcast/while-true-talk/id1448237381) | [Spotify](https://open.spotify.com/show/0ys5JJsain0PAS9aZFyuqa?si=mTxAvcBIRmmUjtFCFpJsww) | ~~Google~~ | [Web](https://whiletruetalk.fm/)
-
-Coding Blocks.net
-
-[Apple](https://podcasts.apple.com/us/podcast/coding-blocks/id769189585) | [Spotify](https://open.spotify.com/show/23WSDfrSBULg0pBNGNWPMb?si=EQDmWiEWSLuHwATgi2W8-Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY29kaW5nYmxvY2tzLm5ldC9mZWVkL3BvZGNhc3Qv) | [Web](https://www.codingblocks.net/)
-
-Corecursive with Adam Gordon Bell
-
-[Apple](https://podcasts.apple.com/us/podcast/corecursive-with-adam-gordon-bell/id1330329512) | [Spotify](https://open.spotify.com/show/6XU1MRwzCfAXD07YHbpjNv?si=vHNnvf9GTE6o0tj-RdKzsw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3JlY3Vyc2l2ZS5jb20vZmVlZA) | [Web](https://corecursive.com/)
-
-The Polyglot Developer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158) | [Spotify](https://open.spotify.com/show/5eUHubRedHe3ljcnMsyG2T?si=cs-B-_o2QpCAVCC2QvfBrg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9wb2RjYXN0cy50aGVwb2x5Z2xvdGRldmVsb3Blci5jb20vcG9kY2FzdC54bWw) | [Web](https://www.thepolyglotdeveloper.com/)
-
-BookBytes
-
-[Apple](https://podcasts.apple.com/us/podcast/bookbytes/id1355549752) | [Spotify](https://open.spotify.com/show/5LXQoCy3Cz0saBTDu9KLly) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3JiaXQuZm0vYm9va2J5dGVzL2ZlZWQucnNz) | [Web](https://www.orbit.fm/bookbytes)
-
-3 Minutes with Kent
-
-[Apple](https://podcasts.apple.com/us/podcast/3-minutes-with-kent/id1082883103) | [Spotify](https://open.spotify.com/show/50scOU4lU3jX4TGxoSUAK6) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnJpZWZzLmZtLzMtbWludXRlcy13aXRoLWtlbnQueG1s) | [Web](https://www.briefs.fm/3-minutes-with-kent)
-
-Developer Melange
-
-[Apple](https://podcasts.apple.com/us/podcast/developer-melange/id1458570098) | [Spotify](https://open.spotify.com/show/5BfLRQ5KL84jrnFbE6b8WL) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MmRiZjhjL3BvZGNhc3QvcnNz) | [Web](https://developermelange.com/)
-
-Fragmented - The Software Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/fragmented-the-software-podcast/id968779958) | [Spotify](https://open.spotify.com/show/2yHLacgm5hunwsFZeoV8NA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9McEFHU0xuWQ) | [Web](https://fragmentedpodcast.com/)
-
-FSJam Podcast
-
-[Apple](https://podcasts.apple.com/pt/podcast/fsjam-podcast/id1537681789) | [Spotify](https://open.spotify.com/show/2EgyDpBJlSE8nFZKNDrxzk) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2ZzamFtLXBvZGNhc3Q) | [Web](https://fsjam.org/)
-
-Maintainable
-
-[Apple](https://podcasts.apple.com/us/podcast/maintainable/id1459893010) | [Spotify](https://open.spotify.com/show/6Ah6xxZ04VQBqjBB5ZU0Ll) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS83eTFDYkFiTg) | [Web](https://maintainable.fm/)
-
-O11ycast
-
-[Apple](https://podcasts.apple.com/gb/podcast/o11ycast/id1399777237) | [Spotify](https://open.spotify.com/show/2x3IYa1tMQdQelf0Mu8ncF) | ~~Google~~ | [Web](https://www.heavybit.com/library/podcasts/o11ycast/)
-
-Programming by Stealth
-
-[Apple](https://podcasts.apple.com/us/podcast/programming-by-stealth/id1236008323) | [Spotify](https://open.spotify.com/show/29KW6Sj2y5LT9pJyTiAlyS) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RmZWV0LmNvbS9jY2F0cC9wYnMtcnNzLnhtbA) | [Web](https://www.podfeet.com/blog/category/programming-by-stealth/)
-
-The Frontside Podcast
-
-[Apple](https://podcasts.apple.com/al/podcast/the-frontside-podcast/id827250386) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvOTYvcnNz) | [Web](https://frontside.com/blog)
-
-The JetRails Podcast
-
-[Apple](https://podcasts.apple.com/podcast/id1452330143) | [Spotify](https://open.spotify.com/show/4exS2jVtlXxMCYP7Aj1r4f) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjU4NjAzMTM0My9zb3VuZHMucnNz) | [Web](https://jetrails.com/podcast/)
-
-The Secure Developer
-
-[Apple](https://podcasts.apple.com/gb/podcast/the-secure-developer/id1156317989) | [Spotify](https://open.spotify.com/show/0NX5cgorayOLBM6oc9zExW) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80N3lmTHBtMA) | [Web](https://www.devseccon.com/the-secure-developer-podcast/)
-
-The Standup
-
-[Apple](https://podcasts.apple.com/us/podcast/the-standup/id1193304664) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5zdGFuZHVwLmZtL3Jzcw) | [Web](http://www.standup.fm/)
-
-ThoughtWorks Technology Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/thoughtworks-technology-podcast/id881136697) | [Spotify](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aG91Z2h0d29ya3MubGlic3luLmNvbS9yc3M=) | [Web](https://www.thoughtworks.com/podcasts/technology-podcasts)
+| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Syntax.fm | [Apple](https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678) | [Spotify](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnN5bnRheC5mbS9yc3M) | [Web](https://syntax.fm/)
+| How to Code Well | [Apple](https://podcasts.apple.com/us/podcast/how-to-code-well/id1443159438) | [Spotify](https://open.spotify.com/show/6zapPUKAuSjEZxrKR5fUxW?si=Tu4K2QgDTXyCEFAaGIUYvQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ob3d0b2NvZGV3ZWxsLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ4aUDahcKEwig58-_2eDtAhUAAAAAHQAAAAAQAg) | [Web](https://howtocodewell.fm/)
+| Frontend First | [Apple](https://podcasts.apple.com/us/podcast/frontend-first/id1288274408) | [Spotify](https://open.spotify.com/show/2wcxse0NdM4vu5qMCiIzTj?si=gresg41NQR6zFo8V8surCQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zT0pBTW9oUA) | [Web](https://frontendfirst.fm/)
+| Iteration | [Apple](https://podcasts.apple.com/us/podcast/iteration/id1321529167) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1?si=qEt54czsRLe7yapmvA3xaw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ZbXZIMWF5Qw) | [Web](https://iteration.simplecast.com/)
+| Undefined | [Apple](https://podcasts.apple.com/us/podcast/the-undefined-podcast/id1451541555) | [Spotify](https://open.spotify.com/show/6Zwfp98CtaR6Wt1qklemEM?si=tWOlXddYT9OCeT1OP788xw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84bGNBMElzNw) | [Web](https://undefined.fm/)
+| Full Stack Radio | [Apple](https://podcasts.apple.com/us/podcast/full-stack-radio/id931714873) | [Spotify](https://open.spotify.com/show/0Ddvex5OtYOvhyyK6ckG3A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Z1bGwtc3RhY2stcmFkaW8?sa=X&ved=0CAMQ27cFahcKEwj4zaab2uDtAhUAAAAAHQAAAAAQAQo) | [Web](https://fullstackradio.com/)
+| The Front End | [Apple](https://podcasts.apple.com/us/podcast/the-front-end/id1499349107) | [Spotify](https://open.spotify.com/show/4GuAxptrtY8Es5iHwp09dT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xM2IxMjNhNC9wb2RjYXN0L3Jzcw==) | [Web](https://thefrontendpodcast.site/)
+| DevMode.fm | [Apple](https://podcasts.apple.com/us/podcast/devmode-fm/id1323364824) | [Spotify](https://open.spotify.com/show/6S1RFgSszQ3Zch7yEPBWaY?si=YSLDeLRrTH28XRogF4iYeQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZtb2RlLmZtL3Jzcw) | [Web](https://devmode.fm/)
+| HTML All The Things | [Apple](https://podcasts.apple.com/us/podcast/html-all-things-web-development-web-design-small-business/id1412209136) | [Spotify](https://open.spotify.com/show/2MWqU5ZbO69jy3RZ74wgdM?si=VeplfH8mRkuz0DberHjYVw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lmh0bWxhbGx0aGV0aGluZ3MuY29tL2ZlZWQueG1s) | [Web](https://htmlallthethings.podbean.com/)
+| Egghead.io Developer Chats | [Apple](https://podcasts.apple.com/us/podcast/egghead-io-developer-chats/id1308497805) | [Spotify](https://open.spotify.com/show/4FKWy0vjNbt6uFwAzwd7XF?si=7CQ-ZgJvRL-05zyCjO7RAg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9zYVJDTFhWWQ) | [Web](https://egghead.io/) 
+| ShopTalk | [Apple](https://podcasts.apple.com/us/podcast/shoptalk-podcast-feed/id493890455) | [Spotify](https://open.spotify.com/show/2PUoQB330ft0sTzSNoCPrH?si=lqQCw7RlRvqisSBQUmboOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zaG9wdGFsa3Nob3cuY29tL2ZlZWQvcG9kY2FzdC8) | [Web](https://shoptalkshow.com/)
+| CodePen | [Apple](https://podcasts.apple.com/us/podcast/codepen-radio/id824437159) | [Spotify](https://open.spotify.com/show/3bw3W59a83518ciCd3ehZV?si=AyVY0c9HReukLT47FgWW8w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ibG9nLmNvZGVwZW4uaW8vZmVlZC9wb2RjYXN0Lw) | [Web](https://blog.codepen.io/)
+| Script & Style | [Apple](https://podcasts.apple.com/us/podcast/script-style/id1451759603) | [Spotify](https://open.spotify.com/show/4VfqNrAPyQW8Dvbg8eVNsB?si=xF1rqA-vS3OHHb8wgxpeBg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Hb1JHZFI3VQ) | [Web](https://scriptandstyle.simplecast.com/)
+| Software Engineering Unlocked | [Apple](https://podcasts.apple.com/us/podcast/software-engineering-unlocked/id1477527378) | [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=XeansLOHTAiM7cqAu2GEGA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg) | [Web](https://www.software-engineering-unlocked.com/)
+| The Drunk Web | [Apple](https://podcasts.apple.com/us/podcast/the-drunk-web/id1044518189) | [Spotify](https://open.spotify.com/show/3XDx61P5EhJi6m94MhHfzY?si=a-ZAMW58TM-1rr5QNXhfVw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83NmYyODM0L3BvZGNhc3QvcnNz) | [Web](https://www.thedrunkweb.com/)
+| Engineer Soft Skills | [Apple](https://podcasts.apple.com/us/podcast/engineer-soft-skills/id1477343898) | [Spotify](https://open.spotify.com/show/4ZxXP4fMtays3TpVDVeqHA?si=diGF5Fq8TJyRx0YXBczPyg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kMTcxM2M4L3BvZGNhc3QvcnNz?sa=X&ved=0CAQQ27cFahcKEwiwlYbKl_7sAhUAAAAAHQAAAAAQDQ) | [Web](https://anchor.fm/engineersoftskills)
+| Soft Skills Engineering | [Apple](https://podcasts.apple.com/us/podcast/soft-skills-engineering/id1091341048) | [Spotify](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=tgF9eFj5SZy01jdOrJqSWw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0c2tpbGxzLmF1ZGlvL2ZlZWQueG1s) | [Web](https://softskills.audio/)
+| Simple Programmer | [Apple](https://podcasts.apple.com/us/podcast/simple-programmer-podcast/id998357224) | [Spotify](https://open.spotify.com/show/313ln9aNoosocatGZcn2l2?si=WnTz5TW3S2CsG0erEMy-9A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zaW1wbGVwcm9ncmFtbWVyLmxpYnN5bi5jb20vcnNz) | [Web](https://simpleprogrammer.libsyn.com/podcast)
+| Developer Tea | [Apple](https://podcasts.apple.com/us/podcast/developer-tea/id955596067) | [Spotify](https://open.spotify.com/show/02fM1JHpt9HmHGp482K71b?si=2znSEHIZQhCCrMugS_NjxQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9kTFJvdEZHaw) | [Web](http://www.developertea.com/)
+| Giant Robots Smashing into Other Giant Robots | [Apple](https://podcasts.apple.com/us/podcast/giant-robots-smashing-into-other-giant-robots/id535121941) | [Spotify](https://open.spotify.com/show/6WU3qjb9PuAMivTzjbEAq9?si=qDo11YdRSKObZQziiAHBFQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZ2lhbnRyb2JvdHMuZm0vcnNz) | [Web](https://www.giantrobots.fm/)
+| Public Function | [Apple](https://podcasts.apple.com/us/podcast/public-function/id1443250537) | [Spotify](https://open.spotify.com/show/0s2AXTPStpbeo7B3Ope18n?si=ZIuTsJFpQ2medYsqPJP1_w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wdWJsaWNmdW5jdGlvbi5zaG93L3Jzcw) | [Web](https://publicfunction.show/)
+| Duck Tapes | [Apple](https://podcasts.apple.com/us/podcast/duck-tapes/id1454810190) | [Spotify](https://open.spotify.com/show/6IAjxpnIMIRCZj9rZzrdXz?si=PgUIuxe-QAGJq8lqpRn2DQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83ZmE0ZWRjL3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/ducktapes)
+| Toolsday | [Apple](https://podcasts.apple.com/us/podcast/toolsday/id1063765302) | [Spotify](https://open.spotify.com/show/5a1nL5e5XECBI0RoM31lTR?si=4zhrGtbaTniA8SJvMN5iGA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9hNUl6ZmJ4OQ) | [Web](https://toolsday-656ce866.simplecast.com/)
+| Internet History Podcast | [Apple](https://podcasts.apple.com/us/podcast/internet-history-podcast/id829119009) | [Spotify](https://open.spotify.com/show/1CVtF3J2Sr5ZGRyWj3SG8D?si=MGRJN6aATGanbwUt3lCTxA) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ludGVybmV0aGlzdG9yeXBvZGNhc3QubGlic3luLmNvbS9yc3M) | [Web](https://play.acast.com/s/internethistorypodcast)
+| A Question of Code | [Apple](https://podcasts.apple.com/us/podcast/a-question-of-code/id1448750157) | [Spotify](https://open.spotify.com/show/4Xr1cxpiCMOHqyP0XIme4k?si=okQP1qb3RXeO4luJuhjImA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2EtcXVlc3Rpb24tb2YtY29kZQ) | [Web](https://aquestionofcode.com/)
+| Pursuit podcast | [Apple](https://podcasts.apple.com/us/podcast/pursuit-podcast/id1254015613) | [Spotify](https://open.spotify.com/show/3eVlgrnLC9fDRyTZMtTg88?si=8a2JeDoUR6iBc-tmUDbImw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wdXJzdWl0cG9kLmxpYnN5bi5jb20vcnNz) | [Web](http://pursuitpod.com/)
+| Own Goals | [Apple](https://podcasts.apple.com/us/podcast/own-goals/id1472954366) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yY1FocnhNSg) | [Web](https://www.owngoals.stream/)
+| Ladybug Podcast | [Apple](https://podcasts.apple.com/us/podcast/ladybug-podcast/id1469229625) | [Spotify](https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em?si=-7gVIAmZQiu4wVLVA3QOlw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9sYWR5YnVnLXBvZGNhc3Q) | [Web](https://www.ladybug.dev/)
+| Localhost | [Apple](https://podcasts.apple.com/us/podcast/localhost-podcast/id1199981378) | [Spotify](https://open.spotify.com/show/7Agia5f8la22oDmdSKX1kG?si=jT8-nPH0RJWTOC31f2eURA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGM4MmQ3Yy9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/localhostfm)
+| Front End Happy Hour | [Apple](https://podcasts.apple.com/us/podcast/front-end-happy-hour/id1089047924) | [Spotify](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2?si=dvW9_kMiSPamgSdcIdK2zg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIwNjEzNzM2NS9zb3VuZHMucnNz) | [Web](http://frontendhappyhour.com/)
+| DevEd | [Apple](https://podcasts.apple.com/us/podcast/deved/id1456280468) | [Spotify](https://open.spotify.com/show/4ztpFm9mA2nqnF4Z7xz3IS?si=22L-C56vQxeTA4hDsJivxw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGlua3N0ZXJwb2RjYXN0LmxpYnN5bi5jb20vcnNz) | [Web](https://devchat.tv/dev-ed/)
+| Chats with Kent | [Apple](https://podcasts.apple.com/us/podcast/chats-with-kent-c-dodds/id1475543959) | [Spotify](https://open.spotify.com/show/7GkO2poedjbltWT5lduL5w?si=iPtGm4KGSPO0HYqr-PSPFw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9YX3dTX1dZaA) | [Web](https://kentcdodds.com/chats-with-kent-podcast/)
+| Modern Web | [Apple](https://podcasts.apple.com/us/podcast/modern-web/id1084236187) | [Spotify](https://open.spotify.com/show/5FGA58foRFkJ6IgJbCFYgm?si=3EoNX2lZR_GSkjNz6sjJuA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tb2Rlcm53ZWIucG9kYmVhbi5jb20vZmVlZC8) | [Web](https://modernweb.podbean.com/)
+| Bet on the Web | [Apple](https://podcasts.apple.com/us/podcast/bet-on-the-web/id1441247983) | [Spotify](https://open.spotify.com/show/4ocQi2rmWfpUkryhGOcohK?si=2MRkUmODSWisVydW9A5_mw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2JldC1vbi10aGUtd2Vi) | [Web](https://ionicframework.com/)
+| Does Not Compute | [Apple](https://podcasts.apple.com/us/podcast/does-not-compute/id1048731980) | [Spotify](https://open.spotify.com/show/3vXoZXhJhwkBZFQlFxjv7b?si=XtMkTgT2Tv6qvcKbrLpa0g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9FVGsyUUFfXw) | [Web](https://spec.fm/podcasts/does-not-compute)
+| Faraday Tech Cafe | [Apple](https://podcasts.apple.com/us/podcast/faraday-tech-cafe-podcast/id1502856166) | [Spotify](https://open.spotify.com/show/4GEURFsBhFtaF4NSyn5Pr4?si=-gG3dsVSSZClTBvnEUEPTg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2ZhcmFkYXl0ZWNoY2FmZS9mZWVkLnhtbA) | [Web](https://faradaytechcafe.podbean.com/)
+| The Bike Shed | [Apple](https://podcasts.apple.com/us/podcast/the-bike-shed/id935763119) | [Spotify](https://open.spotify.com/show/2GM7Lo15uxyqhIv5uXfBpM?si=AzTVLB2pTii-BRtEbDFMJw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmlrZXNoZWQuZm0vcnNz) | [Web](https://www.bikeshed.fm/)
+| Two Black Nerds | [Apple](https://podcasts.apple.com/us/podcast/two-black-nerds/id980155753) | [Spotify](https://open.spotify.com/show/5CsBykGgqmnAy4pazxRSsK?si=VNMEDusuQAy56fB7gPezhg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9MRF9rVjJIbQ) | [Web](https://www.twoblacknerds.com/)
+| Learn With Us | [Apple](https://podcasts.apple.com/us/podcast/learn-with-us/id1240503636) | [Spotify](https://open.spotify.com/show/2dBlXuaLe1IHkXqG2whQNC?si=8cYO8gXqQWK6QvwyhwCA2w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9FYUVWMHB2bA) | [Web](https://learnwithus.simplecast.com/)
+| Fish and Scripts | [Apple](https://podcasts.apple.com/us/podcast/fish-and-scripts/id1478308659) | [Spotify](https://open.spotify.com/show/25Itv5R9zPyOpi6uby8Uwm?si=kQKIsZ0ORKCmDACD7jdPlw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jZjQwYmQwL3BvZGNhc3QvcnNz) | [Web](https://fishandscripts.com)
+| Futurice Tech Weeklies | [Apple](https://podcasts.apple.com/us/podcast/futurice-tech-weeklies/id1449020155) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90ZWNod2Vla2xpZXMtcG9kY2FzdC5mdXR1cmljZS5jb20vZmVlZC54bWw=) | [Web](https://techweeklies.podbean.com/)
+| The Rabbit Hole, the Definitive Developer's Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-rabbit-hole-the-definitive-developers-podcast/id1223811385) | [Spotify](https://open.spotify.com/show/4LyOfBkZps6iNRWv3Wg66U?si=90KvbmFuTamLfl5rrVj48w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVyYWJiaXRob2xlLmxpYnN5bi5jb20vcnNz) | [Web](https://therabbithole.libsyn.com/website)
+| Code Story | [Apple](https://podcasts.apple.com/us/podcast/code-story/id1466861744) | [Spotify](https://open.spotify.com/show/0f5HGQ2EPd63H83gqAifXp?si=bT9ov5KSR_a_tV6AdwBlyg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tL2FjNWU3OWE0LTA0MDUtNDlhMy1hZjJjLTAyYzM3ZjBiMzg3OQ) | [Web](https://codestory.co/)
+| Full Stack Panic | [Apple](https://podcasts.apple.com/us/podcast/full-stack-panic/id1496046499) | [Spotify](https://open.spotify.com/show/4GViecC96ILi6bGJfg7o3p?si=RyUp3QhtTJm9Imf7TFpOcw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Z1bGwtc3RhY2stcGFuaWM) | [Web](https://www.fullstackpanic.com/)
+| Smashing Podcast | [Apple](https://podcasts.apple.com/us/podcast/smashing-podcast/id1485403438) | [Spotify](https://open.spotify.com/show/4bRsUmTtsTpa6ZKqSslbVV?si=WpufOOGBQIuA0qAoHU4rUg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NtYXNoaW5n) | [Web](https://podcast.smashingmagazine.com/)
+| Thunder Nerds | [Apple](https://podcasts.apple.com/us/podcast/thunder-nerds/id1061809408) | [Spotify](https://open.spotify.com/show/0h6wUO9Dpx3cqawEJ1KZzg?si=6UfF9Iq-TUyeT1tQRfGPkA) | [Google](https://podcasts.google.com/feed/aHR0cDovL3RodW5kZXJuZXJkc2hvby5jb20vZmVlZC8) | [Web](https://www.thundernerds.io/)
+| Complete Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/complete-developer-podcast/id1039210992) | [Spotify](https://open.spotify.com/show/6TdLKSIN3n37d8w6REhXfN?si=x7kzN5K0TCe--XEngpZmBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb21wbGV0ZWRldmVsb3BlcnBvZGNhc3QuY29tL2ZlZWQvcG9kY2FzdA?sa=X&ved=0CAMQ4aUDahcKEwjA_YiqpIPtAhUAAAAAHQAAAAAQSg) | [Web](https://completedeveloperpodcast.com/)
+| Between Two Divs | [Apple](https://podcasts.apple.com/us/podcast/between-two-divs/id1495098579) | [Spotify](https://open.spotify.com/show/4tk1o7eoYGpuVoGxBc8Jhi?si=SLCzOU5xSDCoNzywlk_T5g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NjUyMDMucnNz) | [Web](https://www.listennotes.com/podcasts/between-two-divs-cam-perry-Slc1T62NyaE/)
+| Day as a Dev | [Apple](https://podcasts.apple.com/us/podcast/day-as-a-dev/id1483409221) | [Spotify](https://open.spotify.com/show/0kCk5V62IDiO6RNQUOy3DH?si=2x5vaP1hRDiJ_KvZ9QuMhg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZGF5YXNhZGV2LmNvbS9mZWVk) | [Web](https://www.dayasadev.com/)
+| Weekly Dev Tips | [Apple](https://podcasts.apple.com/us/podcast/weekly-dev-tips/id1274725394) | [Spotify](https://open.spotify.com/show/3XS4QdHgmvYpPyIYDFLeIR?si=Fyh4BYeGSyaQFF-zOES8Wg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9XOGJHSGhDQQ) | [Web](https://weeklydevtips.com/)
+| Overflow: audible; | [Apple](https://podcasts.apple.com/us/podcast/overflow-audible/id1480842860) | [Spotify](https://open.spotify.com/show/2xXizeXcMimQbYyPSKwIBk?si=DdptY_6KTtO5LU-X-VKiFg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ENlJaODE5Nw) | [Web](https://www.overflowaudible.com/)
+| Code Snippet | [Apple](https://podcasts.apple.com/us/podcast/code-snippet/id1473994519) | [Spotify](https://open.spotify.com/show/1MtzOOFmVbFANtZm0nKTLW?si=JBmq-gW-T4G0dpMctAZTiA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85YTI0ZjAvcG9kY2FzdC9yc3M) | [Web](https://andrewwalpole.com/)
+| Hanselminutes | [Apple](https://podcasts.apple.com/us/podcast/hanselminutes-with-scott-hanselman/id117488860) | [Spotify](https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc?si=yFq5uKRLSv2-h3LTPvxrQg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ndnR4VWlJZg) | [Web](https://www.hanselminutes.com/)
+| webdev | [Apple](https://podcasts.apple.com/us/podcast/webdev/id1453131079) | [Spotify](https://open.spotify.com/show/77l6UZAnx3C3dcrR3zrtYI?si=qQpYL0y4RtOEw-NqpP1joA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MTJjYTYwL3BvZGNhc3QvcnNz) | [Web](https://www.reddit.com/r/webdev)
+| The Strong Web | [Apple](https://podcasts.apple.com/us/podcast/the-strong-web/id1375737954) | [Spotify](https://open.spotify.com/show/0bC3kRlp1BosMIv6ZX9KVb?si=xw5BKtxHRW67Cumq7mFwLw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9fOHZVdjZOaA) | [Web](https://thestrongweb.simplecast.com/)
+| The Diff: A Podcast from Facebook Open | [Apple](https://podcasts.apple.com/us/podcast/the-diff-a-podcast-from-facebook-open-source/id1454407488) | [Spotify](https://open.spotify.com/show/7tG4FZzBYqtLVHiU5jICVr?si=Q3cnv8CdRaWX3R7EAruQxA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85NTNiMjAwL3BvZGNhc3QvcnNz) | [Web](https://thediffpodcast.com/)
+| Future of Coding | [Apple](https://podcasts.apple.com/us/podcast/future-of-coding/id1265527976) | [Spotify](https://open.spotify.com/show/27uPo3k7w2CxH1D2anBEH7?si=UvRsJ9eNSeS3jiQnoruHbA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vbW55LmZtL3Nob3dzL2Z1dHVyZS1vZi1jb2RpbmcvcGxheWxpc3RzL3BvZGNhc3QucnNz) | [Web](https://futureofcoding.org/)
+| No BS Engineering | [Apple](https://podcasts.apple.com/us/podcast/no-bs-engineering/id1470142257) | [Spotify](https://open.spotify.com/show/4YKpfxalDlRa9HIjfM5x5a?si=khRmqH-3QHiMR8FSpNkE8g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ub2JzZW5naW5lZXJpbmcuY29tL2ZlZWQvcG9kY2FzdC8) | [Web](https://nobsengineering.com/)
+| Stack Overflow Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-stack-overflow-podcast/id1033688462) | [Spotify](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr?si=e20_4dFdSxioB5WYzM7Hyg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9YQV84NTFrMw) | [Web](https://stackoverflow.blog/podcast/)
+| Write the Docs | [Apple](https://podcasts.apple.com/us/podcast/write-the-docs-podcast/id1178393510) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LndyaXRldGhlZG9jcy5vcmcvaXR1bmVzLnJzcw) | [Web](https://podcast.writethedocs.org/)
+| Running in Production | [Apple](https://podcasts.apple.com/us/podcast/running-in-production/id1484097074) | [Spotify](https://open.spotify.com/show/4mTodLql97BQJazgLeAUmE?si=66hQi7HMSJSG5s31dxvfEA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydW5uaW5naW5wcm9kdWN0aW9uLmNvbS9wb2RjYXN0L2ZlZWQueG1s) | [Web](https://runninginproduction.com/podcast/)
+| Developing Up | [Apple](https://podcasts.apple.com/us/podcast/developing-up/id1156687172) | [Spotify](https://open.spotify.com/show/7MyRmNelPO3mmGQWVkn2mR?si=8mI5ypm8TMCa6ntqpuFvjQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS82SEJxMFp2Mw) | [Web](https://developingup.com/)
+| Legacy Code Rocks | [Apple](https://podcasts.apple.com/us/podcast/legacy-code-rocks/id1146634772) | [Spotify](https://open.spotify.com/show/6fDObJQiPUB825TybDKO2B?si=VAyDo7xcR4G27Pm2uRd36A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sZWdhY3ljb2Rlcm9ja3MubGlic3luLmNvbS9yc3M) | [Web](https://www.legacycode.rocks/)
+| Twenty Percent Time | [Apple](https://podcasts.apple.com/us/podcast/twenty-percent-time/id1231652815) | [Spotify](https://open.spotify.com/show/1pdqdw2p7tvwszXolvDHCZ?si=_QBrsBeNSF6j9jeidWPAVg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yX19vZTN2Uw) | [Web](https://twentypercenttime.simplecast.com/)
+| North Meets South Web Podcast | [Apple](https://podcasts.apple.com/us/podcast/north-meets-south-web-podcast/id1123508667) | [Spotify](https://open.spotify.com/show/5mnNzOSHkH8FUqi3eVhjoF?si=NZPQCUBfS8SLkI91WjRcmA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL25vcnRoLW1lZXRzLXNvdXRoLXdlYi1wb2RjYXN0) | [Web](https://www.northmeetssouth.audio/)
+| The 6 Figure Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-6-figure-developer-podcast/id1217530572) | [Spotify](https://open.spotify.com/show/7jvCFy7JR75DRfrB4TJNBX?si=RI7zyc5fRB6hdZqORFL5cA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly82ZmlndXJlZGV2LmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://6figuredev.com/blog/)
+| The 6 Figure Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-6-figure-developer-podcast/id1217530572) | [Spotify](https://open.spotify.com/show/7jvCFy7JR75DRfrB4TJNBX?si=RI7zyc5fRB6hdZqORFL5cA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly82ZmlndXJlZGV2LmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://6figuredev.com/blog/)
+| No Fluff Just Stuff | [Apple](https://podcasts.apple.com/us/podcast/no-fluff-just-stuff/id1071097135) | [Spotify](https://open.spotify.com/show/1c3zQXPmiD1WSVvFDXy2oM?si=2eHuxEouQl6ozYkz-eCcRA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ub2ZsdWZmLmxpYnN5bi5jb20vcnNz) | [Web](https://nofluffjuststuff.com/podcast)
+| Frontend Heroes | [Apple](https://podcasts.apple.com/us/podcast/frontend-heroes/id1501363485) | [Spotify](https://open.spotify.com/show/5M4FMgiE5WVD83jO80dvW8?si=yhdeC-nnTs6qlBFFJDAh1w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Zyb250ZW5kLWhlcm9lcw) | [Web](https://frontendheroes.transistor.fm/)
+| No Plans to Merge | [Apple](https://podcasts.apple.com/us/podcast/no-plans-to-merge/id1455034944) | [Spotify](https://open.spotify.com/show/7hp71gdn2CVLov1qcfrXGp?si=aFxMc9kGRDKvkBbfw8jpEA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL25vLXBsYW5zLXRvLW1lcmdl) | [Web](https://noplanstomerge.com/)
+| The Five-Minute Geek Show | [Apple](https://podcasts.apple.com/us/podcast/the-five-minute-geek-show/id952727637) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9nOVBaX0t3Yg) | [Web](https://fiveminutegeekshow.com/)
+| /dev/hell | [Apple](https://podcasts.apple.com/us/podcast/dev-hell/id489840699) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmRldmhlbGwuaW5mby9kZXZoZWxsLXBvZGNhc3Q) | [Web](https://devhell.info/)
+| Yo! Podcast | [Apple](https://podcasts.apple.com/us/podcast/yo-podcast/id1452100056) | [Spotify](https://open.spotify.com/show/7cnrLotBo3valxteAfZO3H?si=gYNLZVoZQweSioJ1QTNs4w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9rckRYTmcyRw) | [Web](https://robhope.com/yo)
+| Tech Queens | [Apple](https://podcasts.apple.com/us/podcast/tech-queens/id1456016938) | [Spotify](https://open.spotify.com/show/7l8cX4bI4aLvWqIr4lqzXh) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yOGZhMmY4L3BvZGNhc3QvcnNz) | [Web](https://francescoronel.com/)
+| Front-End Web Daily | [Apple](https://podcasts.apple.com/us/podcast/front-end-web-daily/id1503152359) | [Spotify](https://open.spotify.com/show/35WpQaPDB5fhFyVD25Hryu?si=8HITobtpTz6oYYRKRSfLag) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vZnJvbnQtZW5kLXdlYi1kYWlseS8) | [Web](https://fewdaily.com/)
+| Greater Than Code | [Apple](https://podcasts.apple.com/us/podcast/greater-than-code/id1163023878) | [Spotify](https://open.spotify.com/show/0V5cd34AbyAxodDLf9Cmx8?si=d4AeHwC9Ql-iV4vuvy0UkA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZ3JlYXRlcnRoYW5jb2RlLmNvbS9yc3M) | [Web](https://www.greaterthancode.com/)
+| Developing Fatigue | [Apple](https://podcasts.apple.com/us/podcast/developing-fatigue/id1400600307) | [Spotify](https://open.spotify.com/show/4PJMApjm5G53XtAgRtT5t9?si=u1kU3zq6SpKnOeBQq7CnhQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZlbG9waW5nZmF0aWd1ZS5saWJzeW4uY29tL3Jzcw) | [Web](https://developingfatigue.fm/)
+| Ones and Zeros | [Apple](https://podcasts.apple.com/us/podcast/ones-and-zeros/id1501879099) | [Spotify](https://open.spotify.com/show/1Xc0UdUZ6B3Jy8MwvJtUx8?si=vlSFph_nS9iqABAQzYYCTw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNDFmMGI5NC9wb2RjYXN0L3Jzcw) | [Web](https://tomisinteazer-io.web.app/)
+| Friday Afternoon Deploy: A Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/friday-afternoon-deploy-a-developer-podcast/id1441215128) | [Spotify](https://open.spotify.com/show/1SDtgcStdiLgFOLdZIEGuJ?si=CABcn3rJQt6XiMTCkq_rTg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS83aWY1dHhZVQ) | [Web](https://friday.hirelofty.com/)
+| Friday Night Deploys | [Apple](https://podcasts.apple.com/us/podcast/friday-night-deploys/id1485252900) | [Spotify](https://open.spotify.com/show/7oXdJ5aETg5GBSNC6jZSNq?si=Uh8uCQRmTK6Vg9ytZ9S_JQ) |  | [Web](https://www.listennotes.com/podcasts/friday-night-deploys-the-devplebs-5FuO8qeycPD/)
+| Chance the Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/chance-the-developer-podcast/id1344502648) | [Spotify](https://open.spotify.com/show/50hIkzVe6SHWEOc32wI6yd?si=axB0ROI3Tk29azL_C6FXWA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vMTUzMjMyLnJzcw) | [Web](https://chancestrickland.com/)
+| HTTP 203 | [Apple](https://podcasts.apple.com/us/podcast/http-203/id1042283903) | [Spotify](https://open.spotify.com/show/28kMTCei5XHtQodSKEMr6h?si=H2iq-qRET9yW90XppOOCnw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9odHRwMjAzLmxpYnN5bi5jb20vcnNz) | [Web](https://developers.google.com/web/shows/http203/podcast/)
+| Clean Coders | [Apple](https://podcasts.apple.com/us/podcast/clean-coders/id1497337173) | [Spotify](https://open.spotify.com/show/6A9j2qzGrO7rlVSnAL0x04?si=K9U4Ph5hTUKamb_dov_uvA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9jbGVhbmNvZGVycy5yc3M) | [Web](https://devchat.tv/podcasts/clean-coders/)
+| The Web Platform Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-web-platform-podcast/id899384794) | [Spotify](https://open.spotify.com/show/3apF0cv7ub3mC3J5e7Lq6v?si=TfBAqdLvR6C6z9X6MJMrcw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGV3ZWJwbGF0Zm9ybS5saWJzeW4uY29tL3Jzcw) | [Web](https://thewebplatformpodcast.com/)
+| No Dogma Podcast | [Apple](https://podcasts.apple.com/us/podcast/no-dogma-podcast/id912568441) | [Spotify](https://open.spotify.com/show/6griBeHq63dVJ1xHv52tQe?si=nEbN2sHiT728r9wqlIZEBg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Fb080aDNYdg) | [Web](https://nodogmapodcast.bryanhogan.net/)
+| Amateur Hour | [Apple](https://podcasts.apple.com/us/podcast/amateur-hour-developer-podcast/id1505105791) | [Spotify](https://open.spotify.com/show/6G01A4kQpffGEIH6aw26mb?si=TsDtISicTfaqoIqL3-c0Ow) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xNmQ3ZTY4MC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/amateur-hour)
+| Git Cute Podcast: The Software Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/git-cute-podcast-the-software-developer-podcast/id1461999830) | [Spotify](https://open.spotify.com/show/4jqYpBPILmskQFASTSfKGd?si=l1S73ao-SuisaqnHZeF7pw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9naXRjdXRlcG9kY2FzdC5jb20vY2F0ZWdvcnkvcG9kY2FzdHMvZmVlZC8) | [Web](https://gitcutepodcast.com/)
+| The Cynical Developer | [Apple](https://podcasts.apple.com/us/podcast/the-cynical-developer/id1169160766) | [Spotify](https://open.spotify.com/show/6QHcHyI2CUbaw7J3KWP2Q0?si=nklAxEAaTLO2rcuCn9gJBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jeW5pY2FsZGV2ZWxvcGVyLmxpYnN5bi5jb20vcnNz) | [Web](https://cynicaldeveloper.com/)
+| DevDiscuss | [Apple](https://podcasts.apple.com/us/podcast/devdiscuss/id1513053883) | [Spotify](https://open.spotify.com/show/4Jae2mPUqx0XnGychucsE4?si=VlpSIbapQ3uGL8aZtw3rdA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5kZXZwb2RzLmRldi9kZXZkaXNjdXNzX3BvZGNhc3QueG1s) | [Web](https://dev.to/devdiscuss)
+| Website 101 Podcast | [Apple](https://podcasts.apple.com/us/podcast/website-101-podcast/id1449510012) | [Spotify](https://open.spotify.com/show/3rmSM1R9t6q1U8DmYWJRSO?si=jO_KnOBHQ4aPOZZFSbXZkA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93ZWJzaXRlMTAxcG9kY2FzdC5jb20vZmVlZC5yc3M) | [Web](https://website101podcast.com/)
+| Suitcase Coder: The Podcast | [Apple](https://podcasts.apple.com/us/podcast/suitcase-coder-the-podcast/id1500583013) | [Spotify](https://open.spotify.com/show/0hUK31GmIS6kC2gcCh7ABT?si=fsWXrcbETm6lI2q7OdBpKA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xM2M5NzM3OC9wb2RjYXN0L3Jzcw) | [Web](https://www.suitcasecoder.com/podcast-2/)
+| Commit your Code! | [Apple](https://podcasts.apple.com/us/podcast/commit-your-code/id1508419655) | [Spotify](https://open.spotify.com/show/7wVj2PXao1Z8KUuVXxO009) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xY2Q0ODQ4MC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/commityourcode)
+| Merge Conflict | [Apple](https://podcasts.apple.com/us/podcast/merge-conflict/id1133064277) | [Spotify](https://open.spotify.com/show/2ncjfc4QtiagQmSzLR81Zz) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubWVyZ2Vjb25mbGljdC5mbS9yc3M) | [Web](https://www.mergeconflict.fm/)
+| Software Defined Talk | [Apple](https://podcasts.apple.com/us/podcast/software-defined-talk/id893738521) | [Spotify](https://open.spotify.com/show/42rlA8B51QmcygaOvTPPo5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc29mdHdhcmVkZWZpbmVkdGFsay5jb20vcnNz) | [Web](https://www.softwaredefinedtalk.com/)
+| Coder Radio | [Apple](https://podcasts.apple.com/us/podcast/coder-radio/id534941512) | [Spotify](https://open.spotify.com/show/04WzuGq8oAcBI8GHlyvmI8) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb2Rlci5zaG93L3Jzcw) | [Web](https://coder.show/)
+| Coding Life | [Apple](https://podcasts.apple.com/us/podcast/coding-life/id1409217628) | [Spotify](https://open.spotify.com/show/6cPIzAKgqnaSCUpsLGbYrP) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81MzFjMzg4L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/codinglife)
+| Eat Sleep Code | [Apple](https://podcasts.apple.com/us/podcast/eat-sleep-code-podcast/id1015556393) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MTQ2MzAwMjA5L3NvdW5kcy5yc3M) | [Web](https://www.stitcher.com/show/eat-sleep-code-the-official-telerik-podcast)
+| Rubber Duckling | [Apple](https://podcasts.apple.com/us/podcast/rubber-ducking/id1439540267) | [Spotify](https://open.spotify.com/show/3i2JqWpG7KrjBK70UOwPyo) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9lMUYzdW4zQg) | [Web](https://rubberducking.fm/)
+| All Hands on Tech | [Apple](https://podcasts.apple.com/us/podcast/all-hands-on-tech/id1485472711) | [Spotify](https://open.spotify.com/show/3V2FLPRrjd3hJc26CwbXUW?si=wOyBhd7_TUaHsyszHF3BZA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wbHVyYWxzaWdodC5saWJzeW4uY29tL3Jzcw==) | [Web](https://www.pluralsight.com/resource-center/podcasts)
+| APIs you won't Hate | [Apple](https://podcasts.apple.com/us/podcast/apis-you-wont-hate/id1281303012) | [Spotify](https://open.spotify.com/show/1nEj0ociqcpEl9DZi5fuht) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2FwaXMteW91LXdvbnQtaGF0ZQ) | [Web](https://apisyouwonthate.com/)
+| Code\[ish\] | [Apple](https://podcasts.apple.com/us/podcast/code-ish/id1457879893) | [Spotify](https://open.spotify.com/show/5VvkHRhd9E9SQf7i9HsPMd) |  | [Web](https://www.heroku.com/podcasts/codeish)
+| Career Chats with Swyx and Randall | [Apple](https://podcasts.apple.com/us/podcast/career-chats-with-swyx-and-randall/id1532182017) | [Spotify](https://open.spotify.com/show/4Ayi17U4ADqzMrYLFscYvG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2NhcmVlci1jaGF0cw) | [Web](https://careerchats.transistor.fm/)
+| Purrfect.dev | [Apple](https://podcasts.apple.com/us/podcast/purrfect-dev/id1491655542) | [Spotify](https://open.spotify.com/show/2kiOI0PCB2jXMU0cdqUy4z) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMTViMjAzYy9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/purrfect-dev)
+| DevNews | [Apple](https://podcasts.apple.com/us/podcast/devnews/id1525581923) | [Spotify](https://open.spotify.com/show/1tTuUApDgH6w1LZY25jmzG) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmNvZGVuZXdiaWUub3JnL2Rldm5ld3NfcG9kY2FzdC54bWw) | [Web](https://devpods.herokuapp.com/podcasts/devnews/)
+| Inspect | [Apple](https://podcasts.apple.com/gb/podcast/inspect/id1213377482) | [Spotify](https://open.spotify.com/show/0o5Q8dFP6MunHQEVKfvBgt) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9pbnNwZWN0LmZtL2ZlZWQueG1s) | [Web](https://inspect.fm/)
+| \newline | [Apple](https://podcasts.apple.com/us/podcast/newline/id1509124255) | [Spotify](https://open.spotify.com/show/04In04TosAWREcjsS6PdlV) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS95U2daWXJSaQ==) | [Web](https://podcast.newline.co/)
+| Junior to Senior with David Guttman | [Apple](https://podcasts.apple.com/us/podcast/junior-to-senior-with-david-guttman/id1524533455) | [Spotify](https://open.spotify.com/show/4AAGcXXVvGWHkvhqapk29D) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2p1bmlvci10by1zZW5pb3I) | [Web](https://juniortosenior.io/)
+| Programming | [Apple](https://podcasts.apple.com/gb/podcast/programming/id1493739285) | [Spotify](https://open.spotify.com/show/0bMhQFbGCgFS4p6cwY4LZ7) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NzYwMzM4NDUxL3NvdW5kcy5yc3M) | [Web](https://podcast.mgechev.com/)
+| Software Sessions | [Apple](https://podcasts.apple.com/us/podcast/software-sessions/id1479514262) | [Spotify](https://open.spotify.com/show/7DxBo3WhU7jfFRz0axCmwV) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NvZnR3YXJlLXNlc3Npb25z) | [Web](https://www.softwaresessions.com/)
+| Namespace Podcast | [Apple](https://podcasts.apple.com/us/podcast/namespace-podcast/id1500167161) | [Spotify](https://open.spotify.com/show/0NvFdDPNxyYnNFZurIy6AB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NTY3MjAucnNz) | [Web](https://www.youtube.com/channel/UCgC-Su85ygXNZJ_LzlUggLg)
+| Learning Curve Podcast | [Apple](https://podcasts.apple.com/us/podcast/learning-curve/id1492930419) | [Spotify](https://open.spotify.com/show/3mWV1OZ9SFVs34E2GGdoUd) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOWQ5YjE0L3BvZGNhc3QvcnNz?sa=X&ved=0CAMQ4aUDahcKEwig8PaugdTtAhUAAAAAHQAAAAAQMg) | [Web](https://learningcurve.dev/)
+| The Babel Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-babel-podcast/id1470143101) | [Spotify](https://open.spotify.com/show/3TK8x8AGckeEQEtnJVZYAz) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1iYWJlbC1wb2RjYXN0) | [Web](https://podcast.babeljs.io/)
+| The Deep Dive Dev | [Apple](https://podcasts.apple.com/se/podcast/the-deep-dive-dev/id1518682049) | [Spotify](https://open.spotify.com/show/1GMGKbt69lbTdQFhI40yg5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9hTGhLTnpuQw) | [Web](https://thedeepdive.simplecast.com/)
+| OpenHive.JS | [Apple](https://podcasts.apple.com/us/podcast/openhive-js/id1517638574) | [Spotify](https://open.spotify.com/show/54dQeSVRYWPPNMcZFd6CFw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNTY3MDcwOC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/openhivejs)
+| The Loosely Coupled Show | [Apple](https://podcasts.apple.com/us/podcast/the-loosely-coupled-show/id1520758297) | [Spotify](https://open.spotify.com/show/0wtwiKLs3rcaNOuaTW0tVc) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmJjZDRkOC9wb2RjYXN0L3Jzcw) | [Web](https://anchor.fm/loosely-coupled-show)
+| The Weekly Squeak | [Apple](https://podcasts.apple.com/us/podcast/the-weekly-squeak/id1071207052) | [Spotify](https://open.spotify.com/show/4esINQS7W6emShb6fwt5Vr) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MTI4MTYzNzY3L3NvdW5kcy5yc3M) | [Web](https://chrischinchilla.com/)
+| To be Continuous | [Apple](https://podcasts.apple.com/us/podcast/to-be-continuous/id1107185328) | [Spotify](https://open.spotify.com/show/1IoU6FC5ROUwx6zTad7LNk) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaGVhdnliaXQuY29tL2NhdGVnb3J5L2xpYnJhcnkvcG9kY2FzdHMvdG8tYmUtY29udGludW91cy9mZWVk) | [Web](https://www.heavybit.com/library/podcasts/to-be-continuous/)
+| Web of Tomorrow | [Apple](https://podcasts.apple.com/us/podcast/web-of-tomorrow/id1033636563) | [Spotify](https://open.spotify.com/show/6jczwMXCW7qCdVFjikqcVf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3JiaXQuZm0vd2Vib2Z0b21vcnJvdy9mZWVkLnJzcw) | [Web](https://www.orbit.fm/weboftomorrow)
+| Software Engineering Daily | [Apple](https://podcasts.apple.com/us/podcast/software-engineering-daily/id1019576853) | [Spotify](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N?si=_9jwJjy7QNu_23BIP9sX7A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vU0VENDg0Mzk4MTQwMQ) | [Web](https://www.softwaredaily.com/)
+| Software Engineering Radio | [Apple](https://podcasts.apple.com/us/podcast/software-engineering-radio-podcast-for-professional/id120906714) | [Spotify](https://open.spotify.com/show/6UO3XQclSuNnGxB39QdAnL?si=JBbZqp0WRvykqL-mSUE2Dg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc2UtcmFkaW8ubmV0L2ZlZWQv) | [Web](https://www.se-radio.net/)
+| The Changelog | [Apple](https://podcasts.apple.com/us/podcast/the-changelog/id341623264) | [Spotify](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ?si=NiSEae7wSqKC2Fu_bCLqsQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA) | [Web](https://changelog.com/podcast)
+| Programming Throwdown | [Apple](https://podcasts.apple.com/us/podcast/programming-throwdown/id427166321) | [Spotify](https://open.spotify.com/show/274Z0vXSCYxddYGj2hLJ8r?si=r4D0Rcq_QjmiD8fFoz8TBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9Qcm9ncmFtbWluZ1Rocm93ZG93bg) | [Web](https://www.programmingthrowdown.com/)
+| While True Talk | [Apple](https://podcasts.apple.com/us/podcast/while-true-talk/id1448237381) | [Spotify](https://open.spotify.com/show/0ys5JJsain0PAS9aZFyuqa?si=mTxAvcBIRmmUjtFCFpJsww) |  | [Web](https://whiletruetalk.fm/)
+| Coding Blocks.net | [Apple](https://podcasts.apple.com/us/podcast/coding-blocks/id769189585) | [Spotify](https://open.spotify.com/show/23WSDfrSBULg0pBNGNWPMb?si=EQDmWiEWSLuHwATgi2W8-Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY29kaW5nYmxvY2tzLm5ldC9mZWVkL3BvZGNhc3Qv) | [Web](https://www.codingblocks.net/)
+| Corecursive with Adam Gordon Bell | [Apple](https://podcasts.apple.com/us/podcast/corecursive-with-adam-gordon-bell/id1330329512) | [Spotify](https://open.spotify.com/show/6XU1MRwzCfAXD07YHbpjNv?si=vHNnvf9GTE6o0tj-RdKzsw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb3JlY3Vyc2l2ZS5jb20vZmVlZA) | [Web](https://corecursive.com/)
+| The Polyglot Developer Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-polyglot-developer-podcast/id1070975158) | [Spotify](https://open.spotify.com/show/5eUHubRedHe3ljcnMsyG2T?si=cs-B-_o2QpCAVCC2QvfBrg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zMy11cy13ZXN0LTEuYW1hem9uYXdzLmNvbS9wb2RjYXN0cy50aGVwb2x5Z2xvdGRldmVsb3Blci5jb20vcG9kY2FzdC54bWw) | [Web](https://www.thepolyglotdeveloper.com/)
+| BookBytes | [Apple](https://podcasts.apple.com/us/podcast/bookbytes/id1355549752) | [Spotify](https://open.spotify.com/show/5LXQoCy3Cz0saBTDu9KLly) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3JiaXQuZm0vYm9va2J5dGVzL2ZlZWQucnNz) | [Web](https://www.orbit.fm/bookbytes)
+| 3 Minutes with Kent | [Apple](https://podcasts.apple.com/us/podcast/3-minutes-with-kent/id1082883103) | [Spotify](https://open.spotify.com/show/50scOU4lU3jX4TGxoSUAK6) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnJpZWZzLmZtLzMtbWludXRlcy13aXRoLWtlbnQueG1s) | [Web](https://www.briefs.fm/3-minutes-with-kent)
+| Developer Melange | [Apple](https://podcasts.apple.com/us/podcast/developer-melange/id1458570098) | [Spotify](https://open.spotify.com/show/5BfLRQ5KL84jrnFbE6b8WL) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MmRiZjhjL3BvZGNhc3QvcnNz) | [Web](https://developermelange.com/)
+| Fragmented - The Software Podcast | [Apple](https://podcasts.apple.com/us/podcast/fragmented-the-software-podcast/id968779958) | [Spotify](https://open.spotify.com/show/2yHLacgm5hunwsFZeoV8NA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9McEFHU0xuWQ) | [Web](https://fragmentedpodcast.com/)
+| FSJam Podcast | [Apple](https://podcasts.apple.com/pt/podcast/fsjam-podcast/id1537681789) | [Spotify](https://open.spotify.com/show/2EgyDpBJlSE8nFZKNDrxzk) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2ZzamFtLXBvZGNhc3Q) | [Web](https://fsjam.org/)
+| Maintainable | [Apple](https://podcasts.apple.com/us/podcast/maintainable/id1459893010) | [Spotify](https://open.spotify.com/show/6Ah6xxZ04VQBqjBB5ZU0Ll) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS83eTFDYkFiTg) | [Web](https://maintainable.fm/)
+| O11ycast | [Apple](https://podcasts.apple.com/gb/podcast/o11ycast/id1399777237) | [Spotify](https://open.spotify.com/show/2x3IYa1tMQdQelf0Mu8ncF) |  | [Web](https://www.heavybit.com/library/podcasts/o11ycast/)
+| Programming by Stealth | [Apple](https://podcasts.apple.com/us/podcast/programming-by-stealth/id1236008323) | [Spotify](https://open.spotify.com/show/29KW6Sj2y5LT9pJyTiAlyS) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RmZWV0LmNvbS9jY2F0cC9wYnMtcnNzLnhtbA) | [Web](https://www.podfeet.com/blog/category/programming-by-stealth/)
+| The Frontside Podcast | [Apple](https://podcasts.apple.com/al/podcast/the-frontside-podcast/id827250386) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvOTYvcnNz) | [Web](https://frontside.com/blog)
+| The JetRails Podcast | [Apple](https://podcasts.apple.com/podcast/id1452330143) | [Spotify](https://open.spotify.com/show/4exS2jVtlXxMCYP7Aj1r4f) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjU4NjAzMTM0My9zb3VuZHMucnNz) | [Web](https://jetrails.com/podcast/)
+| The Secure Developer | [Apple](https://podcasts.apple.com/gb/podcast/the-secure-developer/id1156317989) | [Spotify](https://open.spotify.com/show/0NX5cgorayOLBM6oc9zExW) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS80N3lmTHBtMA) | [Web](https://www.devseccon.com/the-secure-developer-podcast/)
+| The Standup | [Apple](https://podcasts.apple.com/us/podcast/the-standup/id1193304664) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5zdGFuZHVwLmZtL3Jzcw) | [Web](http://www.standup.fm/)
+| ThoughtWorks Technology Podcast | [Apple](https://podcasts.apple.com/us/podcast/thoughtworks-technology-podcast/id881136697) | [Spotify](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aG91Z2h0d29ya3MubGlic3luLmNvbS9yc3M=) | [Web](https://www.thoughtworks.com/podcasts/technology-podcasts)
 
 ## Backend Podcasts
 
