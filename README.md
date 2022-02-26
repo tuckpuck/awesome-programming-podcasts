@@ -1,6 +1,42 @@
 # Ultimate List of Web Development Podcasts
 Podcasts are a great way to stay informed about what's happening in web development. This list has over 350 podcasts covering many parts of website design, development, and deployment. Contributions are welcome.
 
+### Table of Contents
+  * [Learn to Code Podcasts](#learn-to-code-podcasts)
+  * [Design, UI & UX Podcasts](#design-ui--ux-podcasts)
+  * [CSS Podcasts](#css-podcasts)
+  * [JavaScript Podcasts](#javascript-podcasts)
+  * [React Podcasts](#react-podcasts)
+  * [Vue Podcasts](#vue-podcasts)
+  * [Angular Podcasts](#angular-podcasts)
+  * [Svelte Podcasts](#svelte-podcasts)
+  * [JAMStack Podcasts](#jamstack-podcasts)
+  * [WordPress Podcasts](#wordpress-podcasts)
+  * [Web Development Podcasts](#web-development-podcasts)
+  * [Backend Podcasts](#backend-podcasts)
+  * [PHP Podcasts](#php-podcasts)
+  * [Python Podcasts](#python-podcasts)
+  * [Java Podcasts](#java-podcasts)
+  * [Ruby Podcasts](#ruby-podcasts)
+  * [C# and .NET Podcasts](#c-and-net-podcasts)
+  * [Go Podcasts](#go-podcasts)
+  * [Kotlin Podcasts](#kotlin-podcasts)
+  * [Rust Podcasts](#rust-podcasts)
+  * [Functional Podcasts](#functional-podcasts)
+  * [Database Podcasts](#database-podcasts)
+  * [Cloud and DevOps Podcasts](#cloud-and-devops-podcasts)
+  * [AWS Podcasts](#aws-podcasts)
+  * [Microsoft Azure Podcasts](#microsoft-azure-podcasts)
+  * [IBM Cloud Podcasts](#ibm-cloud-podcasts)
+  * [Google Cloud Podcasts](#google-cloud-podcasts)
+  * [Kubernetes Podcasts](#kubernetes-podcasts)
+  * [Linux Podcasts](#linux-podcasts)
+  * [Open Source Podcasts](#open-source-podcasts)
+  * [Testing Podcasts](#testing-podcasts)
+  * [Remote Work Podcasts](#remote-work-podcasts)
+  * [Freelance Podcasts](#freelance-podcasts)
+  * [Web Agency Podcasts](#web-agency-podcasts)
+
 
 ## Learn to Code Podcasts
 
