@@ -4,7 +4,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Learn to Code Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Learn to Code with Me  | [Apple](https://podcasts.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Spotify](https://open.spotify.com/show/6Pz9YOO4XJAL2DRt7RauI3?si=NtMWkLGjTEe0mWzTmc2MFg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sZWFybnRvY29kZXdpdGhtZS5saWJzeW4uY29tL3Jzcw) | [Web](https://learntocodewith.me/podcast/) |
 | The freeCodeCamp Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749) | [Spotify](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP?si=z32al3RHRAKwTit3ZuqGCw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mcmVlY29kZWNhbXAubGlic3luLmNvbS9yc3M) | [Web](https://freecodecamp.libsyn.com) |
@@ -26,7 +26,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Design, UI & UX Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Resourceful Designer | [Apple](https://podcasts.apple.com/us/podcast/resourceful-designer/id1040570923) | [Spotify](https://open.spotify.com/show/5soyQPryf3yEOl481IgrGB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZXNvdXJjZWZ1bGRlc2lnbmVyLmxpYnN5bi5jb20vcnNz) | [Web](https://resourcefuldesigner.com/graphic-design-podcast/) |
 | Launchers | [Apple](https://podcasts.apple.com/us/podcast/launchers-build-a-successful-web-design-business/id1453476639) | [Spotify](https://open.spotify.com/show/1Bnxawlzf5rRzCUWAxyhED) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85NDViNzdjL3BvZGNhc3QvcnNz) | [Web](https://community.rapidweblaunch.com/) |
@@ -73,13 +73,13 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## CSS Podcasts
 
-| Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | The CSS Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-css-podcast/id1501895136) | [Spotify](https://open.spotify.com/show/0iW21xFsrH509BGTEs3ufN?si=iVgGJN7WTw6mi3wfkgVXLQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVjc3Nwb2RjYXN0LmxpYnN5bi5jb20vcnNz) | [Web](https://thecsspodcast.libsyn.com/) |
 
 ## JavaScript Podcasts
 
-| Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Web Rush | [Apple](https://podcasts.apple.com/us/podcast/web-rush/id1437407176) | [Spotify](https://open.spotify.com/show/2fpykNR5dya5c4V8WTPldw?si=re4VtXE3RZinC9J9K1hM3Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS90T2pOWGVjNQ==) | [Web](https://www.webrush.io/) |
 | JS Party | [Apple](https://podcasts.apple.com/us/podcast/js-party/id1209616598) | [Spotify](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=6EUrSQJXRkirBvCQ8tUFMA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2pzcGFydHkvZmVlZA) | [Web](https://changelog.com/jsparty) |
@@ -90,7 +90,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## React Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | React Podcast | [Apple](https://podcasts.apple.com/us/podcast/react-podcast/id1341969432) | [Spotify](https://open.spotify.com/show/0HfSakJOFwFEa0ujCEK1pO?si=SmiWIFjRS9STgY55ca3sBA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Kb1IyOG83OQ) | [Web](https://reactpodcast.com/) |
 | React Roundup | [Apple](https://podcasts.apple.com/us/podcast/react-round-up/id1364741140) | [Spotify](https://open.spotify.com/show/3SV6RRWsJ1d6lDZDqREEdt?si=UkK697c-TeSdFABLmftEgg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9yZWFjdC1yb3VuZC11cC5yc3M) | [Web](https://devchat.tv/react-round-up/) |
@@ -99,7 +99,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Vue Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | The Official Vue News | [Apple](https://podcasts.apple.com/us/podcast/the-official-vue-news/id1329151772) | [Spotify](https://open.spotify.com/show/5vtKGHKvU9q5uR0HKOOigj?si=siJY5prcS7uS1naki-X22A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly92dWVuZXdzLmZpcmVzaWRlLmZtL3Jzcw) | [Web](https://news.vuejs.org/) |
 | Views on Vue | [Apple](https://podcasts.apple.com/us/podcast/views-on-vue/id1364741105) | [Spotify](https://open.spotify.com/show/5ewAN7ghB7GTTRz0Ohm7Ks?si=MT3NUGiIQjuKDL3H29AZJA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS92aWV3cy1vbi12dWUucnNz) | [Web](https://devchat.tv/views-on-vue/) |
@@ -107,27 +107,27 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Angular Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Adventures in Angular | [Apple](https://podcasts.apple.com/us/podcast/adventures-in-angular/id1238024888) | [Spotify](https://open.spotify.com/show/6ghYCZ2j6Wqz7O0QBRFqZd?si=yEwrLYBoTeqRbd0YWXXxpg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9BZHZlbnR1cmVzSW5Bbmd1bGFyLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwj44MnfyODtAhUAAAAAHQAAAAAQBQ) | [Web](https://devchat.tv/podcasts/adv-in-angular/) |
 | Angular Air | [Apple](https://podcasts.apple.com/us/podcast/angular-air/id940806858) | [Spotify](https://open.spotify.com/show/3THWJ15Ni9LfdqnS9x5og5?si=KFSmY4ZORQiKrXg2KxqLFA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmd1bGFyYWlyLnBvZGJlYW4uY29tL2ZlZWQv) | [Web](https://angularair.com/) |
 
 ## Svelte Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Svelte Radio | [Apple](https://podcasts.apple.com/us/podcast/svelte-radio/id1493425089) | [Spotify](https://open.spotify.com/show/1w2YTX6UNNqD7K82GDyquT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3N2ZWx0ZS1yYWRpbw==) | [Web](https://www.svelteradio.com/) |
 
 ## JAMStack Podcasts
 
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | That's my JAMstack | [Apple](https://podcasts.apple.com/us/podcast/thats-my-jamstack/id1472756044) | [Spotify](https://open.spotify.com/show/7G3H4MP5mLKlhMKBpSwWSL?si=uMTzguKWSMemDoL1lPCEYg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC90aGF0cy1teS1qYW1zdGFjaw) | [Web](https://thatsmyjamstack.com/) |
 | JAMStack Radio | [Apple](https://podcasts.apple.com/us/podcast/jamstack-radio/id1148797643) | [Spotify](https://open.spotify.com/show/08neivnJH1hLnYD79HUkfr?si=WfreDFYuTSSNz0ZO5ME9tA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaGVhdnliaXQuY29tL2NhdGVnb3J5L2xpYnJhcnkvcG9kY2FzdHMvamFtc3RhY2stcmFkaW8vZmVlZC8) | [Web](https://www.heavybit.com/library/podcasts/jamstack-radio/) |
 | Remotely Interesting | [Apple](https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876) | [Spotify](https://open.spotify.com/show/3EM9APeoSjJe4yfIaVfCVO?si=AHYazohiTTe4yFVZyjThgA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3JlbW90ZWx5LWludGVyZXN0aW5n) | [Web](https://remotelyinteresting.netlify.com/) |
 
 ## WordPress Podcasts
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Dev Branch | [Apple](https://podcasts.apple.com/us/podcast/dev-branch-weekly-wordpress-web-development-talk-show/id1500351968) | [Spotify](https://open.spotify.com/show/6n4O74QhHrNeOk5m3fxpoc?si=dYSXAoY6SAivz4ijuTauSw) |  | [Web](https://www.podparadise.com/Podcast/1500351968)
 | Pricing WordPress |  | [Spotify](https://open.spotify.com/show/1TfmDngF3wMRoQA9HtKCPe?si=_J17sgJPRN-qbwMHytH5dg) |  | [Web](https://www.listennotes.com/podcasts/pricing-wordpress-keith-devon-p-QVuEsC3Ai/)
@@ -159,7 +159,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Web Development Podcasts
-| Name  | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Syntax.fm | [Apple](https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678) | [Spotify](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnN5bnRheC5mbS9yc3M) | [Web](https://syntax.fm/)
 | How to Code Well | [Apple](https://podcasts.apple.com/us/podcast/how-to-code-well/id1443159438) | [Spotify](https://open.spotify.com/show/6zapPUKAuSjEZxrKR5fUxW?si=Tu4K2QgDTXyCEFAaGIUYvQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ob3d0b2NvZGV3ZWxsLmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ4aUDahcKEwig58-_2eDtAhUAAAAAHQAAAAAQAg) | [Web](https://howtocodewell.fm/)
