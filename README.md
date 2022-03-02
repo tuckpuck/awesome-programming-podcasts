@@ -373,22 +373,12 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Java Podcasts
-
-Java Pub House
-
-[Apple](https://podcasts.apple.com/us/podcast/java-pub-house/id467641329) | [Spotify](https://open.spotify.com/show/0laUgleS6VdmeeCk7hRemf?si=dfyjSK1PTX-pKFDKHWL3fQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9qYXZhcHViaG91c2UubGlic3luLmNvbS9yc3M) | [Web](https://javapubhouse.libsyn.com/)
-
-Coders Campus Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/coders-campus-podcast/id1241340018) | [Spotify](https://open.spotify.com/show/6Lo6iDLf9hrPGaPbhfxhoq?si=3Mi9LdJMSKqBw5e3DLxA-g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RlcnNjYW1wdXMuY29tL2NhdGVnb3J5L2NvZGVycy1jYW1wdXMtcG9kY2FzdC9mZWVkLw) | [Web](https://coderscampus.com/category/coders-campus-podcast/)
-
-A Bootiful Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/a-bootiful-podcast/id1438691771) | [Spotify](https://open.spotify.com/show/5eyimRNrvZStATQk8by82A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2Jvb3RpZnVscG9kY2FzdC9mZWVkLnhtbA) | [Web](https://bootifulpodcast.podbean.com/)
-
-Java Off-Heap
-
-[Apple](https://podcasts.apple.com/us/podcast/java-off-heap/id985064111) | [Spotify](https://open.spotify.com/show/6uHXDdtXmcsWZWhIOWkHsF?si=EArcE2mYQCiUG2AhkAxzBQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vZmZoZWFwLmxpYnN5bi5jb20vcnNz) | [Web](https://www.javaoffheap.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Java Pub House | [Apple](https://podcasts.apple.com/us/podcast/java-pub-house/id467641329) | [Spotify](https://open.spotify.com/show/0laUgleS6VdmeeCk7hRemf?si=dfyjSK1PTX-pKFDKHWL3fQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9qYXZhcHViaG91c2UubGlic3luLmNvbS9yc3M) | [Web](https://javapubhouse.libsyn.com/)
+| Coders Campus Podcast | [Apple](https://podcasts.apple.com/us/podcast/coders-campus-podcast/id1241340018) | [Spotify](https://open.spotify.com/show/6Lo6iDLf9hrPGaPbhfxhoq?si=3Mi9LdJMSKqBw5e3DLxA-g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jb2RlcnNjYW1wdXMuY29tL2NhdGVnb3J5L2NvZGVycy1jYW1wdXMtcG9kY2FzdC9mZWVkLw) | [Web](https://coderscampus.com/category/coders-campus-podcast/)
+| A Bootiful Podcast | [Apple](https://podcasts.apple.com/us/podcast/a-bootiful-podcast/id1438691771) | [Spotify](https://open.spotify.com/show/5eyimRNrvZStATQk8by82A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2Jvb3RpZnVscG9kY2FzdC9mZWVkLnhtbA) | [Web](https://bootifulpodcast.podbean.com/)
+| Java Off-Heap | [Apple](https://podcasts.apple.com/us/podcast/java-off-heap/id985064111) | [Spotify](https://open.spotify.com/show/6uHXDdtXmcsWZWhIOWkHsF?si=EArcE2mYQCiUG2AhkAxzBQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vZmZoZWFwLmxpYnN5bi5jb20vcnNz) | [Web](https://www.javaoffheap.com/)
 
 ## Ruby Podcasts
 
