@@ -357,46 +357,20 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | SimplyPHP Unscripted | [Apple](https://podcasts.apple.com/us/podcast/simplyphp-unscripted/id1450186458) | [Spotify](https://open.spotify.com/show/6Gl6dPAimxvppu3uCi206R) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NjQyMGI0L3BvZGNhc3QvcnNz) | [Web](https://www.simplyphp.com/)
 
 ## Python Podcasts
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| The Real Python Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-real-python-podcast/id1501905538) | [Spotify](https://open.spotify.com/show/41Av6Rq81LfOT3Volz7W9D?si=U6CkoYPhTuqirQheRbuTmA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA) | [Web](https://realpython.com/podcasts/rpp/)
+| Profitable Python | [Apple](https://podcasts.apple.com/us/podcast/profitable-python/id1472548149) | [Spotify](https://open.spotify.com/show/2RKZEtzqWhOr75iZSM0ACD?si=BXm7E_rqS36vo-QJ1DL2pg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jOGRmNjM4L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/profitablepythonfm)
+| The Python Podcast.\_\_init\_\_ | [Apple](https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425) | [Spotify](https://open.spotify.com/show/5LblXHyyIfoGOL8s3ZcCxe?si=eI1F7F0PT9SnE-1jCJu1Vw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucHl0aG9ucG9kY2FzdC5jb20vZmVlZC9tcDMv) | [Web](https://www.pythonpodcast.com/)
+| Python Bytes | [Apple](https://podcasts.apple.com/us/podcast/python-bytes/id1173690032) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9weXRob25ieXRlcy5mbS9lcGlzb2Rlcy9yc3M) | [Web](https://pythonbytes.fm/)
+| Talk Python To Me | [Apple](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzc19mdWxsX2hpc3Rvcnk) | [Web](https://talkpython.fm/)
+| Test & Code : Python Testing for Software Engineers | [Apple](https://podcasts.apple.com/us/podcast/test-code-python-testing-for-software-engineers/id1029487211) | [Spotify](https://open.spotify.com/show/3TFuu4Eb7jGgR8cwGrQifa?si=P8uvgy2ERSGDJGQJwCx1FA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90ZXN0YW5kY29kZS5jb20vcnNz) | [Web](https://testandcode.com/)
+| Teaching Python | [Apple](https://podcasts.apple.com/us/podcast/teaching-python/id1445806053) | [Spotify](https://open.spotify.com/show/3dcJgPzmDn6JXn1eoZvnjH?si=_c-MPG6jRHqC3aiz-_-rHA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGVhY2hpbmdweXRob24uZm0vcnNz) | [Web](https://www.teachingpython.fm/)
+| Django | [Apple](https://podcasts.apple.com/us/podcast/django-chat/id1451536459) | [Spotify](https://open.spotify.com/show/4JTUPoJhFKOjbzNbGmIq5l?si=CqgpQsjvSeCn-BLo6QmB4A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9XcFFhWF9jcw) | [Web](https://djangochat.com/)
+| Django Riffs | [Apple](https://podcasts.apple.com/us/podcast/django-riffs/id1497248397) | [Spotify](https://open.spotify.com/show/1RtdveQIz5m5MqLKPWbhnD?si=F9W7YzvNQuOWmaR46iTjNQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9sXzVzVTN2aw) | [Web](https://djangoriffs.com/)
+| Dev Root IT. Programming. Backend Python/Django Dev | [Apple](https://podcasts.apple.com/us/podcast/programming-python-js-django-web-dev/id1494558726) | [Spotify](https://open.spotify.com/show/7xoa8fDog8mgwqUHZ0pp2A?si=RSXvDLqrR0WmJH1qwSaTXQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuY2FzdGJveC5mbS9ldmVyZXN0LzFlMjczOWFhNWQwOTQ3YTM5NDgwNWI4YzMzMDAzMDMxLnhtbA) | [Web](https://castbox.fm/channel/id2555636?country=us)
 
-The Real Python Podcast
 
-[Apple](https://podcasts.apple.com/us/podcast/the-real-python-podcast/id1501905538) | [Spotify](https://open.spotify.com/show/41Av6Rq81LfOT3Volz7W9D?si=U6CkoYPhTuqirQheRbuTmA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA) | [Web](https://realpython.com/podcasts/rpp/)
-
-Profitable Python
-
-[Apple](https://podcasts.apple.com/us/podcast/profitable-python/id1472548149) | [Spotify](https://open.spotify.com/show/2RKZEtzqWhOr75iZSM0ACD?si=BXm7E_rqS36vo-QJ1DL2pg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9jOGRmNjM4L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/profitablepythonfm)
-
-The Python Podcast.\_\_init\_\_
-
-[Apple](https://podcasts.apple.com/us/podcast/the-python-podcast-init/id981834425) | [Spotify](https://open.spotify.com/show/5LblXHyyIfoGOL8s3ZcCxe?si=eI1F7F0PT9SnE-1jCJu1Vw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucHl0aG9ucG9kY2FzdC5jb20vZmVlZC9tcDMv) | [Web](https://www.pythonpodcast.com/)
-
-Python Bytes
-
-[Apple](https://podcasts.apple.com/us/podcast/python-bytes/id1173690032) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9weXRob25ieXRlcy5mbS9lcGlzb2Rlcy9yc3M) | [Web](https://pythonbytes.fm/)
-
-Talk Python To Me
-
-[Apple](https://podcasts.apple.com/us/podcast/talk-python-to-me/id979020229) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrcHl0aG9uLmZtL2VwaXNvZGVzL3Jzc19mdWxsX2hpc3Rvcnk) | [Web](https://talkpython.fm/)
-
-Test & Code : Python Testing for Software Engineers
-
-[Apple](https://podcasts.apple.com/us/podcast/test-code-python-testing-for-software-engineers/id1029487211) | [Spotify](https://open.spotify.com/show/3TFuu4Eb7jGgR8cwGrQifa?si=P8uvgy2ERSGDJGQJwCx1FA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90ZXN0YW5kY29kZS5jb20vcnNz) | [Web](https://testandcode.com/)
-
-Teaching Python
-
-[Apple](https://podcasts.apple.com/us/podcast/teaching-python/id1445806053) | [Spotify](https://open.spotify.com/show/3dcJgPzmDn6JXn1eoZvnjH?si=_c-MPG6jRHqC3aiz-_-rHA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudGVhY2hpbmdweXRob24uZm0vcnNz) | [Web](https://www.teachingpython.fm/)
-
-Django
-
-[Apple](https://podcasts.apple.com/us/podcast/django-chat/id1451536459) | [Spotify](https://open.spotify.com/show/4JTUPoJhFKOjbzNbGmIq5l?si=CqgpQsjvSeCn-BLo6QmB4A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9XcFFhWF9jcw) | [Web](https://djangochat.com/)
-
-Django Riffs
-
-[Apple](https://podcasts.apple.com/us/podcast/django-riffs/id1497248397) | [Spotify](https://open.spotify.com/show/1RtdveQIz5m5MqLKPWbhnD?si=F9W7YzvNQuOWmaR46iTjNQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9sXzVzVTN2aw) | [Web](https://djangoriffs.com/)
-
-Dev Root IT. Programming. Backend Python/Django Dev
-
-[Apple](https://podcasts.apple.com/us/podcast/programming-python-js-django-web-dev/id1494558726) | [Spotify](https://open.spotify.com/show/7xoa8fDog8mgwqUHZ0pp2A?si=RSXvDLqrR0WmJH1qwSaTXQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuY2FzdGJveC5mbS9ldmVyZXN0LzFlMjczOWFhNWQwOTQ3YTM5NDgwNWI4YzMzMDAzMDMxLnhtbA) | [Web](https://castbox.fm/channel/id2555636?country=us)
 
 ## Java Podcasts
 
