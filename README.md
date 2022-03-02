@@ -381,6 +381,8 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Java Off-Heap | [Apple](https://podcasts.apple.com/us/podcast/java-off-heap/id985064111) | [Spotify](https://open.spotify.com/show/6uHXDdtXmcsWZWhIOWkHsF?si=EArcE2mYQCiUG2AhkAxzBQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vZmZoZWFwLmxpYnN5bi5jb20vcnNz) | [Web](https://www.javaoffheap.com/)
 
 ## Ruby Podcasts
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
 | Ruby Rogues | [Apple](https://podcasts.apple.com/us/podcast/the-ruby-rogues/id1237406856) | [Spotify](https://open.spotify.com/show/06Gzz17ISUn1rGwItgQdl0?si=ovlelRhvRoyHlrEjcdhBJw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9SdWJ5Um9ndWVzLnJzcw) | [Web](https://devchat.tv/podcasts/ruby-rogues/)
 | Remote Ruby | [Apple](https://podcasts.apple.com/us/podcast/remote-ruby/id1397042613) | [Spotify](https://open.spotify.com/show/23ZxPAyiZx2rTJ4NjYycLN?si=R05h5lLPTY2NX0lvzh6aKA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3JlbW90ZS1ydWJ5) | [Web](https://remoteruby.transistor.fm/)
 | Ruby on Rails Podcast | [Apple](https://podcasts.apple.com/us/podcast/ruby-on-rails-podcast/id840890158) | [Spotify](https://open.spotify.com/show/2Iibd5A6R7mxkCm4NwNmUn?si=QoWRh1HKRn-i5ONgW_yqgA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy41Ynk1LnR2L3J1YnlvbnJhaWxz) | [Web](http://5by5.tv/rubyonrails)
