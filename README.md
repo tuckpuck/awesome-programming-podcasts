@@ -391,26 +391,14 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## C# and .NET Podcasts
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| .NET Rocks | [Apple](https://podcasts.apple.com/us/podcast/net-rocks/id130068596) | [Spotify](https://open.spotify.com/show/5tz9eGgXtNHmq3WVD3EwYx?si=gOu84EMMRWq87g8RZIFCxg) | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1kb3RuZXRyb2NrcyZmaWxldHlwZT1tYXN0ZXI) | [Web](https://www.dotnetrocks.com/)
+| Adventures in .NET | [Apple](https://podcasts.apple.com/us/podcast/adventures-in-net/id1478997569) | [Spotify](https://open.spotify.com/show/0Zbp6m8y06n2zlPPs59DEX) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9BZHZlbnR1cmVzSW5Eb3ROZXQucnNz) | [Web](https://devchat.tv/podcasts/adventures-in-dotnet/)
+| The .NET Core Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-net-core-podcast/id1433496275) | [Spotify](https://open.spotify.com/show/6FIM18ZIqQvuX7d1TA9rbZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVkb3RuZXRjb3JlcG9kY2FzdC5saWJzeW4uY29tL3Jzcw==) | [Web](https://dotnetcore.show/)
+| Herding Code | [Apple](https://podcasts.apple.com/us/podcast/herding-code/id284067914) | [Spotify](https://open.spotify.com/show/5qhAcNIalFbf9UVOL0vGKY?si=WW4bV9CPRoC9HVt2plOjOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9oZXJkaW5nY29kZS5jb20vZmVlZC8) | [Web](https://herdingcode.com/)
+| Channel 9 | [Apple](https://podcasts.apple.com/us/podcast/channel-9/id73802611) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFubmVsOS5tc2RuLmNvbS9GZWVkcy9SU1MvbXAz) | [Web](https://channel9.msdn.com/)
 
-.NET Rocks
-
-[Apple](https://podcasts.apple.com/us/podcast/net-rocks/id130068596) | [Spotify](https://open.spotify.com/show/5tz9eGgXtNHmq3WVD3EwYx?si=gOu84EMMRWq87g8RZIFCxg) | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1kb3RuZXRyb2NrcyZmaWxldHlwZT1tYXN0ZXI) | [Web](https://www.dotnetrocks.com/)
-
-Adventures in .NET
-
-[Apple](https://podcasts.apple.com/us/podcast/adventures-in-net/id1478997569) | [Spotify](https://open.spotify.com/show/0Zbp6m8y06n2zlPPs59DEX) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9BZHZlbnR1cmVzSW5Eb3ROZXQucnNz) | [Web](https://devchat.tv/podcasts/adventures-in-dotnet/)
-
-The .NET Core Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-net-core-podcast/id1433496275) | [Spotify](https://open.spotify.com/show/6FIM18ZIqQvuX7d1TA9rbZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVkb3RuZXRjb3JlcG9kY2FzdC5saWJzeW4uY29tL3Jzcw==) | [Web](https://dotnetcore.show/)
-
-Herding Code
-
-[Apple](https://podcasts.apple.com/us/podcast/herding-code/id284067914) | [Spotify](https://open.spotify.com/show/5qhAcNIalFbf9UVOL0vGKY?si=WW4bV9CPRoC9HVt2plOjOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9oZXJkaW5nY29kZS5jb20vZmVlZC8) | [Web](https://herdingcode.com/)
-
-Channel 9
-
-[Apple](https://podcasts.apple.com/us/podcast/channel-9/id73802611) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFubmVsOS5tc2RuLmNvbS9GZWVkcy9SU1MvbXAz) | [Web](https://channel9.msdn.com/)
 
 ## Go Podcasts
 
