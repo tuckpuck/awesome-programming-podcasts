@@ -412,10 +412,9 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Talking Kotlin | [Apple](https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266) | [Spotify](https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI4MDM1MzE3My9zb3VuZHMucnNz) | [Web](https://talkingkotlin.com/)
 
 ## Rust Podcasts
-
-Rustacean Station
-
-[Apple](https://podcasts.apple.com/us/podcast/rustacean-station/id1472535519) | [Spotify](https://open.spotify.com/show/4XKDKi1FwTbgn51nPuRDfZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydXN0YWNlYW4tc3RhdGlvbi5vcmcvcG9kY2FzdC5yc3M=) | [Web](https://rustacean-station.org/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Rustacean Station | [Apple](https://podcasts.apple.com/us/podcast/rustacean-station/id1472535519) | [Spotify](https://open.spotify.com/show/4XKDKi1FwTbgn51nPuRDfZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydXN0YWNlYW4tc3RhdGlvbi5vcmcvcG9kY2FzdC5yc3M=) | [Web](https://rustacean-station.org/)
 
 ## Functional Podcasts
 
