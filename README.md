@@ -433,26 +433,13 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Elm Town | [Apple](https://podcasts.apple.com/us/podcast/elm-town/id1158047037) | [Spotify](https://open.spotify.com/show/4yO5HRitTuPHkwD6S43o7n) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMzk5NS9yc3M) | [Web](https://elmtown.simplecast.fm/)
 
 ## Database Podcasts
-
-SQL Server Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/sql-server-radio/id907987517) | [Spotify](https://open.spotify.com/show/2f2y0Y7LyMxWux5NlRMuD4) | [Google](https://podcasts.google.com/feed/aHR0cDovL21hZGVpcmFzcWxzZXJ2ZXJyYWRpby5saWJzeW4uY29tL3Jzcw) | [Web](https://sqlserverradio.com/)
-
-The MongoDB Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-mongodb-podcast/id1500452446) | [Spotify](https://open.spotify.com/show/0ibUtrJG4JVgwfvB2MXMSb) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tb25nb2RiLmxpYnN5bi5jb20vcnNz) | [Web](https://mongodb.libsyn.com/)
-
-Dear SQL DBA
-
-[Apple](https://podcasts.apple.com/us/podcast/dear-sql-dba/id1117507864) | [Spotify](https://open.spotify.com/show/6UJ19Tjq09aJbQuKUzI9JZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWFyc3FsZGJhLmxpYnN5bi5jb20vcnNz) | [Web](https://littlekendra.com/dearsqldba/)
-
-DBAle
-
-[Apple](https://podcasts.apple.com/us/podcast/dbale/id1415877004) | [Spotify](https://open.spotify.com/show/3d4etoimgXv3HxbrN77b4A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWRnYXRlLmxpYnN5bi5jb20vcnNz) | [Web](https://redgate.libsyn.com/website)
-
-Voiceofthedba's Podcast
-
-[Apple](https://podcasts.apple.com/podcast/id268045050) | [Spotify](https://open.spotify.com/show/0O1d8TLYfoMXnVu5ADGNWj) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3NxbHNlcnZlcmNlbnRyYWwvc0tpag) | [Web](https://voiceofthedba.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| SQL Server Radio | [Apple](https://podcasts.apple.com/us/podcast/sql-server-radio/id907987517) | [Spotify](https://open.spotify.com/show/2f2y0Y7LyMxWux5NlRMuD4) | [Google](https://podcasts.google.com/feed/aHR0cDovL21hZGVpcmFzcWxzZXJ2ZXJyYWRpby5saWJzeW4uY29tL3Jzcw) | [Web](https://sqlserverradio.com/)
+| The MongoDB Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-mongodb-podcast/id1500452446) | [Spotify](https://open.spotify.com/show/0ibUtrJG4JVgwfvB2MXMSb) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tb25nb2RiLmxpYnN5bi5jb20vcnNz) | [Web](https://mongodb.libsyn.com/)
+| Dear SQL DBA | [Apple](https://podcasts.apple.com/us/podcast/dear-sql-dba/id1117507864) | [Spotify](https://open.spotify.com/show/6UJ19Tjq09aJbQuKUzI9JZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWFyc3FsZGJhLmxpYnN5bi5jb20vcnNz) | [Web](https://littlekendra.com/dearsqldba/)
+| DBAle | [Apple](https://podcasts.apple.com/us/podcast/dbale/id1415877004) | [Spotify](https://open.spotify.com/show/3d4etoimgXv3HxbrN77b4A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWRnYXRlLmxpYnN5bi5jb20vcnNz) | [Web](https://redgate.libsyn.com/website)
+| Voiceofthedba's Podcast | [Apple](https://podcasts.apple.com/podcast/id268045050) | [Spotify](https://open.spotify.com/show/0O1d8TLYfoMXnVu5ADGNWj) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3NxbHNlcnZlcmNlbnRyYWwvc0tpag) | [Web](https://voiceofthedba.com/)
 
 ## Cloud and DevOps Podcasts
 
