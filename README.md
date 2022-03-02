@@ -343,46 +343,18 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Backend Engineering with Hussein Nasser | [Apple](https://podcasts.apple.com/us/podcast/backend-engineering-with-hussein-nasser/id1330350799) | [Spotify](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc?si=1r8Ob60yR7mwC5zubp6iOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZWI2ZDE0L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/hnasr)
 
 ## PHP Podcasts
-
-php\[podcast\]
-
-[Apple](https://podcasts.apple.com/us/podcast/php-podcast-episodes-from-php-architect/id1274553371) | [Spotify](https://open.spotify.com/show/43IEX2KzlXkT7GEz6Ab8v9?si=_jAArf0YSdygLf-uOtgHog) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucGhwYXJjaC5jb20vcG9kY2FzdC9mZWVkL2VwaXNvZGVzLw) | [Web](https://www.phparch.com/podcast/)
-
-Voices of the ElePHPant
-
-[Apple](https://podcasts.apple.com/us/podcast/voices-of-the-elephpant/id1180610454) | [Spotify](https://open.spotify.com/show/27AJlrd4HzXSQUK7L4K8Mo?si=D3kS-8xLR6SroL9mmMt3Ng) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly92b2ljZXNvZnRoZWVsZXBocGFudC5jb20vZmVlZC9wb2RjYXN0Lw) | [Web](https://voicesoftheelephpant.com/)
-
-PHPUgly
-
-[Apple](https://podcasts.apple.com/us/podcast/phpugly/id1093659401) | [Spotify](https://open.spotify.com/show/1rmuLOaapKfFz4K03zBN4O?si=bKJFW4lcSmWurqlssdkf6Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9pWVJpSDl5bQ) | [Web](https://phpugly.simplecast.com/)
-
-PHP Internals News
-
-[Apple](https://podcasts.apple.com/us/podcast/php-internals-news/id1455782198) | [Spotify](https://open.spotify.com/show/1Qcd282SDWGF3FSVuG6kuB?si=HUbSqNbsRgWPcMTGbIxF_g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXJpY2tyZXRoYW5zLm5sL2ZlZWQtcGhwaW50ZXJuYWxzbmV3cy54bWw) | [Web](https://phpinternals.news/)
-
-PHP Town Hall
-
-[Apple](https://podcasts.apple.com/us/podcast/php-town-hall/id585240066) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3BocHRvd25oYWxsL2RyRGw) | [Web](https://phptownhall.com/)
-
-Laravel News Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/laravel-news-podcast/id1051289963) | [Spotify](https://open.spotify.com/show/7DHQPI35Rpci8Q1n2NM8dE?si=B8nvgJ7LThOJIhrwVCgGqw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2xhcmF2ZWxuZXdz) | [Web](https://laravel-news.com/category/podcast)
-
-The Laravel Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-laravel-podcast/id653204183) | [Spotify](https://open.spotify.com/show/4Hz0Dd3fnHoTDt3BBNVV15?si=J6UJsQuXQaWZRRGXH4HZiw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9mRVNEdGZHcw) | [Web](https://laravel.com/)
-
-The Laravel Snippet
-
-[Apple](https://podcasts.apple.com/us/podcast/the-laravel-snippet/id1451072164) | [Spotify](https://open.spotify.com/show/1JRsUoFejkMUjJZLzBCGOq?si=_Jj8AF6QRqeBzj7Z9ksoiA) | ~~Google~~ | [Web](https://blog.laravel.com/snippets)
-
-The Laracasts Snippet
-
-[Apple](https://podcasts.apple.com/us/podcast/the-laracasts-snippet/id1059530816) | [Spotify](https://open.spotify.com/show/7bZPUEHwhcxAOW2ifaq5kN?si=khpb0TiLS3yFBHXpYLYNyQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMTQ4Ni9yc3M) | [Web](https://laracasts.simplecast.fm/)
-
-SimplyPHP Unscripted
-
-[Apple](https://podcasts.apple.com/us/podcast/simplyphp-unscripted/id1450186458) | [Spotify](https://open.spotify.com/show/6Gl6dPAimxvppu3uCi206R) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NjQyMGI0L3BvZGNhc3QvcnNz) | [Web](https://www.simplyphp.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| php\[podcast\] | [Apple](https://podcasts.apple.com/us/podcast/php-podcast-episodes-from-php-architect/id1274553371) | [Spotify](https://open.spotify.com/show/43IEX2KzlXkT7GEz6Ab8v9?si=_jAArf0YSdygLf-uOtgHog) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucGhwYXJjaC5jb20vcG9kY2FzdC9mZWVkL2VwaXNvZGVzLw) | [Web](https://www.phparch.com/podcast/)
+| Voices of the ElePHPant | [Apple](https://podcasts.apple.com/us/podcast/voices-of-the-elephpant/id1180610454) | [Spotify](https://open.spotify.com/show/27AJlrd4HzXSQUK7L4K8Mo?si=D3kS-8xLR6SroL9mmMt3Ng) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly92b2ljZXNvZnRoZWVsZXBocGFudC5jb20vZmVlZC9wb2RjYXN0Lw) | [Web](https://voicesoftheelephpant.com/)
+| PHPUgly | [Apple](https://podcasts.apple.com/us/podcast/phpugly/id1093659401) | [Spotify](https://open.spotify.com/show/1rmuLOaapKfFz4K03zBN4O?si=bKJFW4lcSmWurqlssdkf6Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9pWVJpSDl5bQ) | [Web](https://phpugly.simplecast.com/)
+| PHP Internals News | [Apple](https://podcasts.apple.com/us/podcast/php-internals-news/id1455782198) | [Spotify](https://open.spotify.com/show/1Qcd282SDWGF3FSVuG6kuB?si=HUbSqNbsRgWPcMTGbIxF_g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXJpY2tyZXRoYW5zLm5sL2ZlZWQtcGhwaW50ZXJuYWxzbmV3cy54bWw) | [Web](https://phpinternals.news/)
+| PHP Town Hall | [Apple](https://podcasts.apple.com/us/podcast/php-town-hall/id585240066) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3BocHRvd25oYWxsL2RyRGw) | [Web](https://phptownhall.com/)
+| Laravel News Podcast | [Apple](https://podcasts.apple.com/us/podcast/laravel-news-podcast/id1051289963) | [Spotify](https://open.spotify.com/show/7DHQPI35Rpci8Q1n2NM8dE?si=B8nvgJ7LThOJIhrwVCgGqw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2xhcmF2ZWxuZXdz) | [Web](https://laravel-news.com/category/podcast)
+| The Laravel Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-laravel-podcast/id653204183) | [Spotify](https://open.spotify.com/show/4Hz0Dd3fnHoTDt3BBNVV15?si=J6UJsQuXQaWZRRGXH4HZiw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9mRVNEdGZHcw) | [Web](https://laravel.com/)
+| The Laravel Snippet | [Apple](https://podcasts.apple.com/us/podcast/the-laravel-snippet/id1451072164) | [Spotify](https://open.spotify.com/show/1JRsUoFejkMUjJZLzBCGOq?si=_Jj8AF6QRqeBzj7Z9ksoiA) |  | [Web](https://blog.laravel.com/snippets)
+| The Laracasts Snippet | [Apple](https://podcasts.apple.com/us/podcast/the-laracasts-snippet/id1059530816) | [Spotify](https://open.spotify.com/show/7bZPUEHwhcxAOW2ifaq5kN?si=khpb0TiLS3yFBHXpYLYNyQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMTQ4Ni9yc3M) | [Web](https://laracasts.simplecast.fm/)
+| SimplyPHP Unscripted | [Apple](https://podcasts.apple.com/us/podcast/simplyphp-unscripted/id1450186458) | [Spotify](https://open.spotify.com/show/6Gl6dPAimxvppu3uCi206R) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NjQyMGI0L3BvZGNhc3QvcnNz) | [Web](https://www.simplyphp.com/)
 
 ## Python Podcasts
 
