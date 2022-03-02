@@ -407,10 +407,9 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Kotlin Podcasts
-
-Talking Kotlin
-
-[Apple](https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266) | [Spotify](https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI4MDM1MzE3My9zb3VuZHMucnNz) | [Web](https://talkingkotlin.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Talking Kotlin | [Apple](https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266) | [Spotify](https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI4MDM1MzE3My9zb3VuZHMucnNz) | [Web](https://talkingkotlin.com/)
 
 ## Rust Podcasts
 
