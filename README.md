@@ -338,10 +338,9 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | ThoughtWorks Technology Podcast | [Apple](https://podcasts.apple.com/us/podcast/thoughtworks-technology-podcast/id881136697) | [Spotify](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aG91Z2h0d29ya3MubGlic3luLmNvbS9yc3M=) | [Web](https://www.thoughtworks.com/podcasts/technology-podcasts)
 
 ## Backend Podcasts
-
-Backend Engineering with Hussein Nasser
-
-[Apple](https://podcasts.apple.com/us/podcast/backend-engineering-with-hussein-nasser/id1330350799) | [Spotify](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc?si=1r8Ob60yR7mwC5zubp6iOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZWI2ZDE0L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/hnasr)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Backend Engineering with Hussein Nasser | [Apple](https://podcasts.apple.com/us/podcast/backend-engineering-with-hussein-nasser/id1330350799) | [Spotify](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc?si=1r8Ob60yR7mwC5zubp6iOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZWI2ZDE0L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/hnasr)
 
 ## PHP Podcasts
 
