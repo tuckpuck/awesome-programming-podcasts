@@ -401,10 +401,10 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Go Podcasts
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Go Time | [Apple](https://podcasts.apple.com/us/podcast/go-time/id1120964487) | [Spotify](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=5qveRjacQq6LY06qSFM-tw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2dvdGltZS9mZWVk) | [Web](https://changelog.com/gotime)
 
-Go Time
-
-[Apple](https://podcasts.apple.com/us/podcast/go-time/id1120964487) | [Spotify](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=5qveRjacQq6LY06qSFM-tw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2dvdGltZS9mZWVk) | [Web](https://changelog.com/gotime)
 
 ## Kotlin Podcasts
 
