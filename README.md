@@ -417,54 +417,20 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Rustacean Station | [Apple](https://podcasts.apple.com/us/podcast/rustacean-station/id1472535519) | [Spotify](https://open.spotify.com/show/4XKDKi1FwTbgn51nPuRDfZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydXN0YWNlYW4tc3RhdGlvbi5vcmcvcG9kY2FzdC5yc3M=) | [Web](https://rustacean-station.org/)
 
 ## Functional Podcasts
-
-Elixir Wizards
-
-[Apple](https://podcasts.apple.com/us/podcast/elixir-wizards/id1454287242) | [Spotify](https://open.spotify.com/show/3wQJ4EMIPURAcrzJRw2SZf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnNtYXJ0bG9naWMuaW8vcnNz) | [Web](https://smartlogic.io/podcast/elixir-wizards/)
-
-Thinking Elixir Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/thinking-elixir-podcast/id1516100616) | [Spotify](https://open.spotify.com/show/3CBMe6U1KxJeZ7u3BcKFtf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGlua2luZ2VsaXhpci5jb20vZmVlZC9wb2RjYXN0Lw) | [Web](https://thinkingelixir.com/the-podcast/)
-
-Elixir Talk
-
-[Apple](https://podcasts.apple.com/us/podcast/elixir-talk/id1298287048) | [Spotify](https://open.spotify.com/show/274tVpP3wM0qmwBPczQm2K) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjMzNDU3OTc0NS9zb3VuZHMucnNz) | [Web](https://soundcloud.com/elixirtalk)
-
-Elixir Mix
-
-[Apple](https://podcasts.apple.com/us/podcast/elixir-mix/id1379029137) | [Spotify](https://open.spotify.com/show/17aWMXiTUhipvWQ9UCZrRi) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9lbGl4aXJtaXgucnNz) | [Web](https://devchat.tv/elixir-mix/)
-
-Elixir Outlaws
-
-[Apple](https://podcasts.apple.com/us/podcast/elixir-outlaws/id1372617417) | [Spotify](https://open.spotify.com/show/7wI0tsKVBkoHyYvofNOWCe) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9lbGl4aXJvdXRsYXdzLmNvbS9yc3M) | [Web](https://elixiroutlaws.com/)
-
-Functional Geekery
-
-[Apple](https://podcasts.apple.com/us/podcast/functional-geekery/id790455326) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZnVuY3Rpb25hbGdlZWtlcnkuY29tL2ZlZWQvcG9kY2FzdC8) | [Web](https://www.functionalgeekery.com/)
-
-Reason Town
-
-[Apple](https://podcasts.apple.com/us/podcast/reason-town/id1333705038) | [Spotify](https://open.spotify.com/show/52CvqOJ8APThwEJhNZjn2g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83OTA3MGU4L3BvZGNhc3QvcnNz) | [Web](https://reason.town/)
-
-Defn
-
-[Apple](https://podcasts.apple.com/us/podcast/defn/id1114899563) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMDQ4NDI0My9zb3VuZHMucnNz) | [Web](https://soundcloud.com/defn-771544745)
-
-ClojureScript Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/clojurescript-podcast/id1461500416) | [Spotify](https://open.spotify.com/show/3lnWCN0PAAywiN7gaxNzKZ?si=SFuDbbYhRHCrFkiCKPgWjA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjYyNzE5MDA4OS9zb3VuZHMucnNz) | [Web](https://www.jacekschae.com/)
-
-The REPL
-
-[Apple](https://podcasts.apple.com/us/podcast/the-repl/id1434612191) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50aGVyZXBsLm5ldC90aGVyZXBs) | [Web](https://www.therepl.net/)
-
-LambdaCast
-
-[Apple](https://podcasts.apple.com/us/podcast/lambdacast/id1133087254) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIzOTc4NzI0OS9zb3VuZHMucnNz) | [Web](https://soundcloud.com/lambda-cast)
-
-Elm Town
-
-[Apple](https://podcasts.apple.com/us/podcast/elm-town/id1158047037) | [Spotify](https://open.spotify.com/show/4yO5HRitTuPHkwD6S43o7n) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMzk5NS9yc3M) | [Web](https://elmtown.simplecast.fm/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Elixir Wizards | [Apple](https://podcasts.apple.com/us/podcast/elixir-wizards/id1454287242) | [Spotify](https://open.spotify.com/show/3wQJ4EMIPURAcrzJRw2SZf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnNtYXJ0bG9naWMuaW8vcnNz) | [Web](https://smartlogic.io/podcast/elixir-wizards/)
+| Thinking Elixir Podcast | [Apple](https://podcasts.apple.com/us/podcast/thinking-elixir-podcast/id1516100616) | [Spotify](https://open.spotify.com/show/3CBMe6U1KxJeZ7u3BcKFtf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGlua2luZ2VsaXhpci5jb20vZmVlZC9wb2RjYXN0Lw) | [Web](https://thinkingelixir.com/the-podcast/)
+| Elixir Talk | [Apple](https://podcasts.apple.com/us/podcast/elixir-talk/id1298287048) | [Spotify](https://open.spotify.com/show/274tVpP3wM0qmwBPczQm2K) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjMzNDU3OTc0NS9zb3VuZHMucnNz) | [Web](https://soundcloud.com/elixirtalk)
+| Elixir Mix | [Apple](https://podcasts.apple.com/us/podcast/elixir-mix/id1379029137) | [Spotify](https://open.spotify.com/show/17aWMXiTUhipvWQ9UCZrRi) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9lbGl4aXJtaXgucnNz) | [Web](https://devchat.tv/elixir-mix/)
+| Elixir Outlaws | [Apple](https://podcasts.apple.com/us/podcast/elixir-outlaws/id1372617417) | [Spotify](https://open.spotify.com/show/7wI0tsKVBkoHyYvofNOWCe) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9lbGl4aXJvdXRsYXdzLmNvbS9yc3M) | [Web](https://elixiroutlaws.com/)
+| Functional Geekery | [Apple](https://podcasts.apple.com/us/podcast/functional-geekery/id790455326) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZnVuY3Rpb25hbGdlZWtlcnkuY29tL2ZlZWQvcG9kY2FzdC8) | [Web](https://www.functionalgeekery.com/)
+| Reason Town | [Apple](https://podcasts.apple.com/us/podcast/reason-town/id1333705038) | [Spotify](https://open.spotify.com/show/52CvqOJ8APThwEJhNZjn2g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83OTA3MGU4L3BvZGNhc3QvcnNz) | [Web](https://reason.town/)
+| Defn | [Apple](https://podcasts.apple.com/us/podcast/defn/id1114899563) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyMDQ4NDI0My9zb3VuZHMucnNz) | [Web](https://soundcloud.com/defn-771544745)
+| ClojureScript Podcast | [Apple](https://podcasts.apple.com/us/podcast/clojurescript-podcast/id1461500416) | [Spotify](https://open.spotify.com/show/3lnWCN0PAAywiN7gaxNzKZ?si=SFuDbbYhRHCrFkiCKPgWjA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjYyNzE5MDA4OS9zb3VuZHMucnNz) | [Web](https://www.jacekschae.com/) 
+| The REPL | [Apple](https://podcasts.apple.com/us/podcast/the-repl/id1434612191) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50aGVyZXBsLm5ldC90aGVyZXBs) | [Web](https://www.therepl.net/)
+| LambdaCast | [Apple](https://podcasts.apple.com/us/podcast/lambdacast/id1133087254) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIzOTc4NzI0OS9zb3VuZHMucnNz) | [Web](https://soundcloud.com/lambda-cast)
+| Elm Town | [Apple](https://podcasts.apple.com/us/podcast/elm-town/id1158047037) | [Spotify](https://open.spotify.com/show/4yO5HRitTuPHkwD6S43o7n) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMzk5NS9yc3M) | [Web](https://elmtown.simplecast.fm/)
 
 ## Database Podcasts
 
