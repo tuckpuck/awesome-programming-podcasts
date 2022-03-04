@@ -577,75 +577,28 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Freelance Podcasts
 
-Self-Made Web Designer
-
-[Apple](https://podcasts.apple.com/us/podcast/self-made-web-designer/id1498724299) | [Spotify](https://open.spotify.com/show/3mUeIrZ8V9JDB1dNphsqsV) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9KY0tzOWRjSA) | [Web](https://self-made-web-designer.simplecast.com/)
-
-The Devslopes Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-devslopes-podcast-with-mark-wahlbeck/id1364703132) | [Spotify](https://open.spotify.com/show/2RlRFS3qC6q4B9B88I3LZv) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMDVjMDc4L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/devslopes-official)
-
-The Consulting Pipeline Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-consulting-pipeline-podcast/id996285505) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1jb25zdWx0aW5nLXBpcGVsaW5lLXBvZGNhc3Q) | [Web](https://philipmorganconsulting.com/the-consulting-pipeline-podcast/)
-
-The Freelancer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-freelancer-podcast/id1469192814) | [Spotify](https://open.spotify.com/show/27oYFuQyf6VZ18bKP0ffPB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8zOTU2MjYucnNz) | [Web](https://studywebdevelopment.com/)
-
-The Josh Hall Web Design Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-josh-hall-web-design-show/id1484689808) | [Spotify](https://open.spotify.com/show/54Lw9cfbfIPLQvc7ANmMmL) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82MzY4NjIucnNz) | [Web](https://joshhall.co/)
-
-The John Morris Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-john-morris-show/id650552708) | [Spotify](https://open.spotify.com/show/7MrnDyZZe274Axp6WZJ5fN) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjQ4Mjg5ODIvc291bmRzLnJzcw) | [Web](https://joshhall.co/)
-
-The Freelancers' Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-freelancers-show/id715647197) | [Spotify](https://open.spotify.com/show/27UZE80AF7g3OoB4QcPjCl) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9UaGVGcmVlbGFuY2Vyc1Nob3cucnNz) | [Web](https://devchat.tv/freelancers/)
-
-The Freelance Developer
-
-[Apple](https://podcasts.apple.com/gb/podcast/the-freelance-developer/id1501730035) | [Spotify](https://open.spotify.com/show/7b9ipbu4hV2TIo5ePbLoJ3?si=yHrpTu9VSYKo5bA5o7vK5A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9FTGJkSm1LYg) | [Web](https://thefreelancedeveloper.co.uk/)
-
-d.MBA
-
-[Apple](https://podcasts.apple.com/us/podcast/beyond-users/id1341678453) | [Spotify](https://open.spotify.com/show/5tTlKvDqkmRThNSdczDooR) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9iZXlvbmR1c2Vycy5saWJzeW4uY29tL3Jzcw) | [Web](https://d.mba/)
-
-Entreprogrammers Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/entreprogrammers-podcast/id875119779) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL2VudHJlcHJvZ3JhbW1lcnMubGlic3luLmNvbS9yc3M) | [Web](https://entreprogrammers.com/)
-
-Company of One
-
-[Apple](https://podcasts.apple.com/us/podcast/company-of-one/id1359992823) | [Spotify](https://open.spotify.com/show/1MOHXSvS0J7SMLIJGp6Qlv) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2NvbXBhbnktb2Ytb25l) | [Web](https://pjrvs.com/)
-
-Creative Class, a podcast for freelancers
-
-[Apple](https://podcasts.apple.com/us/podcast/creative-class-a-podcast-for-freelancers/id1291981082) | [Spotify](https://open.spotify.com/show/4YuPcbnNCcJ0xG0MjP3T9z) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2NyZWF0aXZlLWNsYXNzLWEtcG9kY2FzdC1mb3ItZnJlZWxhbmNlcnM) | [Web](https://creativeclass.co/)
-
-The Freelance Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-freelance-podcast/id934947965) | [Spotify](https://open.spotify.com/show/7sAm1IsjUVTh4v0yXBmU7C) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9tWXFEN0pvbw) | [Web](http://www.rjmccollam.com/podcast)
-
-Freelance to Founder
-
-[Apple](https://podcasts.apple.com/us/podcast/freelance-to-founder/id1200512615) | [Spotify](https://open.spotify.com/show/4yNhFDWLowo3nOc0i3XaaS) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vVFBHMjY2MjY5NjUyMw) | [Web](https://millo.co/podcasts/freelancetofounder)
-
-seanwes podcast
-
-[Apple](https://podcasts.apple.com/gb/podcast/seanwes-podcast/id685421236) | [Spotify](https://open.spotify.com/show/51AVcH4syxFToXAMQAZpFD) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWFud2VzLmNvbS9mZWVkL3BvZGNhc3Q=) | [Web](https://seanwes.com/podcast/)
-
-Double your Freelancing Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/double-your-freelancing-podcast/id567557176) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMjE5L3Jzcw) | [Web](https://doubleyourfreelancing.com/podcast/)
-
-In a Freelance Minute
-
-[Apple](https://podcasts.apple.com/us/podcast/in-a-freelance-minute/id1538212698) | [Spotify](https://open.spotify.com/show/73SFH0qEtS08xjGnfrIkQj) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmVmb3JleW91Z29mcmVlbGFuY2UuY29tL2ZlZWQvcG9kY2FzdA) | [Web](beforeyougofreelance.com)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Self-Made Web Designer | [Apple](https://podcasts.apple.com/us/podcast/self-made-web-designer/id1498724299) | [Spotify](https://open.spotify.com/show/3mUeIrZ8V9JDB1dNphsqsV) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9KY0tzOWRjSA) | [Web](https://self-made-web-designer.simplecast.com/)
+| The Devslopes Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-devslopes-podcast-with-mark-wahlbeck/id1364703132) | [Spotify](https://open.spotify.com/show/2RlRFS3qC6q4B9B88I3LZv) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zMDVjMDc4L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/devslopes-official)
+| The Consulting Pipeline Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-consulting-pipeline-podcast/id996285505) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoZS1jb25zdWx0aW5nLXBpcGVsaW5lLXBvZGNhc3Q) | [Web](https://philipmorganconsulting.com/the-consulting-pipeline-podcast/)
+| The Freelancer Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-freelancer-podcast/id1469192814) | [Spotify](https://open.spotify.com/show/27oYFuQyf6VZ18bKP0ffPB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8zOTU2MjYucnNz) | [Web](https://studywebdevelopment.com/)
+| The Josh Hall Web Design Show | [Apple](https://podcasts.apple.com/us/podcast/the-josh-hall-web-design-show/id1484689808) | [Spotify](https://open.spotify.com/show/54Lw9cfbfIPLQvc7ANmMmL) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS82MzY4NjIucnNz) | [Web](https://joshhall.co/)
+| The John Morris Show | [Apple](https://podcasts.apple.com/us/podcast/the-john-morris-show/id650552708) | [Spotify](https://open.spotify.com/show/7MrnDyZZe274Axp6WZJ5fN) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjQ4Mjg5ODIvc291bmRzLnJzcw) | [Web](https://joshhall.co/)
+| The Freelancers' Show | [Apple](https://podcasts.apple.com/us/podcast/the-freelancers-show/id715647197) | [Spotify](https://open.spotify.com/show/27UZE80AF7g3OoB4QcPjCl) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9UaGVGcmVlbGFuY2Vyc1Nob3cucnNz) | [Web](https://devchat.tv/freelancers/)
+| The Freelance Developer | [Apple](https://podcasts.apple.com/gb/podcast/the-freelance-developer/id1501730035) | [Spotify](https://open.spotify.com/show/7b9ipbu4hV2TIo5ePbLoJ3?si=yHrpTu9VSYKo5bA5o7vK5A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9FTGJkSm1LYg) | [Web](https://thefreelancedeveloper.co.uk/)
+| d.MBA | [Apple](https://podcasts.apple.com/us/podcast/beyond-users/id1341678453) | [Spotify](https://open.spotify.com/show/5tTlKvDqkmRThNSdczDooR) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9iZXlvbmR1c2Vycy5saWJzeW4uY29tL3Jzcw) | [Web](https://d.mba/)
+| Entreprogrammers Podcast | [Apple](https://podcasts.apple.com/us/podcast/entreprogrammers-podcast/id875119779) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL2VudHJlcHJvZ3JhbW1lcnMubGlic3luLmNvbS9yc3M) | [Web](https://entreprogrammers.com/)
+| Company of One | [Apple](https://podcasts.apple.com/us/podcast/company-of-one/id1359992823) | [Spotify](https://open.spotify.com/show/1MOHXSvS0J7SMLIJGp6Qlv) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2NvbXBhbnktb2Ytb25l) | [Web](https://pjrvs.com/)
+| Creative Class, a podcast for freelancers | [Apple](https://podcasts.apple.com/us/podcast/creative-class-a-podcast-for-freelancers/id1291981082) | [Spotify](https://open.spotify.com/show/4YuPcbnNCcJ0xG0MjP3T9z) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2NyZWF0aXZlLWNsYXNzLWEtcG9kY2FzdC1mb3ItZnJlZWxhbmNlcnM) | [Web](https://creativeclass.co/)
+| The Freelance Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-freelance-podcast/id934947965) | [Spotify](https://open.spotify.com/show/7sAm1IsjUVTh4v0yXBmU7C) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9tWXFEN0pvbw) | [Web](http://www.rjmccollam.com/podcast)
+| Freelance to Founder | [Apple](https://podcasts.apple.com/us/podcast/freelance-to-founder/id1200512615) | [Spotify](https://open.spotify.com/show/4yNhFDWLowo3nOc0i3XaaS) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vVFBHMjY2MjY5NjUyMw) | [Web](https://millo.co/podcasts/freelancetofounder)
+| seanwes podcast | [Apple](https://podcasts.apple.com/gb/podcast/seanwes-podcast/id685421236) | [Spotify](https://open.spotify.com/show/51AVcH4syxFToXAMQAZpFD) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWFud2VzLmNvbS9mZWVkL3BvZGNhc3Q=) | [Web](https://seanwes.com/podcast/)
+| Double your Freelancing Podcast | [Apple](https://podcasts.apple.com/us/podcast/double-your-freelancing-podcast/id567557176) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMjE5L3Jzcw) | [Web](https://doubleyourfreelancing.com/podcast/)
+| In a Freelance Minute | [Apple](https://podcasts.apple.com/us/podcast/in-a-freelance-minute/id1538212698) | [Spotify](https://open.spotify.com/show/73SFH0qEtS08xjGnfrIkQj) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmVmb3JleW91Z29mcmVlbGFuY2UuY29tL2ZlZWQvcG9kY2FzdA) | [Web](beforeyougofreelance.com)
 
 ## Web Agency Podcasts
+
 The Digital Agency Show
 
 [Apple](https://podcasts.apple.com/us/podcast/digital-agency-show-helping-agency-owners-transform/id1193085635) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI3MTUxNjE0MS9zb3VuZHMucnNz) | [Web](https://ugurus.com/podcast/)
