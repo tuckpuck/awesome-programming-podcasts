@@ -37,7 +37,6 @@ Podcasts are a great way to stay informed about what's happening in web developm
   * [Freelance Podcasts](#freelance-podcasts)
   * [Web Agency Podcasts](#web-agency-podcasts)
 
-
 ## Learn to Code Podcasts
 
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
@@ -193,7 +192,6 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | WordPress Web Development |  |  | [Google](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMjlmMDA1NWZlMTNjNDgzZjliYTNmYzIyNDEzZGI2NjgueG1s) | [Web](https://castbox.fm/channel/id2370742)
 | WP Wednesday Podcast | [Apple](https://podcasts.apple.com/us/podcast/wp-wednesday-podcast/id1148402442) | [Spotify](https://open.spotify.com/show/2ye4hiUf2sLtLYTpgi7xuP) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2JlYml6enlicmVhay9mZWVkLnhtbA) | [Web](https://bebizzybreak.podbean.com/)
 | WP-Tonic Show A WordPress Podcast | [Apple](https://podcasts.apple.com/podcast/id893083124) | [Spotify](https://open.spotify.com/show/1vAGmxUJjHM0iPb45hu7pg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93cHRvbmljLmxpYnN5bi5jb20vcnNz) | [Web](https://www.wp-tonic.com/podcast-episodes/)
-
 
 ## Web Development Podcasts
 
@@ -404,13 +402,11 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Herding Code | [Apple](https://podcasts.apple.com/us/podcast/herding-code/id284067914) | [Spotify](https://open.spotify.com/show/5qhAcNIalFbf9UVOL0vGKY?si=WW4bV9CPRoC9HVt2plOjOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9oZXJkaW5nY29kZS5jb20vZmVlZC8) | [Web](https://herdingcode.com/)
 | Channel 9 | [Apple](https://podcasts.apple.com/us/podcast/channel-9/id73802611) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFubmVsOS5tc2RuLmNvbS9GZWVkcy9SU1MvbXAz) | [Web](https://channel9.msdn.com/)
 
-
 ## Go Podcasts
 
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Go Time | [Apple](https://podcasts.apple.com/us/podcast/go-time/id1120964487) | [Spotify](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=5qveRjacQq6LY06qSFM-tw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2dvdGltZS9mZWVk) | [Web](https://changelog.com/gotime)
-
 
 ## Kotlin Podcasts
 
@@ -510,17 +506,11 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Kubernetes Podcasts
 
-Kubernetes Podcast from Google
-
-[Apple](https://podcasts.apple.com/us/podcast/kubernetes-podcast-from-google/id1370049232) | [Spotify](https://open.spotify.com/show/0AsnxlMtXRUEeZkIO0ScpJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZmVlZHMvYXVkaW8ueG1s) | [Web](https://kubernetespodcast.com/)
-
-Kube Cuddle
-
-[Apple](https://podcasts.apple.com/us/podcast/kube-cuddle/id1498571321) | [Spotify](https://open.spotify.com/show/6T3gG0EzxxXQ1XqtLvntNT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2t1YmUtY3VkZGxl) | [Web](https://www.stitcher.com/show/kube-cuddle)
-
-PodCTL
-
-[Apple](https://podcasts.apple.com/us/podcast/podctl-kubernetes-for-the-enterprise/id1270983443) | [Spotify](https://open.spotify.com/show/4Bumge1mZHlEoDSckSCWs5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vMTEwMzk5LnJzcw) | [Web](https://www.openshift.com/blog)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Kubernetes Podcast from Google | [Apple](https://podcasts.apple.com/us/podcast/kubernetes-podcast-from-google/id1370049232) | [Spotify](https://open.spotify.com/show/0AsnxlMtXRUEeZkIO0ScpJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZmVlZHMvYXVkaW8ueG1s) | [Web](https://kubernetespodcast.com/)
+| Kube Cuddle | [Apple](https://podcasts.apple.com/us/podcast/kube-cuddle/id1498571321) | [Spotify](https://open.spotify.com/show/6T3gG0EzxxXQ1XqtLvntNT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2t1YmUtY3VkZGxl) | [Web](https://www.stitcher.com/show/kube-cuddle)
+| PodCTL | [Apple](https://podcasts.apple.com/us/podcast/podctl-kubernetes-for-the-enterprise/id1270983443) | [Spotify](https://open.spotify.com/show/4Bumge1mZHlEoDSckSCWs5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vMTEwMzk5LnJzcw) | [Web](https://www.openshift.com/blog)
 
 ## Linux Podcasts
 
