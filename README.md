@@ -163,6 +163,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Remotely Interesting | [Apple](https://podcasts.apple.com/us/podcast/remotely-interesting/id1530314876) | [Spotify](https://open.spotify.com/show/3EM9APeoSjJe4yfIaVfCVO?si=AHYazohiTTe4yFVZyjThgA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3JlbW90ZWx5LWludGVyZXN0aW5n) | [Web](https://remotelyinteresting.netlify.com/) |
 
 ## WordPress Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Dev Branch | [Apple](https://podcasts.apple.com/us/podcast/dev-branch-weekly-wordpress-web-development-talk-show/id1500351968) | [Spotify](https://open.spotify.com/show/6n4O74QhHrNeOk5m3fxpoc?si=dYSXAoY6SAivz4ijuTauSw) |  | [Web](https://www.podparadise.com/Podcast/1500351968)
@@ -195,6 +196,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Web Development Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Syntax.fm | [Apple](https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678) | [Spotify](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnN5bnRheC5mbS9yc3M) | [Web](https://syntax.fm/)
@@ -338,11 +340,13 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | ThoughtWorks Technology Podcast | [Apple](https://podcasts.apple.com/us/podcast/thoughtworks-technology-podcast/id881136697) | [Spotify](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aG91Z2h0d29ya3MubGlic3luLmNvbS9yc3M=) | [Web](https://www.thoughtworks.com/podcasts/technology-podcasts)
 
 ## Backend Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Backend Engineering with Hussein Nasser | [Apple](https://podcasts.apple.com/us/podcast/backend-engineering-with-hussein-nasser/id1330350799) | [Spotify](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc?si=1r8Ob60yR7mwC5zubp6iOQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZWI2ZDE0L3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/hnasr)
 
 ## PHP Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | php\[podcast\] | [Apple](https://podcasts.apple.com/us/podcast/php-podcast-episodes-from-php-architect/id1274553371) | [Spotify](https://open.spotify.com/show/43IEX2KzlXkT7GEz6Ab8v9?si=_jAArf0YSdygLf-uOtgHog) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucGhwYXJjaC5jb20vcG9kY2FzdC9mZWVkL2VwaXNvZGVzLw) | [Web](https://www.phparch.com/podcast/)
@@ -357,6 +361,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | SimplyPHP Unscripted | [Apple](https://podcasts.apple.com/us/podcast/simplyphp-unscripted/id1450186458) | [Spotify](https://open.spotify.com/show/6Gl6dPAimxvppu3uCi206R) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NjQyMGI0L3BvZGNhc3QvcnNz) | [Web](https://www.simplyphp.com/)
 
 ## Python Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | The Real Python Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-real-python-podcast/id1501905538) | [Spotify](https://open.spotify.com/show/41Av6Rq81LfOT3Volz7W9D?si=U6CkoYPhTuqirQheRbuTmA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWFscHl0aG9uLmNvbS9wb2RjYXN0cy9ycHAvZmVlZA) | [Web](https://realpython.com/podcasts/rpp/)
@@ -370,9 +375,8 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Django Riffs | [Apple](https://podcasts.apple.com/us/podcast/django-riffs/id1497248397) | [Spotify](https://open.spotify.com/show/1RtdveQIz5m5MqLKPWbhnD?si=F9W7YzvNQuOWmaR46iTjNQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9sXzVzVTN2aw) | [Web](https://djangoriffs.com/)
 | Dev Root IT. Programming. Backend Python/Django Dev | [Apple](https://podcasts.apple.com/us/podcast/programming-python-js-django-web-dev/id1494558726) | [Spotify](https://open.spotify.com/show/7xoa8fDog8mgwqUHZ0pp2A?si=RSXvDLqrR0WmJH1qwSaTXQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuY2FzdGJveC5mbS9ldmVyZXN0LzFlMjczOWFhNWQwOTQ3YTM5NDgwNWI4YzMzMDAzMDMxLnhtbA) | [Web](https://castbox.fm/channel/id2555636?country=us)
 
-
-
 ## Java Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Java Pub House | [Apple](https://podcasts.apple.com/us/podcast/java-pub-house/id467641329) | [Spotify](https://open.spotify.com/show/0laUgleS6VdmeeCk7hRemf?si=dfyjSK1PTX-pKFDKHWL3fQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9qYXZhcHViaG91c2UubGlic3luLmNvbS9yc3M) | [Web](https://javapubhouse.libsyn.com/)
@@ -381,6 +385,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Java Off-Heap | [Apple](https://podcasts.apple.com/us/podcast/java-off-heap/id985064111) | [Spotify](https://open.spotify.com/show/6uHXDdtXmcsWZWhIOWkHsF?si=EArcE2mYQCiUG2AhkAxzBQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vZmZoZWFwLmxpYnN5bi5jb20vcnNz) | [Web](https://www.javaoffheap.com/)
 
 ## Ruby Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Ruby Rogues | [Apple](https://podcasts.apple.com/us/podcast/the-ruby-rogues/id1237406856) | [Spotify](https://open.spotify.com/show/06Gzz17ISUn1rGwItgQdl0?si=ovlelRhvRoyHlrEjcdhBJw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9SdWJ5Um9ndWVzLnJzcw) | [Web](https://devchat.tv/podcasts/ruby-rogues/)
@@ -389,8 +394,8 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | My Ruby Story | [Apple](https://podcasts.apple.com/us/podcast/my-ruby-story/id1237404328) | [Spotify](https://open.spotify.com/show/21fDEBvO8W0DXGsqt3BgqI?si=Ol81kWzBRcOmoL9wpUspVw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkd3JlbmNoLmNvbS9SdWJ5Um9ndWVzLnJzcw) | [Web](https://devchat.tv/podcasts/my-ruby-story/)
 | Rails with Jason | [Apple](https://podcasts.apple.com/us/podcast/rails-with-jason/id1464180320) | [Spotify](https://open.spotify.com/show/1YAC0GQZaDCpURSsOdtE8x?si=gGLWmHUgTMy5WN5TC6I4yQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMTA3NTgvcnNz) | [Web](https://www.codewithjason.com/rails-with-jason-podcast/)
 
-
 ## C# and .NET Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | .NET Rocks | [Apple](https://podcasts.apple.com/us/podcast/net-rocks/id130068596) | [Spotify](https://open.spotify.com/show/5tz9eGgXtNHmq3WVD3EwYx?si=gOu84EMMRWq87g8RZIFCxg) | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1kb3RuZXRyb2NrcyZmaWxldHlwZT1tYXN0ZXI) | [Web](https://www.dotnetrocks.com/)
@@ -401,22 +406,26 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 
 ## Go Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Go Time | [Apple](https://podcasts.apple.com/us/podcast/go-time/id1120964487) | [Spotify](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=5qveRjacQq6LY06qSFM-tw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL2dvdGltZS9mZWVk) | [Web](https://changelog.com/gotime)
 
 
 ## Kotlin Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Talking Kotlin | [Apple](https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266) | [Spotify](https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI4MDM1MzE3My9zb3VuZHMucnNz) | [Web](https://talkingkotlin.com/)
 
 ## Rust Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Rustacean Station | [Apple](https://podcasts.apple.com/us/podcast/rustacean-station/id1472535519) | [Spotify](https://open.spotify.com/show/4XKDKi1FwTbgn51nPuRDfZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydXN0YWNlYW4tc3RhdGlvbi5vcmcvcG9kY2FzdC5yc3M=) | [Web](https://rustacean-station.org/)
 
 ## Functional Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | Elixir Wizards | [Apple](https://podcasts.apple.com/us/podcast/elixir-wizards/id1454287242) | [Spotify](https://open.spotify.com/show/3wQJ4EMIPURAcrzJRw2SZf) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LnNtYXJ0bG9naWMuaW8vcnNz) | [Web](https://smartlogic.io/podcast/elixir-wizards/)
@@ -433,6 +442,7 @@ Podcasts are a great way to stay informed about what's happening in web developm
 | Elm Town | [Apple](https://podcasts.apple.com/us/podcast/elm-town/id1158047037) | [Spotify](https://open.spotify.com/show/4yO5HRitTuPHkwD6S43o7n) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvMzk5NS9yc3M) | [Web](https://elmtown.simplecast.fm/)
 
 ## Database Podcasts
+
 | Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
 | ------------- | ------------- | ------------ | ------------ | ------------ |
 | SQL Server Radio | [Apple](https://podcasts.apple.com/us/podcast/sql-server-radio/id907987517) | [Spotify](https://open.spotify.com/show/2f2y0Y7LyMxWux5NlRMuD4) | [Google](https://podcasts.google.com/feed/aHR0cDovL21hZGVpcmFzcWxzZXJ2ZXJyYWRpby5saWJzeW4uY29tL3Jzcw) | [Web](https://sqlserverradio.com/)
@@ -443,85 +453,28 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Cloud and DevOps Podcasts
 
-Serverless Chats
-
-[Apple](https://podcasts.apple.com/us/podcast/serverless-chats/id1470600803) | [Spotify](https://open.spotify.com/show/0r9PlWkq4mXoKL3fAIh5Ux?si=BOeg9-niQdiEWemTb-KIeg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NlcnZlcmxlc3MtY2hhdHM) | [Web](https://www.serverlesschats.com/)
-
-Serverless Transformation
-
-[Apple](https://podcasts.apple.com/us/podcast/serverless-transformation/id1483056109) | [Spotify](https://open.spotify.com/show/2wnZwY82UdPh7X6GulVxxW?si=50hszN1HQTitpsLVUNTCKA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lZDE2ZDMwL3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/serverless-transformation)
-
-Real World Serverless
-
-[Apple](https://podcasts.apple.com/us/podcast/real-world-serverless-with-theburningmonk/id1499753495) | [Spotify](https://open.spotify.com/show/4Ts4BGGcQvwtvwF0XXq0nE?si=SneL27RFSl2Gh-KKsZtwrQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84Nzc3NDcucnNz) | [Web](https://realworldserverless.com/)
-
-The New Stack Makers
-
-[Apple](https://podcasts.apple.com/us/podcast/the-new-stack-makers/id915443155) | [Spotify](https://open.spotify.com/show/2nj1mpDb9jxHxi9vjZvDdk?si=UroYNUQSSN661uc1pOKt3w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS90aGVuZXdzdGFja21ha2Vycy9yc3M) | [Web](https://soundcloud.com/thenewstackmakers)
-
-The POPCAST with Dan POP
-
-[Apple](https://podcasts.apple.com/us/podcast/the-popcast-with-dan-pop/id1503966242) | [Spotify](https://open.spotify.com/show/4F2BlLHu6qO7SGaY8H36PT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yQVVqZW9kcA) | [Web](https://popcast-d9f7b6dc.simplecast.com/)
-
-CloudSkills.fm
-
-[Apple](https://podcasts.apple.com/podcast/id1448194100) | [Spotify](https://open.spotify.com/show/3VTKtrK8b5kZim2F8KYfPJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvOTI4MC9yc3M) | [Web](https://cloudskills.fm/)
-
-The Cloud Cast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-cloudcast/id417826820) | [Spotify](https://open.spotify.com/show/2lMNZTPmS57TUZAMdJGuiM) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vMzE5NS5yc3M) | [Web](https://www.thecloudcast.net/)
-
-The Cloud Architects Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-cloud-architects-podcast/id1264479296) | [Spotify](https://open.spotify.com/show/1GIpALJ9upyupGLLGIbUBD?si=n1x1QTEXQMuVqbzNLKozpw) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MzQ0MTUxOTQ3L3NvdW5kcy5yc3M) | [Web](https://soundcloud.com/thecloudarchitects)
-
-Arrested DevOps
-
-[Apple](https://podcasts.apple.com/us/podcast/arrested-devops/id773888088) | [Spotify](https://open.spotify.com/show/7hHA2ZlfOmbwv96wEBaMR2?si=tJiYFI_ZQm6lVd2tF6GCzw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYXJyZXN0ZWRkZXZvcHMuY29tL2VwaXNvZGUvaW5kZXgueG1s) | [Web](https://www.arresteddevops.com/)
-
-DevOps Radio
-
-[Apple](https://podcasts.apple.com/podcast/id1108186102) | [Spotify](https://open.spotify.com/show/4Cq6Pdo2q2XG1fUfG7OI3s?si=O2HBQqWvTi6Q4Mh-4hnxlA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZvcHNyYWRpby5saWJzeW4uY29tL3Jzcw) | [Web](https://www.cloudbees.com/resources/devops-radio)
-
-The Ops Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-ops-show-by-cto-ai/id1520426327) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yODMxMTJiYy9wb2RjYXN0L3Jzcw) | [Web](https://w.cto.ai/theopsshow)
-
-Cloudonaut
-
-[Apple](https://podcasts.apple.com/us/podcast/cloudonaut/id1476505149) | [Spotify](https://open.spotify.com/show/1M44gYEuSZs3YX6zDUcVZs) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LmNsb3Vkb25hdXQuaW8vZmVlZC9hYWM) | [Web](https://cloudonaut.io/)
-
-Day 2 Cloud
-
-[Apple](https://podcasts.apple.com/gb/podcast/day-2-cloud/id1460004936) | [Spotify](https://open.spotify.com/show/128t02PLJvr1U9GrruVAp8) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wYWNrZXRwdXNoZXJzLm5ldC9kYXkyY2xvdWQ) | [Web](https://packetpushers.net/series/day2cloud/)
-
-Iron Sysadmin Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/podcast-iron-sysadmin-podcast/id1174155033?mt=2) | [Spotify](https://open.spotify.com/show/2YPaaFdZD8D9I945REcsKy) | [Google](https://podcasts.google.com/feed/aHR0cDovL2lyb25zeXNhZG1pbi5saWJzeW4uY29tL3Jzcw) | [Web](https://www.ironsysadmin.com/)
-
-Screaming in the Cloud
-
-[Apple](https://podcasts.apple.com/us/podcast/screaming-in-the-cloud/id1361244178) | [Spotify](https://open.spotify.com/show/3fBA9eNkGliCzp3Xuy1GVd) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NjcmVhbWluZy1pbi10aGUtY2xvdWQ) | [Web](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
-
-Semaphore Uncut
-
-[Apple](https://podcasts.apple.com/us/podcast/semaphore-uncut/id1463768812) | [Spotify](https://open.spotify.com/show/6Tqtzmt78HtlMeNROHAgzh) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yNzYxMzMucnNz) | [Web](https://semaphoreci.com/)
-
-The Podlets
-
-[Apple](https://podcasts.apple.com/us/podcast/the-podlets-a-cloud-native-podcast/id1488167284) | [Spotify](https://open.spotify.com/show/3ad8E1z4rYMPqUYCLRVBSG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvMzQ1MWE1MmQtODhiNy00MDBhLTlhMDItYWE2MTAwMjdlNWQwLzY2NjIwNDRmLTcwNmItNDg5MC1hM2Y4LWFhOWEwMDA0NjQyYi9iZjc3NGRhNS02NmE3LTRiNWQtYjBlOS1hYTlhMDAwNGFhMzkvcG9kY2FzdC5yc3M=) | [Web](https://thepodlets.io/)
-
-Hashicast
-
-[Apple](https://podcasts.apple.com/us/podcast/hashicast/id1361806960) | [Spotify](https://open.spotify.com/show/4gISJ7EYOiAoXZlSEkG5D6) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDEyNzU3MTcyL3NvdW5kcy5yc3M) | [Web](https://www.hashicorp.com/resources?content_type=HashiCast)
-
-Test and Release
-
-[Apple](https://podcasts.apple.com/us/podcast/test-and-release/id1479427029) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWFyY2hzb2Z0d2FyZXF1YWxpdHkudGVjaHRhcmdldC5jb20vcnNzL1Rlc3QtYW5kLVJlbGVhc2UtcG9kY2FzdC1mZWVkLnhtbA) | [Web](https://searchsoftwarequality.techtarget.com/podcasts)
-
-DevOps Chat
-
-[Apple](https://podcasts.apple.com/us/podcast/devops-chat/id1140246356) | [Spotify](https://open.spotify.com/show/6bgn2TO7fD2GwrSEHEMwMZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjE2NjU4MTM4NS9zb3VuZHMucnNz) | [Web](https://devops.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Serverless Chats | [Apple](https://podcasts.apple.com/us/podcast/serverless-chats/id1470600803) | [Spotify](https://open.spotify.com/show/0r9PlWkq4mXoKL3fAIh5Ux?si=BOeg9-niQdiEWemTb-KIeg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NlcnZlcmxlc3MtY2hhdHM) | [Web](https://www.serverlesschats.com/)
+| Serverless Transformation | [Apple](https://podcasts.apple.com/us/podcast/serverless-transformation/id1483056109) | [Spotify](https://open.spotify.com/show/2wnZwY82UdPh7X6GulVxxW?si=50hszN1HQTitpsLVUNTCKA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lZDE2ZDMwL3BvZGNhc3QvcnNz) | [Web](https://anchor.fm/serverless-transformation)
+| Real World Serverless | [Apple](https://podcasts.apple.com/us/podcast/real-world-serverless-with-theburningmonk/id1499753495) | [Spotify](https://open.spotify.com/show/4Ts4BGGcQvwtvwF0XXq0nE?si=SneL27RFSl2Gh-KKsZtwrQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84Nzc3NDcucnNz) | [Web](https://realworldserverless.com/)
+| The New Stack Makers | [Apple](https://podcasts.apple.com/us/podcast/the-new-stack-makers/id915443155) | [Spotify](https://open.spotify.com/show/2nj1mpDb9jxHxi9vjZvDdk?si=UroYNUQSSN661uc1pOKt3w) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS90aGVuZXdzdGFja21ha2Vycy9yc3M) | [Web](https://soundcloud.com/thenewstackmakers)
+| The POPCAST with Dan POP | [Apple](https://podcasts.apple.com/us/podcast/the-popcast-with-dan-pop/id1503966242) | [Spotify](https://open.spotify.com/show/4F2BlLHu6qO7SGaY8H36PT) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS8yQVVqZW9kcA) | [Web](https://popcast-d9f7b6dc.simplecast.com/)
+| CloudSkills.fm | [Apple](https://podcasts.apple.com/podcast/id1448194100) | [Spotify](https://open.spotify.com/show/3VTKtrK8b5kZim2F8KYfPJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3Muc2ltcGxlY2FzdC5jb20vcG9kY2FzdHMvOTI4MC9yc3M) | [Web](https://cloudskills.fm/)
+| The Cloud Cast | [Apple](https://podcasts.apple.com/us/podcast/the-cloudcast/id417826820) | [Spotify](https://open.spotify.com/show/2lMNZTPmS57TUZAMdJGuiM) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnV6enNwcm91dC5jb20vMzE5NS5yc3M) | [Web](https://www.thecloudcast.net/)
+| The Cloud Architects Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-cloud-architects-podcast/id1264479296) | [Spotify](https://open.spotify.com/show/1GIpALJ9upyupGLLGIbUBD?si=n1x1QTEXQMuVqbzNLKozpw) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MzQ0MTUxOTQ3L3NvdW5kcy5yc3M) | [Web](https://soundcloud.com/thecloudarchitects)
+| Arrested DevOps | [Apple](https://podcasts.apple.com/us/podcast/arrested-devops/id773888088) | [Spotify](https://open.spotify.com/show/7hHA2ZlfOmbwv96wEBaMR2?si=tJiYFI_ZQm6lVd2tF6GCzw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYXJyZXN0ZWRkZXZvcHMuY29tL2VwaXNvZGUvaW5kZXgueG1s) | [Web](https://www.arresteddevops.com/)
+| DevOps Radio | [Apple](https://podcasts.apple.com/podcast/id1108186102) | [Spotify](https://open.spotify.com/show/4Cq6Pdo2q2XG1fUfG7OI3s?si=O2HBQqWvTi6Q4Mh-4hnxlA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXZvcHNyYWRpby5saWJzeW4uY29tL3Jzcw) | [Web](https://www.cloudbees.com/resources/devops-radio)
+| The Ops Show | [Apple](https://podcasts.apple.com/us/podcast/the-ops-show-by-cto-ai/id1520426327) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yODMxMTJiYy9wb2RjYXN0L3Jzcw) | [Web](https://w.cto.ai/theopsshow)
+| Cloudonaut | [Apple](https://podcasts.apple.com/us/podcast/cloudonaut/id1476505149) | [Spotify](https://open.spotify.com/show/1M44gYEuSZs3YX6zDUcVZs) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LmNsb3Vkb25hdXQuaW8vZmVlZC9hYWM) | [Web](https://cloudonaut.io/)
+| Day 2 Cloud | [Apple](https://podcasts.apple.com/gb/podcast/day-2-cloud/id1460004936) | [Spotify](https://open.spotify.com/show/128t02PLJvr1U9GrruVAp8) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wYWNrZXRwdXNoZXJzLm5ldC9kYXkyY2xvdWQ) | [Web](https://packetpushers.net/series/day2cloud/)
+| Iron Sysadmin Podcast | [Apple](https://podcasts.apple.com/us/podcast/podcast-iron-sysadmin-podcast/id1174155033?mt=2) | [Spotify](https://open.spotify.com/show/2YPaaFdZD8D9I945REcsKy) | [Google](https://podcasts.google.com/feed/aHR0cDovL2lyb25zeXNhZG1pbi5saWJzeW4uY29tL3Jzcw) | [Web](https://www.ironsysadmin.com/)
+| Screaming in the Cloud | [Apple](https://podcasts.apple.com/us/podcast/screaming-in-the-cloud/id1361244178) | [Spotify](https://open.spotify.com/show/3fBA9eNkGliCzp3Xuy1GVd) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3NjcmVhbWluZy1pbi10aGUtY2xvdWQ) | [Web](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
+| Semaphore Uncut | [Apple](https://podcasts.apple.com/us/podcast/semaphore-uncut/id1463768812) | [Spotify](https://open.spotify.com/show/6Tqtzmt78HtlMeNROHAgzh) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8yNzYxMzMucnNz) | [Web](https://semaphoreci.com/)
+| The Podlets | [Apple](https://podcasts.apple.com/us/podcast/the-podlets-a-cloud-native-podcast/id1488167284) | [Spotify](https://open.spotify.com/show/3ad8E1z4rYMPqUYCLRVBSG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvMzQ1MWE1MmQtODhiNy00MDBhLTlhMDItYWE2MTAwMjdlNWQwLzY2NjIwNDRmLTcwNmItNDg5MC1hM2Y4LWFhOWEwMDA0NjQyYi9iZjc3NGRhNS02NmE3LTRiNWQtYjBlOS1hYTlhMDAwNGFhMzkvcG9kY2FzdC5yc3M=) | [Web](https://thepodlets.io/)
+| Hashicast | [Apple](https://podcasts.apple.com/us/podcast/hashicast/id1361806960) | [Spotify](https://open.spotify.com/show/4gISJ7EYOiAoXZlSEkG5D6) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDEyNzU3MTcyL3NvdW5kcy5yc3M) | [Web](https://www.hashicorp.com/resources?content_type=HashiCast)
+| Test and Release | [Apple](https://podcasts.apple.com/us/podcast/test-and-release/id1479427029) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zZWFyY2hzb2Z0d2FyZXF1YWxpdHkudGVjaHRhcmdldC5jb20vcnNzL1Rlc3QtYW5kLVJlbGVhc2UtcG9kY2FzdC1mZWVkLnhtbA) | [Web](https://searchsoftwarequality.techtarget.com/podcasts)
+| DevOps Chat | [Apple](https://podcasts.apple.com/us/podcast/devops-chat/id1140246356) | [Spotify](https://open.spotify.com/show/6bgn2TO7fD2GwrSEHEMwMZ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjE2NjU4MTM4NS9zb3VuZHMucnNz) | [Web](https://devops.com/)
 
 ## AWS Podcasts
 
