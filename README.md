@@ -557,65 +557,23 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Remote Work Podcasts
 
-Distributed
-
-[Apple](https://podcasts.apple.com/us/podcast/distributed-with-matt-mullenweg/id1463243282) | [Spotify](https://open.spotify.com/show/59bljZU7v9cJTXKvlfnFN8) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kaXN0cmlidXRlZC5ibG9nL2NhdGVnb3J5L3BvZGNhc3QvZmVlZC8=) | [Web](https://distributed.blog/)
-
-Running Remote
-
-[Apple](https://podcasts.apple.com/us/podcast/running-remote/id1364061071) | [Spotify](https://open.spotify.com/show/5Swmz5mg955als2AMS2Oi0) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydW5uaW5ncmVtb3RlLmxpYnN5bi5jb20vcnNz) | [Web](https://runningremote.com/)
-
-That Remote Life
-
-[Apple](https://podcasts.apple.com/us/podcast/that-remote-life-interviews-digital-nomads-location/id1463358041) | [Spotify](https://open.spotify.com/show/4mVBQKFTQa3UEJlTqj4zO5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoYXQtcmVtb3RlLXNob3c) | [Web](https://thatremotelife.com/podcast/)
-
-Building Remotely
-
-[Apple](https://podcasts.apple.com/us/podcast/building-remotely/id1523891857) | [Spotify](https://open.spotify.com/show/2QMkxhSD4twolzrK1UDrLj) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTQ3ODQ0LnJzcw) | [Web](https://www.listennotes.com/podcasts/building-remotely-sondre-rasch-hQAasJGPZXo/)
-
-DistantJob Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/distantjob-podcast/id1440286944) | [Spotify](https://open.spotify.com/show/6nHBrj73CD64gcwSfOKM2f) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vRGlzdGFudEpvYlBvZGNhc3QueG1s) | [Web](https://shoutengine.com/DistantJobPodcast/)
-
-Yonder Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-yonder-podcast/id1139304486) | [Spotify](https://open.spotify.com/show/4u7Cgo2S02St4srpbb2DaF) | [Google](https://podcasts.google.com/feed/aHR0cDovL3lvbmRlci5pby9wb3N0P2Zvcm1hdD1SU1M?sa=X&ved=0CBQQ27cFahcKEwiY1fqEw8ftAhUAAAAAHQAAAAAQAg) | [Web](https://www.yonder.io/)
-
-21st Century Work Life and Leading Remote Teams
-
-[Apple](https://podcasts.apple.com/gb/podcast/21st-century-work-life-and-leading-remote-teams/id936499129) | [Spotify](https://open.spotify.com/show/3mEEmEx73dUrZfeao7IdxD) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93bHBvZGNhc3QubGlic3luLmNvbS9yc3M) | [Web](https://www.virtualnotdistant.com/podcasts)
-
-The Remote Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-remote-show/id1457269649) | [Spotify](https://open.spotify.com/show/2W34IqSVDAUklKZnWdGC4q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9DZHJ1dGxBTg) | [Web](https://weworkremotely.com/)
-
-Inside Remote
-
-[Apple](https://podcasts.apple.com/us/podcast/inside-remote/id1475773111) | [Spotify](https://open.spotify.com/show/7LZm5hQQXMZSub3WRNclPj) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84dW1ZVjdDRA) | [Web](https://www.insideremote.io/)
-
-Remote Work Life Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/remote-work-life-podcast/id1457030103) | [Spotify](https://open.spotify.com/show/42evjuXrPNsQ53oEmeVULJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZW1vdGV3b3JrbGlmZS5saWJzeW4uY29tL3Jzcw) | [Web](https://remoteworklife.io/)
-
-The Remote Hive Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-remote-hive-podcast/id1461475773) | [Spotify](https://open.spotify.com/show/2MfoNezu2phCKFZDUIMkKR) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hODg0ZWIwL3BvZGNhc3QvcnNz) | [Web](https://hivevine.com/podcast/)
-
-Remote Works
-
-[Apple](https://podcasts.apple.com/us/podcast/remote-works/id1510832983) | [Spotify](https://open.spotify.com/show/6492akgpqrsfJ0I4aMd1h1) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wYWNpZmljLWNvbnRlbnQuY29tL3JlbW90ZXdvcmtz) | [Web](https://www.citrix.com/fieldwork/flexible-work/virtual-series.html)
-
-Remote Revolution
-
-[Apple](https://podcasts.apple.com/us/podcast/remote-revolution-making-remote-work/id1518610375) | [Spotify](https://open.spotify.com/show/37eKIQ5z8ZY2QFZ8BuLbHu) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNGYzNTA2MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CBQQ27cFahcKEwjYmcDt0MftAhUAAAAAHQAAAAAQCA) | [Web](https://www.remoterevolution.co.uk/category/posts-podcasts/podcasts/)
-
-The Remote Working Show 
-
-~~Apple~~ | [Spotify](https://open.spotify.com/show/0dZdSOcnpRvdBtaLn6IGlG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjY5OTUwNjE1Ni9zb3VuZHMucnNz) | [Web](https://soundcloud.com/remote-tools)
-
-The Human Behind the Screen
-
-[Apple](https://podcasts.apple.com/es/podcast/the-human-behind-the-screen/id1495266171?l=en) | [Spotify](https://open.spotify.com/show/2uP7xlYgaU6PASHMPQy7Ea) | ~~Google~~ | [Web](https://www.listennotes.com/podcasts/the-human-behind-the-screen-shauna-moran-wNyoQ3Iaq4z/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Distributed | [Apple](https://podcasts.apple.com/us/podcast/distributed-with-matt-mullenweg/id1463243282) | [Spotify](https://open.spotify.com/show/59bljZU7v9cJTXKvlfnFN8) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kaXN0cmlidXRlZC5ibG9nL2NhdGVnb3J5L3BvZGNhc3QvZmVlZC8=) | [Web](https://distributed.blog/)
+| Running Remote | [Apple](https://podcasts.apple.com/us/podcast/running-remote/id1364061071) | [Spotify](https://open.spotify.com/show/5Swmz5mg955als2AMS2Oi0) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9ydW5uaW5ncmVtb3RlLmxpYnN5bi5jb20vcnNz) | [Web](https://runningremote.com/)
+| That Remote Life | [Apple](https://podcasts.apple.com/us/podcast/that-remote-life-interviews-digital-nomads-location/id1463358041) | [Spotify](https://open.spotify.com/show/4mVBQKFTQa3UEJlTqj4zO5) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL3RoYXQtcmVtb3RlLXNob3c) | [Web](https://thatremotelife.com/podcast/)
+| Building Remotely | [Apple](https://podcasts.apple.com/us/podcast/building-remotely/id1523891857) | [Spotify](https://open.spotify.com/show/2QMkxhSD4twolzrK1UDrLj) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTQ3ODQ0LnJzcw) | [Web](https://www.listennotes.com/podcasts/building-remotely-sondre-rasch-hQAasJGPZXo/)
+| DistantJob Podcast | [Apple](https://podcasts.apple.com/us/podcast/distantjob-podcast/id1440286944) | [Spotify](https://open.spotify.com/show/6nHBrj73CD64gcwSfOKM2f) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9zaG91dGVuZ2luZS5jb20vRGlzdGFudEpvYlBvZGNhc3QueG1s) | [Web](https://shoutengine.com/DistantJobPodcast/)
+| Yonder Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-yonder-podcast/id1139304486) | [Spotify](https://open.spotify.com/show/4u7Cgo2S02St4srpbb2DaF) | [Google](https://podcasts.google.com/feed/aHR0cDovL3lvbmRlci5pby9wb3N0P2Zvcm1hdD1SU1M?sa=X&ved=0CBQQ27cFahcKEwiY1fqEw8ftAhUAAAAAHQAAAAAQAg) | [Web](https://www.yonder.io/)
+| 21st Century Work Life and Leading Remote Teams | [Apple](https://podcasts.apple.com/gb/podcast/21st-century-work-life-and-leading-remote-teams/id936499129) | [Spotify](https://open.spotify.com/show/3mEEmEx73dUrZfeao7IdxD) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93bHBvZGNhc3QubGlic3luLmNvbS9yc3M) | [Web](https://www.virtualnotdistant.com/podcasts)
+| The Remote Show | [Apple](https://podcasts.apple.com/us/podcast/the-remote-show/id1457269649) | [Spotify](https://open.spotify.com/show/2W34IqSVDAUklKZnWdGC4q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9DZHJ1dGxBTg) | [Web](https://weworkremotely.com/)
+| Inside Remote | [Apple](https://podcasts.apple.com/us/podcast/inside-remote/id1475773111) | [Spotify](https://open.spotify.com/show/7LZm5hQQXMZSub3WRNclPj) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS84dW1ZVjdDRA) | [Web](https://www.insideremote.io/)
+| Remote Work Life Podcast | [Apple](https://podcasts.apple.com/us/podcast/remote-work-life-podcast/id1457030103) | [Spotify](https://open.spotify.com/show/42evjuXrPNsQ53oEmeVULJ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9yZW1vdGV3b3JrbGlmZS5saWJzeW4uY29tL3Jzcw) | [Web](https://remoteworklife.io/)
+| The Remote Hive Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-remote-hive-podcast/id1461475773) | [Spotify](https://open.spotify.com/show/2MfoNezu2phCKFZDUIMkKR) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hODg0ZWIwL3BvZGNhc3QvcnNz) | [Web](https://hivevine.com/podcast/)
+| Remote Works | [Apple](https://podcasts.apple.com/us/podcast/remote-works/id1510832983) | [Spotify](https://open.spotify.com/show/6492akgpqrsfJ0I4aMd1h1) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wYWNpZmljLWNvbnRlbnQuY29tL3JlbW90ZXdvcmtz) | [Web](https://www.citrix.com/fieldwork/flexible-work/virtual-series.html)
+| Remote Revolution | [Apple](https://podcasts.apple.com/us/podcast/remote-revolution-making-remote-work/id1518610375) | [Spotify](https://open.spotify.com/show/37eKIQ5z8ZY2QFZ8BuLbHu) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNGYzNTA2MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CBQQ27cFahcKEwjYmcDt0MftAhUAAAAAHQAAAAAQCA) | [Web](https://www.remoterevolution.co.uk/category/posts-podcasts/podcasts/)
+| The Remote Working Show  | | [Spotify](https://open.spotify.com/show/0dZdSOcnpRvdBtaLn6IGlG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjY5OTUwNjE1Ni9zb3VuZHMucnNz) | [Web](https://soundcloud.com/remote-tools)
+| The Human Behind the Screen | [Apple](https://podcasts.apple.com/es/podcast/the-human-behind-the-screen/id1495266171?l=en) | [Spotify](https://open.spotify.com/show/2uP7xlYgaU6PASHMPQy7Ea) |  | [Web](https://www.listennotes.com/podcasts/the-human-behind-the-screen-shauna-moran-wNyoQ3Iaq4z/)
 
 ## Freelance Podcasts
 
