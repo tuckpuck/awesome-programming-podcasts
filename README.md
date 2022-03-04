@@ -599,26 +599,11 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Web Agency Podcasts
 
-The Digital Agency Show
-
-[Apple](https://podcasts.apple.com/us/podcast/digital-agency-show-helping-agency-owners-transform/id1193085635) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI3MTUxNjE0MS9zb3VuZHMucnNz) | [Web](https://ugurus.com/podcast/)
-
-The Agency Trailblazer Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/agency-trailblazer-podcast-love-your-agency-wp-innovator/id1062941538) | [Spotify](https://open.spotify.com/show/6xZ70JfpyFcSelBIB43sJZ) | [Google](https://podcasts.google.com/feed/aHR0cDovL3dwaW5ub3ZhdG9yLmxpYnN5bi5jb20vcnNz) | [Web](https://agencytrailblazer.com/)
-
-The Creative Agency Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-creative-agency-podcast/id1073676395) | [Spotify](https://open.spotify.com/show/3aV4iRDYuKUl7cOB1jq4I3) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY3JlYXRpdmVhZ2VuY3lwb2RjYXN0LmNvbS9mZWVkL3BvZGNhc3Qv) | [Web](https://www.creativeagencypodcast.com/)
-
-Agency Highway
-
-[Apple](https://podcasts.apple.com/podcast/id1407524644) | [Spotify](https://open.spotify.com/show/1XEoGJjNmbFKzpUCphGAeD) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2VuY3loaWdod2F5LmNvbS9mZWVkL3BvZGNhc3Q=) | [Web](https://agencyhighway.com/podcast/)
-
-Smart Agency Masterclass
-
-[Apple](https://podcasts.apple.com/us/podcast/smart-agency-masterclass-jason-swenk-podcast-for-digital/id870206013) | [Spotify](https://open.spotify.com/show/0FiKuRTpkJ7OraCJBUIlr9) | [Google](https://podcasts.google.com/feed/aHR0cDovL2phc29uc3dlbmsubGlic3luLmNvbS9yc3M) | [Web](https://jasonswenk.com/blog/)
-
-Build a Better Agency Podcas‪t‬
-
-[Apple](https://podcasts.apple.com/us/podcast/build-a-better-agency-podcast/id1050216800) | [Spotify](https://open.spotify.com/show/3i99I9aDIYDLmScPtghNzn) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9idWlsZGFiZXR0ZXJhZ2VuY3kubGlic3luLmNvbS9yc3M) | [Web](https://agencymanagementinstitute.com/agency-owner-podcast/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| The Digital Agency Show | [Apple](https://podcasts.apple.com/us/podcast/digital-agency-show-helping-agency-owners-transform/id1193085635) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI3MTUxNjE0MS9zb3VuZHMucnNz) | [Web](https://ugurus.com/podcast/)
+| The Agency Trailblazer Podcast | [Apple](https://podcasts.apple.com/us/podcast/agency-trailblazer-podcast-love-your-agency-wp-innovator/id1062941538) | [Spotify](https://open.spotify.com/show/6xZ70JfpyFcSelBIB43sJZ) | [Google](https://podcasts.google.com/feed/aHR0cDovL3dwaW5ub3ZhdG9yLmxpYnN5bi5jb20vcnNz) | [Web](https://agencytrailblazer.com/)
+| The Creative Agency Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-creative-agency-podcast/id1073676395) | [Spotify](https://open.spotify.com/show/3aV4iRDYuKUl7cOB1jq4I3) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY3JlYXRpdmVhZ2VuY3lwb2RjYXN0LmNvbS9mZWVkL3BvZGNhc3Qv) | [Web](https://www.creativeagencypodcast.com/)
+| Agency Highway | [Apple](https://podcasts.apple.com/podcast/id1407524644) | [Spotify](https://open.spotify.com/show/1XEoGJjNmbFKzpUCphGAeD) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2VuY3loaWdod2F5LmNvbS9mZWVkL3BvZGNhc3Q=) | [Web](https://agencyhighway.com/podcast/)
+| Smart Agency Masterclass | [Apple](https://podcasts.apple.com/us/podcast/smart-agency-masterclass-jason-swenk-podcast-for-digital/id870206013) | [Spotify](https://open.spotify.com/show/0FiKuRTpkJ7OraCJBUIlr9) | [Google](https://podcasts.google.com/feed/aHR0cDovL2phc29uc3dlbmsubGlic3luLmNvbS9yc3M) | [Web](https://jasonswenk.com/blog/)
+| Build a Better Agency Podcas‪t‬ | [Apple](https://podcasts.apple.com/us/podcast/build-a-better-agency-podcast/id1050216800) | [Spotify](https://open.spotify.com/show/3i99I9aDIYDLmScPtghNzn) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9idWlsZGFiZXR0ZXJhZ2VuY3kubGlic3luLmNvbS9yc3M) | [Web](https://agencymanagementinstitute.com/agency-owner-podcast/)
