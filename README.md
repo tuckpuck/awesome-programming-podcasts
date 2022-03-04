@@ -504,9 +504,9 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Google Cloud Podcasts
 
-Google Cloud Platform Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/google-cloud-platform-podcast/id1053299163) | [Spotify](https://open.spotify.com/show/36qjuTreaI4bIjd3R9CDXe?si=287yhWaaSJeapM2Z1X-9TA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9HY3BQb2RjYXN0) | [Web](https://www.gcppodcast.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Google Cloud Platform Podcast | [Apple](https://podcasts.apple.com/us/podcast/google-cloud-platform-podcast/id1053299163) | [Spotify](https://open.spotify.com/show/36qjuTreaI4bIjd3R9CDXe?si=287yhWaaSJeapM2Z1X-9TA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9HY3BQb2RjYXN0) | [Web](https://www.gcppodcast.com/)
 
 ## Kubernetes Podcasts
 
