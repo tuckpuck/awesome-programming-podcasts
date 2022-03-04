@@ -514,45 +514,18 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Linux Podcasts
 
-Destination Linux
-
-[Apple](https://podcasts.apple.com/us/podcast/destination-linux/id1192543917) | [Spotify](https://open.spotify.com/show/0UvGSOiOk6GQnj8tQqzHHa?si=I6RdtgzxQ7GqEgWQCaAMTw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXN0aW5hdGlvbmxpbnV4Lm9yZy9mZWVkL21wMw) | [Web](https://destinationlinux.org/)
-
-Going Linux
-
-[Apple](https://podcasts.apple.com/us/podcast/going-linux/id1483893840) | [Spotify](https://open.spotify.com/show/3W7zOqSLgJUfq59sCUbLro?si=eFRl0KfdQ5-xiWwkT7-LOA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9nb2luZ2xpbnV4LmNvbS9vZ2dwb2RjYXN0LnhtbA) | [Web](https://goinglinux.com/)
-
-Late Night Linux
-
-[Apple](https://podcasts.apple.com/us/podcast/late-night-linux/id1189978971) | [Spotify](https://open.spotify.com/show/0xSfxhV2n0GSTtWP57H5VO?si=ADBYzxaCR0e72_1C4F4t2g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sYXRlbmlnaHRsaW51eC5jb20vZmVlZC9hbGw) | [Web](https://latenightlinux.com/)
-
-Linux Unplugged
-
-[Apple](https://podcasts.apple.com/us/podcast/linux-unplugged/id687598126) | [Spotify](https://open.spotify.com/show/7bVFJvj8A2ZuYVs5lS992b?si=r0Zdpf4VReaktxjoJfVS2A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eHVucGx1Z2dlZC5jb20vcnNz) | [Web](https://linuxunplugged.com/)
-
-Ask Noah
-
-[Apple](https://podcasts.apple.com/us/podcast/ask-noah-show/id1221193873) | [Spotify](https://open.spotify.com/show/6Nx1pAkDjHZKlh6vve5Qme) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LmFza25vYWhzaG93LmNvbS9yc3M) | [Web](https://podcast.asknoahshow.com/)
-
-Linux Action News
-
-[Apple](https://podcasts.apple.com/podcast/id160075139) | [Spotify](https://open.spotify.com/show/66dFXbN7UYOJRjvS16xjyI) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eGFjdGlvbm5ld3MuY29tL3Jzcw) | [Web](https://linuxactionnews.com/)
-
-Sysadministrivia
-
-[Apple](https://podcasts.apple.com/us/podcast/sysadministrivia/id969859929) | [Spotify](https://open.spotify.com/show/2ywuyjtSwXE0oCdXstVI2H) | [Google](https://podcasts.google.com/feed/aHR0cDovL3N5c2FkbWluaXN0cml2aWEuY29tL2dvb2dsZQ) | [Web](https://ma.ttias.be/syscast/)
-
-Syscast Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/syscast-podcast-by-mattias-geniar/id1112318786) | [Spotify](https://open.spotify.com/show/5EH4W8TSZoUmOzrrw3u1y0) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tYS50dGlhcy5iZS9zeXNjYXN0L2luZGV4LnhtbA) | [Web](https://ma.ttias.be/syscast/)
-
-Ubuntu Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/ubuntu-podcast/id976672924) | [Spotify](https://open.spotify.com/show/5s1wELRF7K58bpPCi3y8W5) | ~~Google~~ | [Web](https://ubuntupodcast.org/)
-
-Choose Linux
-
-[Apple](https://podcasts.apple.com/us/podcast/choose-linux/id1450337214) | [Spotify](https://open.spotify.com/show/4CRfC8L9nGXZEV1Kja8s9t) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaG9vc2VsaW51eC5zaG93L3Jzcw) | [Web](https://chooselinux.show/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| Destination Linux | [Apple](https://podcasts.apple.com/us/podcast/destination-linux/id1192543917) | [Spotify](https://open.spotify.com/show/0UvGSOiOk6GQnj8tQqzHHa?si=I6RdtgzxQ7GqEgWQCaAMTw) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kZXN0aW5hdGlvbmxpbnV4Lm9yZy9mZWVkL21wMw) | [Web](https://destinationlinux.org/)
+| Going Linux | [Apple](https://podcasts.apple.com/us/podcast/going-linux/id1483893840) | [Spotify](https://open.spotify.com/show/3W7zOqSLgJUfq59sCUbLro?si=eFRl0KfdQ5-xiWwkT7-LOA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9nb2luZ2xpbnV4LmNvbS9vZ2dwb2RjYXN0LnhtbA) | [Web](https://goinglinux.com/)
+| Late Night Linux | [Apple](https://podcasts.apple.com/us/podcast/late-night-linux/id1189978971) | [Spotify](https://open.spotify.com/show/0xSfxhV2n0GSTtWP57H5VO?si=ADBYzxaCR0e72_1C4F4t2g) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9sYXRlbmlnaHRsaW51eC5jb20vZmVlZC9hbGw) | [Web](https://latenightlinux.com/)
+| Linux Unplugged | [Apple](https://podcasts.apple.com/us/podcast/linux-unplugged/id687598126) | [Spotify](https://open.spotify.com/show/7bVFJvj8A2ZuYVs5lS992b?si=r0Zdpf4VReaktxjoJfVS2A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eHVucGx1Z2dlZC5jb20vcnNz) | [Web](https://linuxunplugged.com/)
+| Ask Noah | [Apple](https://podcasts.apple.com/us/podcast/ask-noah-show/id1221193873) | [Spotify](https://open.spotify.com/show/6Nx1pAkDjHZKlh6vve5Qme) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0LmFza25vYWhzaG93LmNvbS9yc3M) | [Web](https://podcast.asknoahshow.com/)
+| Linux Action News | [Apple](https://podcasts.apple.com/podcast/id160075139) | [Spotify](https://open.spotify.com/show/66dFXbN7UYOJRjvS16xjyI) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eGFjdGlvbm5ld3MuY29tL3Jzcw) | [Web](https://linuxactionnews.com/)
+| Sysadministrivia | [Apple](https://podcasts.apple.com/us/podcast/sysadministrivia/id969859929) | [Spotify](https://open.spotify.com/show/2ywuyjtSwXE0oCdXstVI2H) | [Google](https://podcasts.google.com/feed/aHR0cDovL3N5c2FkbWluaXN0cml2aWEuY29tL2dvb2dsZQ) | [Web](https://ma.ttias.be/syscast/)
+| Syscast Podcast | [Apple](https://podcasts.apple.com/us/podcast/syscast-podcast-by-mattias-geniar/id1112318786) | [Spotify](https://open.spotify.com/show/5EH4W8TSZoUmOzrrw3u1y0) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tYS50dGlhcy5iZS9zeXNjYXN0L2luZGV4LnhtbA) | [Web](https://ma.ttias.be/syscast/)
+| Ubuntu Podcast | [Apple](https://podcasts.apple.com/us/podcast/ubuntu-podcast/id976672924) | [Spotify](https://open.spotify.com/show/5s1wELRF7K58bpPCi3y8W5) |  | [Web](https://ubuntupodcast.org/)
+| Choose Linux | [Apple](https://podcasts.apple.com/us/podcast/choose-linux/id1450337214) | [Spotify](https://open.spotify.com/show/4CRfC8L9nGXZEV1Kja8s9t) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaG9vc2VsaW51eC5zaG93L3Jzcw) | [Web](https://chooselinux.show/)
 
 ## Open Source Podcasts
 
