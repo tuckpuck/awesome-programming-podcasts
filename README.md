@@ -539,57 +539,21 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Testing Podcasts
 
-The Testing Show
-
-[Apple](https://podcasts.apple.com/us/podcast/the-testing-show/id1094861077) | [Spotify](https://open.spotify.com/show/4P86vgxkMOMQXH3c2kvhSK?si=wCl8k31KQJq46DNVbH0k3Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGV0ZXN0aW5nc2hvdy5saWJzeW4uY29tL3Jzcw) | [Web](https://thetestingshow.libsyn.com/podcast)
-
-Testing Podcast
-
-~~Apple~~ | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL1NvZnR3YXJlVGVzdGluZ1BvZGNhc3Q) | [Web](https://testingpodcast.com/)
-
-Software Testing Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/software-testing-podcast/id1430524074) | [Spotify](https://open.spotify.com/show/0gWSftuQabA1WFBD5SA7ya) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc29mdHdhcmV0ZXN0aW5ncG9kY2FzdC5jb20vZmVlZC54bWw) | [Web](https://kiwiqa.podbean.com/)
-
-RBCS Podcast
-
-[Apple](https://podcasts.apple.com/podcast/id338086108) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cDovL3JiY3MtdXMuY29tL3Jlc291cmNlcy9wb2RjYXN0L2ZlZWQv) | [Web](https://rbcs-us.com/)
-
-Quality Sense
-
-[Apple](https://podcasts.apple.com/us/podcast/quality-sense-podcast/id1510263025) | [Spotify](https://open.spotify.com/show/52OQnkNvXo2BdbwecYvT1d) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjgxNTEwODg3Mi9zb3VuZHMucnNz) | [Web](https://abstracta.us/software-testing-podcast)
-
-AB Testing
-
-[Apple](https://podcasts.apple.com/us/podcast/ab-testing/id856528068) | [Spotify](https://open.spotify.com/show/6hwkNNuwRdiX3R65B78YzY) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYW5ncnl3ZWFzZWwuY29tL0FCVGVzdGluZy8_ZmVlZD1yc3My) | [Web](https://www.angryweasel.com/ABTesting/modern-testing-principles/)
-
-Quality Remarks
-
-[Apple](https://podcasts.apple.com/us/podcast/quality-remarks-the-podcast/id1247207139) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjUwNzE1MS9lcGlzb2Rlcy9mZWVk) | [Web](https://www.spreaker.com/show/quality-remarks-the-podcast)
-
-STP Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/stp-radio/id858864268) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMTE0Njc3Ny9lcGlzb2Rlcy9mZWVk) | [Web](https://www.softwaretestpro.com/)
-
-The QA Lead Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-qa-lead-podcast/id1502438788) | [Spotify](https://open.spotify.com/show/6lBw3Syg5w232EYKc8koww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8zODU2ODQucnNz) | [Web](https://theqalead.com/)
-
-TestGuild Auomation Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/testguild-automation-podcast/id826722706) | [Spotify](https://open.spotify.com/show/0GLXN19tAVAo3m8gTRfgUG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90ZXN0dGFsa3MubGlic3luLmNvbS9yc3M) | [Web](https://testguild.com/podcasts/)
-
-TestGuild Performance Testing and Site Reliability Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/testguild-performance-testing-site-reliability-podcast/id1478816027) | [Spotify](https://open.spotify.com/show/4C9PXHR89jU27uzeMsSIkn) | ~~Google~~ | [Web](https://testguild.com/podcasts/)
-
-The Guilty Tester
-
-[Apple](https://podcasts.apple.com/us/podcast/the-guilty-tester/id1392688915) | [Spotify](https://open.spotify.com/show/15BE5XUB3967JTytxCkVnv) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVndWlsdHl0ZXN0ZXIubGlic3luLmNvbS9yc3M) | [Web](https://theguiltytester.libsyn.com/website)
-
-Testing One-on-One
-
-[Apple](https://podcasts.apple.com/us/podcast/testing-one-on-one/id1444720864) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjM5OTMxNzM1OC9zb3VuZHMucnNz) | [Web](https://qablog.practitest.com/podcast/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| The Testing Show | [Apple](https://podcasts.apple.com/us/podcast/the-testing-show/id1094861077) | [Spotify](https://open.spotify.com/show/4P86vgxkMOMQXH3c2kvhSK?si=wCl8k31KQJq46DNVbH0k3Q) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGV0ZXN0aW5nc2hvdy5saWJzeW4uY29tL3Jzcw) | [Web](https://thetestingshow.libsyn.com/podcast)
+| Testing Podcast |  |  | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL1NvZnR3YXJlVGVzdGluZ1BvZGNhc3Q) | [Web](https://testingpodcast.com/)
+| Software Testing Podcast | [Apple](https://podcasts.apple.com/us/podcast/software-testing-podcast/id1430524074) | [Spotify](https://open.spotify.com/show/0gWSftuQabA1WFBD5SA7ya) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc29mdHdhcmV0ZXN0aW5ncG9kY2FzdC5jb20vZmVlZC54bWw) | [Web](https://kiwiqa.podbean.com/)
+| RBCS Podcast | [Apple](https://podcasts.apple.com/podcast/id338086108) |  | [Google](https://podcasts.google.com/feed/aHR0cDovL3JiY3MtdXMuY29tL3Jlc291cmNlcy9wb2RjYXN0L2ZlZWQv) | [Web](https://rbcs-us.com/)
+| Quality Sense | [Apple](https://podcasts.apple.com/us/podcast/quality-sense-podcast/id1510263025) | [Spotify](https://open.spotify.com/show/52OQnkNvXo2BdbwecYvT1d) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjgxNTEwODg3Mi9zb3VuZHMucnNz) | [Web](https://abstracta.us/software-testing-podcast)
+| AB Testing | [Apple](https://podcasts.apple.com/us/podcast/ab-testing/id856528068) | [Spotify](https://open.spotify.com/show/6hwkNNuwRdiX3R65B78YzY) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYW5ncnl3ZWFzZWwuY29tL0FCVGVzdGluZy8_ZmVlZD1yc3My) | [Web](https://www.angryweasel.com/ABTesting/modern-testing-principles/)
+| Quality Remarks | [Apple](https://podcasts.apple.com/us/podcast/quality-remarks-the-podcast/id1247207139) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjUwNzE1MS9lcGlzb2Rlcy9mZWVk) | [Web](https://www.spreaker.com/show/quality-remarks-the-podcast)
+| STP Radio | [Apple](https://podcasts.apple.com/us/podcast/stp-radio/id858864268) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMTE0Njc3Ny9lcGlzb2Rlcy9mZWVk) | [Web](https://www.softwaretestpro.com/)
+| The QA Lead Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-qa-lead-podcast/id1502438788) | [Spotify](https://open.spotify.com/show/6lBw3Syg5w232EYKc8koww) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8zODU2ODQucnNz) | [Web](https://theqalead.com/)
+| TestGuild Auomation Podcast | [Apple](https://podcasts.apple.com/us/podcast/testguild-automation-podcast/id826722706) | [Spotify](https://open.spotify.com/show/0GLXN19tAVAo3m8gTRfgUG) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90ZXN0dGFsa3MubGlic3luLmNvbS9yc3M) | [Web](https://testguild.com/podcasts/)
+| TestGuild Performance Testing and Site Reliability Podcast | [Apple](https://podcasts.apple.com/us/podcast/testguild-performance-testing-site-reliability-podcast/id1478816027) | [Spotify](https://open.spotify.com/show/4C9PXHR89jU27uzeMsSIkn) |  | [Web](https://testguild.com/podcasts/)
+| The Guilty Tester | [Apple](https://podcasts.apple.com/us/podcast/the-guilty-tester/id1392688915) | [Spotify](https://open.spotify.com/show/15BE5XUB3967JTytxCkVnv) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly90aGVndWlsdHl0ZXN0ZXIubGlic3luLmNvbS9yc3M) | [Web](https://theguiltytester.libsyn.com/website)
+| Testing One-on-One | [Apple](https://podcasts.apple.com/us/podcast/testing-one-on-one/id1444720864) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjM5OTMxNzM1OC9zb3VuZHMucnNz) | [Web](https://qablog.practitest.com/podcast/)
 
 ## Remote Work Podcasts
 
