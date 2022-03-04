@@ -529,25 +529,13 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Open Source Podcasts
 
-FLOSS Weekly
-
-[Apple](https://podcasts.apple.com/us/podcast/floss-weekly-audio/id140847216) | [Spotify](https://open.spotify.com/show/4SXypdThA5tk5Tw1I5AwsS?si=ELDwuP2vRTadXqkNNwwnew) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50d2l0LnR2L2Zsb3NzLnhtbA) | [Web](https://twit.tv/shows/floss-weekly)
-
-Open Source Underdogs
-
-[Apple](https://podcasts.apple.com/us/podcast/open-source-underdogs/id1439629794) | [Spotify](https://open.spotify.com/show/3v1aTrq9F2l60ITG6IcCZB?si=I9dZNc7fQe-lkwCXJfrCSA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://opensourceunderdogs.com/)
-
-BSD Now
-
-[Apple](https://podcasts.apple.com/us/podcast/bsd-now/id701045710) | [Spotify](https://open.spotify.com/show/1YYNYSrNwwJrStqq68CeO9) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnNkbm93LnR2L3Jzcw) | [Web](https://www.bsdnow.tv/)
-
-Hope in Source
-
-[Apple](https://podcasts.apple.com/us/podcast/hope-in-source/id1437677655) | [Spotify](https://open.spotify.com/show/5EXwiyKzPrrucncKyrHy0B) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2hvcGUtaW4tc291cmNl) | [Web](https://hopeinsource.com/)
-
-Maintainers Anonymous
-
-[Apple](https://podcasts.apple.com/us/podcast/maintainers-anonymous/id1459347058) | [Spotify](https://open.spotify.com/show/1rvrUipEYmYOt2EZoL0uWm) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL21haW50YWluZXJzLWFub255bW91cw?sa=X&ved=0CAMQ4aUDahcKEwiwpviDj9ntAhUAAAAAHQAAAAAQAQ) | [Web](https://maintainersanonymous.com/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| FLOSS Weekly | [Apple](https://podcasts.apple.com/us/podcast/floss-weekly-audio/id140847216) | [Spotify](https://open.spotify.com/show/4SXypdThA5tk5Tw1I5AwsS?si=ELDwuP2vRTadXqkNNwwnew) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50d2l0LnR2L2Zsb3NzLnhtbA) | [Web](https://twit.tv/shows/floss-weekly)
+| Open Source Underdogs | [Apple](https://podcasts.apple.com/us/podcast/open-source-underdogs/id1439629794) | [Spotify](https://open.spotify.com/show/3v1aTrq9F2l60ITG6IcCZB?si=I9dZNc7fQe-lkwCXJfrCSA) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkL3BvZGNhc3Q) | [Web](https://opensourceunderdogs.com/)
+| BSD Now | [Apple](https://podcasts.apple.com/us/podcast/bsd-now/id701045710) | [Spotify](https://open.spotify.com/show/1YYNYSrNwwJrStqq68CeO9) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYnNkbm93LnR2L3Jzcw) | [Web](https://www.bsdnow.tv/)
+| Hope in Source | [Apple](https://podcasts.apple.com/us/podcast/hope-in-source/id1437677655) | [Spotify](https://open.spotify.com/show/5EXwiyKzPrrucncKyrHy0B) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2hvcGUtaW4tc291cmNl) | [Web](https://hopeinsource.com/)
+| Maintainers Anonymous | [Apple](https://podcasts.apple.com/us/podcast/maintainers-anonymous/id1459347058) | [Spotify](https://open.spotify.com/show/1rvrUipEYmYOt2EZoL0uWm) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL21haW50YWluZXJzLWFub255bW91cw?sa=X&ved=0CAMQ4aUDahcKEwiwpviDj9ntAhUAAAAAHQAAAAAQAQ) | [Web](https://maintainersanonymous.com/)
 
 ## Testing Podcasts
 
