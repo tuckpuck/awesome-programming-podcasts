@@ -498,9 +498,9 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## IBM Cloud Podcasts
 
-IBM Cloud Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/ibm-cloud-podcast/id1085756212) | [Spotify](https://open.spotify.com/show/5bPwxvQMFItscWBizfk5xJ?si=dmf-qbr6RVWpGC9Uk3kc-A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNmJlMWQ4L3BvZGNhc3QvcnNz) | [Web](https://www.ibm.com/cloud)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| IBM Cloud Podcast | [Apple](https://podcasts.apple.com/us/podcast/ibm-cloud-podcast/id1085756212) | [Spotify](https://open.spotify.com/show/5bPwxvQMFItscWBizfk5xJ?si=dmf-qbr6RVWpGC9Uk3kc-A) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNmJlMWQ4L3BvZGNhc3QvcnNz) | [Web](https://www.ibm.com/cloud)
 
 ## Google Cloud Podcasts
 
