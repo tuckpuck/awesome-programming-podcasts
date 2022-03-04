@@ -486,33 +486,15 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## Microsoft Azure Podcasts
 
-The Azure DevOps Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/azure-devops-podcast/id1436639025) | [Spotify](https://open.spotify.com/show/4TDNfvJ6uuWiYxT8nvpddG?si=g42jS0TyR8KA6YBFg1VPcw) | [Google](https://podcasts.google.com/feed/aHR0cDovL2F6dXJlZGV2b3BzcG9kY2FzdC5jbGVhci1tZWFzdXJlLmNvbS9yc3M) | [Web](http://azuredevopspodcast.clear-measure.com/)
-
-Azure Friday
-
-[Apple](https://podcasts.apple.com/us/podcast/azure-friday-audio-channel-9/id1446924979) | ~~Spotify~~ | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFubmVsOS5tc2RuLmNvbS9TaG93cy9BenVyZS1GcmlkYXkvZmVlZC9tcDM) | [Web](https://channel9.msdn.com/Shows/Azure-Friday)
-
-The Azure Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/the-azure-podcast/id728193635) | [Spotify](https://open.spotify.com/show/3EScErvEcLV7IEk7nDsG8L?si=ySvH_S5XS-CM1yJttZPAmQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9UaGVBenVyZVBvZGNhc3Q) | [Web](http://azpodcast.azurewebsites.net/)
-
-Microsoft Cloud Show
-
-[Apple](https://podcasts.apple.com/us/podcast/microsoft-cloud-show/id731565415) | [Spotify](https://open.spotify.com/show/6fsa2mT42DvbkvovjZ0I93) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLm1pY3Jvc29mdGNsb3Vkc2hvdy5jb20vbWljcm9zb2Z0Y2xvdWRzaG93ZXBpc29kZXM) | [Web](https://www.microsoftcloudshow.com/)
-
-MS Dev Show
-
-[Apple](https://podcasts.apple.com/us/podcast/ms-dev-show/id862879925) | [Spotify](https://open.spotify.com/show/1qI8weFZGUfc76bKaEoFaB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tc2RldnNob3cubGlic3luLmNvbS9yc3M) | [Web](https://msdevshow.com/)
-
-RunAs Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/runas-radio/id253682066) | [Spotify](https://open.spotify.com/show/1BTeVQZQEsQz7JUEohaK8k) | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1ydW5hc3JhZGlvJmZpbGV0eXBlPW1hc3Rlcg) | [Web](http://www.runasradio.com/)
-
-Microsoft Cloud IT Pro Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/microsoft-cloud-it-pro-podcast/id1226241819) | [Spotify](https://open.spotify.com/show/2W2eFQ9ddEGzKe3qdZ5Ibe) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bWlycm9yLmNvbS9taWNyb3NvZnRjbG91ZGl0cHJvcG9kY2FzdA) | [Web](https://www.msclouditpropodcast.com/podcast-episode/)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| The Azure DevOps Podcast | [Apple](https://podcasts.apple.com/us/podcast/azure-devops-podcast/id1436639025) | [Spotify](https://open.spotify.com/show/4TDNfvJ6uuWiYxT8nvpddG?si=g42jS0TyR8KA6YBFg1VPcw) | [Google](https://podcasts.google.com/feed/aHR0cDovL2F6dXJlZGV2b3BzcG9kY2FzdC5jbGVhci1tZWFzdXJlLmNvbS9yc3M) | [Web](http://azuredevopspodcast.clear-measure.com/)
+| Azure Friday | [Apple](https://podcasts.apple.com/us/podcast/azure-friday-audio-channel-9/id1446924979) |  | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFubmVsOS5tc2RuLmNvbS9TaG93cy9BenVyZS1GcmlkYXkvZmVlZC9tcDM) | [Web](https://channel9.msdn.com/Shows/Azure-Friday)
+| The Azure Podcast | [Apple](https://podcasts.apple.com/us/podcast/the-azure-podcast/id728193635) | [Spotify](https://open.spotify.com/show/3EScErvEcLV7IEk7nDsG8L?si=ySvH_S5XS-CM1yJttZPAmQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9UaGVBenVyZVBvZGNhc3Q) | [Web](http://azpodcast.azurewebsites.net/)
+| Microsoft Cloud Show | [Apple](https://podcasts.apple.com/us/podcast/microsoft-cloud-show/id731565415) | [Spotify](https://open.spotify.com/show/6fsa2mT42DvbkvovjZ0I93) | [Google](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLm1pY3Jvc29mdGNsb3Vkc2hvdy5jb20vbWljcm9zb2Z0Y2xvdWRzaG93ZXBpc29kZXM) | [Web](https://www.microsoftcloudshow.com/)
+| MS Dev Show | [Apple](https://podcasts.apple.com/us/podcast/ms-dev-show/id862879925) | [Spotify](https://open.spotify.com/show/1qI8weFZGUfc76bKaEoFaB) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9tc2RldnNob3cubGlic3luLmNvbS9yc3M) | [Web](https://msdevshow.com/)
+| RunAs Radio | [Apple](https://podcasts.apple.com/us/podcast/runas-radio/id253682066) | [Spotify](https://open.spotify.com/show/1BTeVQZQEsQz7JUEohaK8k) | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1ydW5hc3JhZGlvJmZpbGV0eXBlPW1hc3Rlcg) | [Web](http://www.runasradio.com/)
+| Microsoft Cloud IT Pro Podcast | [Apple](https://podcasts.apple.com/us/podcast/microsoft-cloud-it-pro-podcast/id1226241819) | [Spotify](https://open.spotify.com/show/2W2eFQ9ddEGzKe3qdZ5Ibe) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bWlycm9yLmNvbS9taWNyb3NvZnRjbG91ZGl0cHJvcG9kY2FzdA) | [Web](https://www.msclouditpropodcast.com/podcast-episode/)
 
 ## IBM Cloud Podcasts
 
