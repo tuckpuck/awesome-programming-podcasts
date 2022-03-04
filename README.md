@@ -478,17 +478,11 @@ Podcasts are a great way to stay informed about what's happening in web developm
 
 ## AWS Podcasts
 
-AWS Podcast
-
-[Apple](https://podcasts.apple.com/us/podcast/aws-podcast/id1122785133) | [Spotify](https://open.spotify.com/show/363iMcjThX5KNpfSHPRAjj?si=7_mbCdyJRGKe-cy7n4sDfg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kM2dpaDdqYmZlM2pscS5jbG91ZGZyb250Lm5ldC9hd3MtcG9kY2FzdC5yc3M) | [Web](https://aws.amazon.com/podcasts/aws-podcast/)
-
-DevOps on AWS Radio
-
-[Apple](https://podcasts.apple.com/us/podcast/devops-on-aws-radio/id1211752695) | [Spotify](https://open.spotify.com/show/4PMPJdwxuYDk0HlZedcsJU?si=PyGxPP8FTwWYKYITQokWoQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIzMjc1Njg2OS9zb3VuZHMucnNz) | [Web](https://stelligent.com/category/podcasts/)
-
-AWS TechChat
-
-[Apple](https://podcasts.apple.com/us/podcast/aws-techchat/id1117776582) | [Spotify](https://open.spotify.com/show/6IIjDymiwpNBC5ntDvysU2?si=mmno_XA0Tt2spaZfypjzng) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyODI4Mzk1NS9zb3VuZHMucnNz) | [Web](https://soundcloud.com/user-684142981)
+| Podcast Name | Available on Apple | Available on Spotify | Available on Google Podcasts | Website
+| ------------- | ------------- | ------------ | ------------ | ------------ |
+| AWS Podcast | [Apple](https://podcasts.apple.com/us/podcast/aws-podcast/id1122785133) | [Spotify](https://open.spotify.com/show/363iMcjThX5KNpfSHPRAjj?si=7_mbCdyJRGKe-cy7n4sDfg) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9kM2dpaDdqYmZlM2pscS5jbG91ZGZyb250Lm5ldC9hd3MtcG9kY2FzdC5yc3M) | [Web](https://aws.amazon.com/podcasts/aws-podcast/)
+| DevOps on AWS Radio | [Apple](https://podcasts.apple.com/us/podcast/devops-on-aws-radio/id1211752695) | [Spotify](https://open.spotify.com/show/4PMPJdwxuYDk0HlZedcsJU?si=PyGxPP8FTwWYKYITQokWoQ) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIzMjc1Njg2OS9zb3VuZHMucnNz) | [Web](https://stelligent.com/category/podcasts/)
+| AWS TechChat | [Apple](https://podcasts.apple.com/us/podcast/aws-techchat/id1117776582) | [Spotify](https://open.spotify.com/show/6IIjDymiwpNBC5ntDvysU2?si=mmno_XA0Tt2spaZfypjzng) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjIyODI4Mzk1NS9zb3VuZHMucnNz) | [Web](https://soundcloud.com/user-684142981)
 
 ## Microsoft Azure Podcasts
 
